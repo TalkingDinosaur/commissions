@@ -33,7 +33,7 @@ body {
 	padding: 10px;
 	background-color: #666a80;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-	font-size: 0.9rem;
+	font-size: 1rem;
 }
 .sidebar-item-button:hover {
 	background-color: #797E96;
@@ -78,7 +78,7 @@ body {
 	margin-bottom: 15px;
 }
 #title {
-	font-size: 18px;
+	font-size: 16px;
 }
 .modal {
 	text-align: center;

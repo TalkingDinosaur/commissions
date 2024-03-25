@@ -27,6 +27,7 @@ body {
 	padding-bottom: 10px;
 }
 .sidebar-item-button {
+	display: block;
 	border: none;
 	border-radius: 0.25rem;
 	padding: 10px;
@@ -281,6 +282,7 @@ a:hover, a:active {
 	}
 	.sidebar-item-button {
 		font-size: 0.8rem;
+		margin-left: 10px;
 	}
 	.img-carousel-responsive {
 		width: 100%;
@@ -350,6 +352,7 @@ a:hover, a:active {
 	}
 	.sidebar-item-button {
 		font-size: 1rem;
+		margin-left: 10px;
 	}
 	.gallery-buttons-container {
 		float: left;
@@ -382,6 +385,7 @@ a:hover, a:active {
 	}
 	.sidebar-item-button {
 		font-size: 0.8rem;
+		display: inline-block;
 	}
 }
 @media (min-width: 1200px) and (max-width: 1399px) {

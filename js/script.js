@@ -40,12 +40,14 @@ $(document).ready(function() {
 			show_all_mode = true;
 		}
 		// Handle when show all mode is turned on
+		// Reset filter and search bar and then show all images
 		$(this).addClass("show-all-button-active");
 		$("#tags-dropdown input[type=checkbox]").each(function() {
 			if($(this).closest("li").hasClass("active")) {
 				this.click();
 			}
 		});
+		document.getElementById("search-bar").value = "";
 		var images = data.images;
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
 		for (var i = 0; i < images.length; i++) {
@@ -159,10 +161,7 @@ function setUpGallery(images, tags, shuffleOrder) {
 			tags.add(image.tags[t]);
 		}
 		// If image is hidden, then don't show it
-		if (image.hidden) {
-			tags_class += " hidden-image"
-		}
-		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img' index='"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' id='img"+index+"' index='"+index+"' class='"+tags_class+"'></a>";
+		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img"+((image.hidden) ? " hidden-image" : "") +"' index='"+index+"' id='img"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' index='"+index+"' class='"+tags_class+"'></a>";
 	}
 	$("#gallery").html(gallery_html);
 
@@ -270,11 +269,6 @@ function createTagsDropdown(tags) {
 	});
 	$("#tags-dropdown").html(tags_dropdown_HTML);
 
-	// By default, hide images with tags
-	for (var tag in tags_to_show) {
-		$("."+tag).hide();
-	}
-
 	// When a checkbox is checked/unchecked in the dropdown menu...
 	$(".checkbox-menu").on("change", "input[type='checkbox']", function() {
 		var tag = $(this)[0].value;
@@ -366,7 +360,7 @@ function showImagesThatMatch() {
 	}
 
 	// Show default images if tags have not been selected in the Filter
-	if (visible_tags.length == 0) {
+	if (visible_tags.length == 0 && !show_all_mode) {
 		showDefaultImages();
 		return;
 	}
@@ -374,31 +368,27 @@ function showImagesThatMatch() {
 	// Then compare it with the tags of each image. If they match, then show. Otherwise, hide.
 	var images = data.images;
 	var search_str = document.getElementById("search-bar").value.toLowerCase();
-	for (var i = 0; i < images.length; i++) {
-		var tags_arr = images[i].tags;
 
-		// The interesection of selected tags and image tags must be the same number of elements as the number of selected tags
-		// This will give danbooru style logic where an image must include the selected tags
-		if (intersect(visible_tags, tags_arr).length == visible_tags.length) {
-			if (search_str == "") {
-				$("#img"+i).show();
-			}
-			else {
-				// The search bar is not empty, so check the data fields for matches
-				if (images[i].title.toLowerCase().includes(search_str)
-					|| images[i].desc.toLowerCase().includes(search_str)
-					|| images[i].artist.toLowerCase().includes(search_str)) {
-					$("#img"+i).show();
-				}
-				else {
-					$("#img"+i).hide();
-				}
-			}
-		}
-		else {
-			$("#img"+i).hide();
+	if (show_all_mode) {
+		for (var i = 0; i < images.length; i++) {
+			searchCheck(search_str, i, images);
 		}
 	}
+	else {
+		for (var i = 0; i < images.length; i++) {
+			var tags_arr = images[i].tags;
+
+			// The interesection of selected tags and image tags must be the same number of elements as the number of selected tags
+			// This will give danbooru style logic where an image must include the selected tags
+			if (intersect(visible_tags, tags_arr).length == visible_tags.length) {
+				searchCheck(search_str, i, images);
+			}
+			else {
+				$("#img"+i).hide();
+			}
+		}
+	}
+	
 
 	// Hide hidden images no matter what
 	$(".hidden-image").hide();
@@ -427,20 +417,7 @@ function showDefaultImages() {
 
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
 		if (default_tag_combos_strs.includes(tags_str)) {
-			if (search_str == "") {
-				$("#img"+i).show();
-			}
-			else {
-				// The search bar is not empty, so check the data fields for matches
-				if (images[i].title.toLowerCase().includes(search_str)
-					|| images[i].desc.toLowerCase().includes(search_str)
-					|| images[i].artist.toLowerCase().includes(search_str)) {
-					$("#img"+i).show();
-				}
-				else {
-					$("#img"+i).hide();
-				}
-			}
+			searchCheck(search_str, i, images);
 		}
 		else {
 			$("#img"+i).hide();
@@ -471,5 +448,22 @@ function ageVerification() {
 	}
 	else {
 		localStorage.setItem("ageVerified", "verified")
+	}
+}
+
+function searchCheck(search_str, image_index, images) {
+	if (search_str == "") {
+		$("#img"+image_index).show();
+	}
+	else {
+		// The search bar is not empty, so check the data fields for matches
+		if (images[image_index].title.toLowerCase().includes(search_str)
+			|| images[image_index].desc.toLowerCase().includes(search_str)
+			|| images[image_index].artist.toLowerCase().includes(search_str)) {
+			$("#img"+image_index).show();
+		}
+		else {
+			$("#img"+image_index).hide();
+		}
 	}
 }

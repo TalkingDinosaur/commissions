@@ -278,11 +278,10 @@ a:hover, a:active {
 		float: left;
 	}
 	.sidebar-item:not(:last-child) {
-		margin-right: 4px;
+		margin-right: 1rem;
 	}
 	.sidebar-item-button {
 		font-size: 0.8rem;
-		margin-left: 10px;
 	}
 	.img-carousel-responsive {
 		width: 100%;

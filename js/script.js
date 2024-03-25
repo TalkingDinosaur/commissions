@@ -242,6 +242,7 @@ function translateWord(word) {
 		fire_emblem: "Fire Emblem",
 		larcei: "Larcei",
 		seliph: "Seliph",
+		fir: "Fir",
 		ayra: "Ayra",
 		sfw: "SFW",
 		nsfw: "NSFW"

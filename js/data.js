@@ -109,6 +109,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l4necvdpzg4.jpg", "https://cdn.imgchest.com/files/my2pcrvgqx7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necvdpzg4.jpg",
+			title: "Fir and Larcei",
+			artist: "aquiadok",
+			artist_url: "https://twitter.com/aquiadokverse",
+			art_url: null,
+			desc: "Fir and Larcei poggers",
+			date_str: "September 2001",
+			tags: ["fire_emble", "larcei", "fir", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

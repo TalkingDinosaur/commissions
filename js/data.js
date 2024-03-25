@@ -7,9 +7,9 @@ var data = {
 			artist: "Placeholder Entry",
 			artist_url: null,
 			art_url: null,
-			desc: "Placeholder Entry",
+			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: [""],
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "patty", "sfw", "nsfw"],
 			hidden: true
 		},
 		{

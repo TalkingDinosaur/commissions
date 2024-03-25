@@ -32,6 +32,7 @@ body {
 	padding: 10px;
 	background-color: #666a80;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+	font-size: 1rem;
 }
 .sidebar-item-button:hover {
 	background-color: #797E96;
@@ -194,6 +195,22 @@ a:hover, a:active {
 	cursor: pointer;
 	color: white;
 }
+.show-all-button {
+	float: left;
+	margin-left: 10px;
+	width: 105px;
+	color: white;
+	border: none;
+	padding: 0.4375rem 0.75rem;
+	border-radius: 0.25rem;
+	background-color: #666a80;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.show-all-button:hover {
+	background-color: #797E96;
+	cursor: pointer;
+	color: white;
+}
 .accordion-button {
 	background-color: #666a80;
 	color: white;
@@ -255,6 +272,9 @@ a:hover, a:active {
 	}
 	.sidebar-item:not(:last-child) {
 		margin-right: 4px;
+	}
+	.sidebar-item-button {
+		font-size: 0.8rem;
 	}
 	.img-carousel-responsive {
 		width: 100%;
@@ -322,6 +342,9 @@ a:hover, a:active {
 		justify-content: center; /* align horizontal */
 		align-items: center; /* align vertical */
 	}
+	.sidebar-item-button {
+		font-size: 1rem;
+	}
 	.gallery-buttons-container {
 		float: left;
 	}
@@ -351,6 +374,9 @@ a:hover, a:active {
 	.sidebar-item-inner {
 		width: 100%;
 	}
+	.sidebar-item-button {
+		font-size: 0.8rem;
+	}
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
 	/* Large devices (desktops, 992px and up) */
@@ -362,6 +388,9 @@ a:hover, a:active {
 		-webkit-column-count: 4; /* Chrome, Safari, Opera */
 		-moz-column-count: 4; /* Firefox */
 		column-count: 4;
+	}
+	.sidebar-item-button {
+		font-size: 0.8rem;
 	}
 }
 @media (min-width: 1400px) {

@@ -3,6 +3,8 @@ var series_link_clicked = false;
 var series_link_clicked_index = null;
 // Keeps track of tags and which images to show - used in ready()'s shuffle function and createTagsDropdown()
 var tags_to_show = {};
+// Keeps track if Show All mode is on
+var show_all_mode = false;
 
 // When the document finished loading and is ready...
 $(document).ready(function() {
@@ -19,8 +21,27 @@ $(document).ready(function() {
 	$("#shuffle").click(function() {
 		setUpGallery(images, tags, true);
 
-		// Show only the images that need to be shown (filtering by tags)
-		showImagesThatMatch();
+		if (!show_all_mode) {
+			// Show only the images that need to be shown (filtering by tags)
+			showImagesThatMatch();
+		}
+	});
+
+	// Shows all images and resets the Filter
+	$("#show-all").click(function() {
+		show_all_mode = true
+		$("#tags-dropdown input[type=checkbox]").each(function() {
+			if($(this).closest("li").hasClass("active")) {
+				this.click();
+			}
+		});
+		var images = data.images;
+		var search_str = document.getElementById("search-bar").value.toLowerCase();
+		for (var i = 0; i < images.length; i++) {
+			$("#img"+i).show();
+		}
+		$(".hidden-image").hide();
+		updateImageCountLabel();
 	});
 
 	// Handle closing the modal when the back button is clicked
@@ -250,6 +271,9 @@ function createTagsDropdown(tags) {
 		// Mark the tag in the map to true if checked and false if unchecked
 		$(this).closest("li").toggleClass("active", this.checked);
 		if ($(this).closest("li").hasClass("active")) {
+			// Disable show all mode when the user selects a tag from the dropdown
+			// Disabling only at this step allows the user to shuffle when in show all mode without resetting
+			show_all_mode = false
 			tags_to_show[tag] = true;
 		}
 		else {
@@ -316,8 +340,8 @@ function backButtonHideModal() {
 	});
 }
 
-// Filters images by tags and search using 'AND' logic.
-// The image must have exactly the tags that are specified by the filter
+// Filters images by tags and search using danbooru logic.
+// The image must include the tags indicated in the dropdown
 // AND
 // The image must also have the search term in one of the fields to be shown.
 function showImagesThatMatch() {
@@ -341,6 +365,8 @@ function showImagesThatMatch() {
 	for (var i = 0; i < images.length; i++) {
 		var tags_arr = images[i].tags;
 
+		// The interesection of selected tags and image tags must be the same number of elements as the number of selected tags
+		// This will give danbooru style logic where an image must include the selected tags
 		if (intersect(visible_tags, tags_arr).length == visible_tags.length) {
 			if (search_str == "") {
 				$("#img"+i).show();
@@ -408,6 +434,7 @@ function showDefaultImages() {
 			$("#img"+i).hide();
 		}
 	}
+	$(".hidden-image").hide();
 	updateImageCountLabel();
 }
 
@@ -420,9 +447,17 @@ function intersect(a, b) {
 }
 
 function ageVerification() {
+	if (localStorage.getItem("ageVerified") && localStorage.getItem("ageVerified") == "verified") {
+		return;
+	}
+
 	var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
 	// Set the checkbox to unchecked if Cancel was selected instead of OK
 	if (!nsfw_confirmation) {
 		window.location.replace("https://www.youtube.com/watch?v=dVKxTywjVEw");
+		localStorage.setItem("ageVerified", "notVerified")
+	}
+	else {
+		localStorage.setItem("ageVerified", "verified")
 	}
 }

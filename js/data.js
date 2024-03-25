@@ -117,7 +117,7 @@ var data = {
 			art_url: null,
 			desc: "Fir and Larcei poggers",
 			date_str: "September 2001",
-			tags: ["fire_emble", "larcei", "fir", "sfw"],
+			tags: ["fire_emblem", "larcei", "fir", "nsfw"],
 			hidden: false
 		},
 		{

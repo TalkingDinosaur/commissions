@@ -33,7 +33,7 @@ body {
 	padding: 10px;
 	background-color: #666a80;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-	font-size: 1rem;
+	font-size: 0.9rem;
 }
 .sidebar-item-button:hover {
 	background-color: #797E96;

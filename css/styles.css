@@ -211,6 +211,12 @@ a:hover, a:active {
 	cursor: pointer;
 	color: white;
 }
+.show-all-button-active {
+	background-color: #9c489c;
+}
+.show-all-button-active:hover {
+	background-color: #ad50ad;
+}
 .accordion-button {
 	background-color: #666a80;
 	color: white;

@@ -29,7 +29,18 @@ $(document).ready(function() {
 
 	// Shows all images and resets the Filter
 	$("#show-all").click(function() {
-		show_all_mode = true
+		if (show_all_mode) {
+			// Toggle of show all mode which will revert to default images
+			show_all_mode = false;
+			$(this).removeClass("show-all-button-active");
+			showDefaultImages();
+			return;
+		}
+		else {
+			show_all_mode = true;
+		}
+		// Handle when show all mode is turned on
+		$(this).addClass("show-all-button-active");
 		$("#tags-dropdown input[type=checkbox]").each(function() {
 			if($(this).closest("li").hasClass("active")) {
 				this.click();
@@ -273,7 +284,8 @@ function createTagsDropdown(tags) {
 		if ($(this).closest("li").hasClass("active")) {
 			// Disable show all mode when the user selects a tag from the dropdown
 			// Disabling only at this step allows the user to shuffle when in show all mode without resetting
-			show_all_mode = false
+			show_all_mode = false;
+			$("#show-all").removeClass("show-all-button-active");
 			tags_to_show[tag] = true;
 		}
 		else {

@@ -14,7 +14,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cl6a294.png"],
-			thumbnail: "https://cdn.imgchest.com/files/myd5cl6a294.png",
+			thumbnail: "https://cdn.imgchest.com/files/3yrgc6nqvd4.png",
 			title: "Larcei Thunder Mage",
 			artist: "AcrylicStroke",
 			artist_url: "https://twitter.com/AcrylicStroke",
@@ -26,7 +26,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3c3m9rk4.png", "https://cdn.imgchest.com/files/g4z9cx56ep7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/wye3c3m9rk4.png",
+			thumbnail: "https://cdn.imgchest.com/files/k739c3xal97.png",
 			title: "Seliph Masturbation",
 			artist: "AthosArt",
 			artist_url: "https://twitter.com/AthosArt",

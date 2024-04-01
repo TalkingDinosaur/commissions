@@ -225,6 +225,7 @@ function setUpGallery(images, tags, shuffleOrder) {
 			$("#imageModalDesc").html(getModalDescText(images[index]));
 			enableImageSeriesLinks();
 			//enableTooltips();
+			$("#imageModal").modal("show", $(this));
 		});
 	}
 	updateImageCountLabel();

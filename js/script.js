@@ -243,7 +243,7 @@ function translateWord(word) {
 		fire_emblem: "Fire Emblem",
 		porkymon: "Porkymon",
 		rune_factory: "Rune Factory",
-		other: "Other",
+		other_series: "Other Series",
 		larcei: "Larcei",
 		seliph: "Seliph",
 		patty: "Patty",
@@ -258,6 +258,7 @@ function translateWord(word) {
 		thrasir: "Thrasir",
 		ganglot: "Ganglot",
 		embla: "Embla",
+		other_character: "Other Character",
 		doujin: "Doujin",
 		sfw: "SFW",
 		nsfw: "NSFW"

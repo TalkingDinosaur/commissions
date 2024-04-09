@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["fire_emblem", "porkymon", "rune_factory", "other", "larcei", "seliph", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "doujin", "sfw", "nsfw"],
+			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "other_character", "doujin", "sfw", "nsfw"],
 			hidden: true
 		},
 		{

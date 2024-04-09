@@ -241,10 +241,24 @@ function updateImageCountLabel() {
 function translateWord(word) {
 	var translations = {
 		fire_emblem: "Fire Emblem",
+		porkymon: "Porkymon",
+		rune_factory: "Rune Factory",
+		other: "Other",
 		larcei: "Larcei",
 		seliph: "Seliph",
-		fir: "Fir",
+		patty: "Patty",
+		shannan: "Shannan",
+		lana: "Lana",
+		scathach: "Scathach",
+		julia: "Julia",
 		ayra: "Ayra",
+		fir: "Fir",
+		peri: "Peri",
+		hel: "Hel",
+		thrasir: "Thrasir",
+		ganglot: "Ganglot",
+		embla: "Embla",
+		doujin: "Doujin",
 		sfw: "SFW",
 		nsfw: "NSFW"
 	};

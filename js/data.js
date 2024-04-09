@@ -38,7 +38,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdc95lxn4.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/84jdc95lxn4.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cdxwjv7.jpg",
 			title: "Larcei & Seliph Summer Festival 1",
 			artist: "Aquiadok",
 			artist_url: "https://twitter.com/aquiadokverse",
@@ -50,7 +50,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9cn9wkm4.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/pyq9cn9wkm4.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc6owb67.jpg",
 			title: "Tomboy Tavern",
 			artist: "Aquiadok",
 			artist_url: "https://twitter.com/aquiadokverse",
@@ -62,7 +62,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l4necvdpgg4.png", "https://cdn.imgchest.com/files/p7bwco5za97.png"],
-			thumbnail: "https://cdn.imgchest.com/files/l4necvdpgg4.png",
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcn3box7.png",
 			title: "Lana & Patty Reference sheet",
 			artist: "AthosArt",
 			artist_url: "https://twitter.com/AthosArt",
@@ -74,7 +74,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/w7w6cod3wzy.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
 			artist: "Aqrisu",
 			artist_url: "https://twitter.com/Aqrisu",
@@ -86,7 +86,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7kzc3qjp97.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/j7kzc3qjp97.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/myd5cblrow4.jpg",
 			title: "Larcei found some panties",
 			artist: "Aquiadok",
 			artist_url: "https://twitter.com/aquiadokverse",
@@ -98,7 +98,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l7lxc28qaz7.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/l7lxc28qaz7.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/b49zczobxvy.jpg",
 			title: "Larcei & Seliph Summer Festival 2",
 			artist: "Aquiadok",
 			artist_url: "https://twitter.com/aquiadokverse",
@@ -110,7 +110,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l4necvdpzg4.jpg", "https://cdn.imgchest.com/files/my2pcrvgqx7.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/l4necvdpzg4.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc6owr37.jpg",
 			title: "Fir and Larcei",
 			artist: "Aquiadok",
 			artist_url: "https://twitter.com/aquiadokverse",

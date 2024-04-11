@@ -63,7 +63,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/l4necvdpgg4.png", "https://cdn.imgchest.com/files/p7bwco5za97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzcn3box7.png",
-			title: "Lana & Patty Reference sheet",
+			title: "Lana & Patty reference sheet",
 			artist: "AthosArt",
 			artist_url: "https://twitter.com/AthosArt",
 			art_url: "https://x.com/MrTD2020/status/1714417100863963451?s=20",
@@ -118,6 +118,42 @@ var data = {
 			desc: "Fir and Larcei appraise each other's ass-ets",
 			date_str: "March 2022",
 			tags: ["fire_emblem", "larcei", "fir", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxc28qez7.png", "https://cdn.imgchest.com/files/l7lxc28qez7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9c6e5gb4.png",
+			title: "Larcei & Seliph reference sheet",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: "https://x.com/MrTD2020/status/1714405585188536349",
+			desc: "My personal reference sheet for Larcei & Seliph. Originally made to simplify their outfits for use in their doujin.",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdc95lk64.png", "https://cdn.imgchest.com/files/myd5cl68qa4.png", "https://cdn.imgchest.com/files/3yrgco2prp4.png", "https://cdn.imgchest.com/files/j7mmc8pdo27.png", "https://cdn.imgchest.com/files/k739cmv2eq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcbjwnw4.png",
+			title: "Larcei & Seliph stealth fellatio",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: null,
+			desc: "Julia is concerned about her brother's wellbeing. huhuhu",
+			date_str: "October 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6codabdy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc6dgn37.png",
+			title: "Lana, Larcei, and Patty Flash",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: null,
+			desc: "Original reference for the body types and pubic hair shapes of my trio of girls.",
+			date_str: "July 2022",
+			tags: ["fire_emblem", "lana", "larcei", "patty", "nsfw"],
 			hidden: false
 		},
 		{

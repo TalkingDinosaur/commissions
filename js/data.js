@@ -121,7 +121,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/l7lxc28qez7.png", "https://cdn.imgchest.com/files/l7lxc28qez7.png"],
+			src: ["https://cdn.imgchest.com/files/l7lxc28qez7.png", "https://cdn.imgchest.com/files/myd5cl68ql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9c6e5gb4.png",
 			title: "Larcei & Seliph reference sheet",
 			artist: "AthosArt",

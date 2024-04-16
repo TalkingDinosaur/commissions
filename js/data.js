@@ -57,7 +57,7 @@ var data = {
 			art_url: null,
 			desc: "A collaboration commission between friends and associates",
 			date_str: "April 2022",
-			tags: ["fire_emblem", "larcei", "sfw"],
+			tags: ["fire_emblem", "larcei", "sfw", "other_character"],
 			hidden: false
 		},
 		{
@@ -111,13 +111,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/l4necvdpzg4.jpg", "https://cdn.imgchest.com/files/my2pcrvgqx7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjc6owr37.jpg",
-			title: "Fir and Larcei",
+			title: "Fir and Larcei Ass Worship",
 			artist: "Aquiadok",
 			artist_url: "https://twitter.com/aquiadokverse",
 			art_url: null,
 			desc: "Fir and Larcei appraise each other's ass-ets",
 			date_str: "March 2022",
 			tags: ["fire_emblem", "larcei", "fir", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwco5z697.jpg", "https://cdn.imgchest.com/files/w7pjcog3nm7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/k46aczrq9a7.jpg",
+			title: "Lana & Scathach Summer 2022",
+			artist: "Aquiadok",
+			artist_url: "https://twitter.com/aquiadokverse",
+			art_url: null,
+			desc: "Scathach learned what Lana's name backwards meant.",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "lana", "scathach", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -154,6 +166,42 @@ var data = {
 			desc: "Original reference for the body types and pubic hair shapes of my trio of girls.",
 			date_str: "July 2022",
 			tags: ["fire_emblem", "lana", "larcei", "patty", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogcnomg8y.png", "https://cdn.imgchest.com/files/j7kzc3qjd97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6crk2apy.png",
+			title: "Larcei & Seliph Maid Cafe",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: "https://x.com/AthosArt/status/1678839773840932865",
+			desc: "Seliph and Larcei are slacking off at their new job.",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdc63wkky.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739c3qx2o7.png",
+			title: "Larcei & Seliph's legs",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: "https://x.com/AthosArt/status/1692227493581742238",
+			desc: "How nice of Seliph to help Larcei reach something off the top shelf.",
+			date_str: "August 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcodqm2y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmc5b9dq7.png",
+			title: "Brigid caught Dew peeping",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: null,
+			desc: "Proof of concept for a doujin I have planned of Brigid x Dew.",
+			date_str: "January 2023",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

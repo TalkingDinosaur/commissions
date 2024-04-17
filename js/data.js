@@ -265,6 +265,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyvdc63k9jy.png", "https://cdn.imgchest.com/files/6yxkc2ewxe7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcbrpwk4.png",
+			title: "Larcei's Holy Blood Quest 1",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1349877402210471941",
+			desc: "My very first series of comms where I had Larcei 'collect holy blood' with the idea she'll get stronger.",
+			date_str: "January 2021",
+			tags: ["fire_emblem", "larcei", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9c6jl554.png", "https://cdn.imgchest.com/files/myd5cbwaz94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xceb2qp7.png",
+			title: "Larcei's Holy Blood Quest 2",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1356111495969480707",
+			desc: "",
+			date_str: January 2021"",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgc6qjkw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xcpz52l4.png",
+			title: "Larcei's Holy Blood Quest 3",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1372014202294964232",
+			desc: "",
+			date_str: "March 2021",
+			tags: ["fire_emblem", "larcei", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgc6qjzd4.png", "https://cdn.imgchest.com/files/d7ogcv268ay.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcngjo94.png",
+			title: "Larcei's Holy Blood Quest 4",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1383801544982761480",
+			desc: "",
+			date_str: "April 2021",
+			tags: ["fire_emblem", "larcei", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

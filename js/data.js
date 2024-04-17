@@ -205,6 +205,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xc8ojnz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4nec59n6q4.png",
+			title: "Larcei keeping the kids warm",
+			artist: "Arktoons",
+			artist_url: "https://twitter.com/arktoons",
+			art_url: "https://x.com/arktoons/status/1620889334877663232",
+			desc: "",
+			date_str: "January 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xcwxrvx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zczj989y.png",
+			title: "Larcei wants Seliph to take it back off",
+			artist: "Arktoons",
+			artist_url: "https://twitter.com/arktoons",
+			art_url: null,
+			desc: "",
+			date_str: "May 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzc3qkla7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcbmpkq7.jpg",
+			title: "Larcei got a new shirt",
+			artist: "1340smile",
+			artist_url: "https://twitter.com/1340Smile",
+			art_url: "https://x.com/1340Smile/status/1514257103480713218",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6cod3k5y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkc2ewbe7.png",
+			title: "Larcei & Seliph at the library 1",
+			artist: "1Asiate",
+			artist_url: "https://twitter.com/1Asiate",
+			art_url: "https://x.com/1Asiate/status/1710798507618005454",
+			desc: "",
+			date_str: "October 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3c3mqe34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyvdc63kajy.png",
+			title: "Larcei & Seliph at the library 2",
+			artist: "1Asiate",
+			artist_url: "https://twitter.com/1Asiate",
+			art_url: "https://x.com/1Asiate/status/1760776454491537606",
+			desc: "",
+			date_str: "February 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -271,7 +271,7 @@ var data = {
 			artist: "Atramada",
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://x.com/Atramada1/status/1349877402210471941",
-			desc: "My very first series of comms where I had Larcei collect *holy blood* with the idea she'll get stronger.",
+			desc: "My very first series of comms where I had Larcei collect \"holy blood\" with the idea she'll get stronger. lol",
 			date_str: "January 2021",
 			tags: ["fire_emblem", "larcei", "other_character", "nsfw"],
 			hidden: false
@@ -310,6 +310,18 @@ var data = {
 			desc: "",
 			date_str: "April 2021",
 			tags: ["fire_emblem", "larcei", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcpz5gq4.png", "https://cdn.imgchest.com/files/345xceb2mq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkc28bkm7.png",
+			title: "Larcei's Holy Blood Quest 4",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1415731828925763585",
+			desc: "",
+			date_str: "July 2021",
+			tags: ["fire_emblem", "larcei", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

@@ -284,7 +284,7 @@ var data = {
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://x.com/Atramada1/status/1356111495969480707",
 			desc: "",
-			date_str: January 2021"",
+			date_str: "January 2021",
 			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
 			hidden: false
 		},

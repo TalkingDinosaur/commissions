@@ -271,7 +271,7 @@ var data = {
 			artist: "Atramada",
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://x.com/Atramada1/status/1349877402210471941",
-			desc: "My very first series of comms where I had Larcei 'collect holy blood' with the idea she'll get stronger.",
+			desc: "My very first series of comms where I had Larcei collect *holy blood* with the idea she'll get stronger.",
 			date_str: "January 2021",
 			tags: ["fire_emblem", "larcei", "other_character", "nsfw"],
 			hidden: false

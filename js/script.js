@@ -417,23 +417,11 @@ function showImagesThatMatch() {
 function showDefaultImages() {
 	var images = data.images;
 
-	var default_tag_combos = [
-		["fire_emblem", "larcei", "sfw"],
-		["fire_emblem", "seliph", "sfw"],
-		["fire_emblem", "larcei", "seliph", "sfw"]
-	];
-
-	var default_tag_combos_strs = [];
-	for (var i = 0; i < default_tag_combos.length; i++) {
-		default_tag_combos_strs.push(default_tag_combos[i].sort().toString());
-	}
-
 	for (var i = 0; i < images.length; i++) {
-		var tags_arr = images[i].tags.sort();
-		var tags_str = tags_arr.toString();
+		var tags_arr = images[i].tags;
 
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
-		if (default_tag_combos_strs.includes(tags_str)) {
+		if ((tags_arr.includes("larcei") || tags_arr.includes("seliph")) && tags_arr.includes("sfw")) {
 			searchCheck(search_str, i, images);
 		}
 		else {

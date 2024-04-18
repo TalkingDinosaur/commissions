@@ -457,6 +457,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6yxkc288z37.png", "https://cdn.imgchest.com/files/l4nec5ddgz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc6ggqz7.png",
+			title: "Nova's carpet matches the drapes",
+			artist: "BadLavender",
+			artist_url: "https://twitter.com/LavenderBad",
+			art_url: "https://x.com/LavenderBad/status/1723493063471817039",
+			desc: "I LOVE HAIRY PUSSY RAAAAAAA",
+			date_str: "November 2023",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

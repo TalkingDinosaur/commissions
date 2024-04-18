@@ -133,6 +133,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcb5a5k4.jpg", "https://cdn.imgchest.com/files/myd5cb6w634.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgc62qlk4.jpg",
+			title: "Patty's Bargain Concept",
+			artist: "Aquiadok",
+			artist_url: "https://twitter.com/aquiadokverse",
+			art_url: null,
+			desc: "Prototype cover for \"Patty's Bargain\". I originally planned to have Aquiadok illustrate the doujin but real life complications had him step down as illustrator. BurgersNShakes was eventually assigned to the doujin and would deliver beyond my expectations.",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "patty", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxc28qez7.png", "https://cdn.imgchest.com/files/myd5cl68ql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9c6e5gb4.png",
 			title: "Larcei & Seliph reference sheet",
@@ -382,6 +394,66 @@ var data = {
 			desc: "",
 			date_str: "February 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cbwa9l4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zczdjjry.png",
+			title: "Peri & Kronya",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1317325729500033024",
+			desc: "I can't believe IS never gave these two a Harmonic together.",
+			date_str: "October 2020",
+			tags: ["fire_emblem", "peri", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzcn6k997.png", "https://cdn.imgchest.com/files/my2pc6me3x7.png", "https://cdn.imgchest.com/files/l7lxc6v5jz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46aczxrr37.png",
+			title: "What's going on behind Bernadetta's door?",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1363637866312601602",
+			desc: "A gift to Ylae Animations for their Bernadetta animation.",
+			date_str: "",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcbae2n4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkc28ee67.png",
+			title: "Larcei with Seliph's cape",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1585645916882489346",
+			desc: "",
+			date_str: "October 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3cbeqjq4.png", "https://cdn.imgchest.com/files/g4z9cdgzn67.png", "https://cdn.imgchest.com/files/e4gdcngjlk4.png", "https://cdn.imgchest.com/files/my8xcpz5wz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyvdc6m33ky.png",
+			title: "Lana's Hidden Strength",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1455205464031969282",
+			desc: "My first prototype doujin, I wanted to experiment with this one as I had never produced a doujin hence its short length. I storyboarded the pages and Atra illustrated them. We all have to start somewhere.",
+			date_str: "November 2021",
+			tags: ["fire_emblem", "lana", "scathach", "larcei", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcpozbp4.png", "https://cdn.imgchest.com/files/345xcexbl97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6crdkkpy.png",
+			title: "Fire Emblem Beach Collab 2022",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1521709366789160960",
+			desc: "A collaboration commission between friends.",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "larcei", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

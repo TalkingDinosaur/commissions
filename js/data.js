@@ -601,6 +601,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6yxkcgkm6p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cwkn6p7.png",
+			title: "Lissa lingerie seggs",
+			artist: "Beck",
+			artist_url: "https://twitter.com/ViewtifulBeck",
+			art_url: null,
+			desc: "Gift for a friend.",
+			date_str: "October 2021",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcdrw8d7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcpolka4.jpg",
+			title: "The hunter becomes the hunted 1",
+			artist: "BigFck",
+			artist_url: "https://twitter.com/erosteam3315",
+			art_url: "https://x.com/erosteam3315/status/1680413630838329345",
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcj3r564.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cwknbp7.jpg",
+			title: "The hunter becomes the hunted 2",
+			artist: "BigFck",
+			artist_url: "https://twitter.com/erosteam3315",
+			art_url: "https://x.com/MrTD2020/status/1715773406459957398",
+			desc: "",
+			date_str: "October 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

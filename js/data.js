@@ -457,6 +457,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k46aczxxqx7.png", "https://cdn.imgchest.com/files/pyvdc6mmwly.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcr39v97.png",
+			title: "Seliph's warm gift for Larcei",
+			artist: "BadLavender",
+			artist_url: "BadLavender",
+			art_url: "https://x.com/LavenderBad/status/1524132167080587264",
+			desc: "",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcbaa5r4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgczann94.png",
+			title: "Larcei presents a creampie",
+			artist: "BadLavender",
+			artist_url: "https://twitter.com/LavenderBad",
+			art_url: "https://x.com/LavenderBad/status/1560370954403868672",
+			desc: "",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcpoonj4.png", "https://cdn.imgchest.com/files/345xcexxvl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcbwp6v7.png",
+			title: "Larcei Paizuri 1",
+			artist: "BadLavender",
+			artist_url: "https://twitter.com/LavenderBad",
+			art_url: "https://x.com/LavenderBad/status/1642995393125310464",
+			desc: "",
+			date_str: "April 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkc288z37.png", "https://cdn.imgchest.com/files/l4nec5ddgz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjc6ggqz7.png",
 			title: "Nova's carpet matches the drapes",
@@ -465,6 +501,18 @@ var data = {
 			art_url: "https://x.com/LavenderBad/status/1723493063471817039",
 			desc: "I LOVE HAIRY PUSSY RAAAAAAA",
 			date_str: "November 2023",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acb3llm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5crgeod4.png",
+			title: "Hikaru's kiss for Nova",
+			artist: "BadLavender",
+			artist_url: "https://twitter.com/LavenderBad",
+			art_url: "https://x.com/LavenderBad/status/1784288801277227283",
+			desc: "",
+			date_str: "April 2024",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -480,5 +528,6 @@ var data = {
 			tags: [""],
 			hidden: true
 		}
+		
 	]
 };

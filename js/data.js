@@ -541,6 +541,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/myd5crgxze4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apc3wkno4.png",
+			title: "Larcei & Seliph Onsen",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1599115257070649344",
+			desc: "",
+			date_str: "December 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgczawkr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc9qgn37.png",
+			title: "Lana & Scathach Onsen",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1669425192278589440",
+			desc: "",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcr3lwz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xck2w934.png",
+			title: "Patty & Shannan Onsen",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1727768538339815694",
+			desc: "",
+			date_str: "November 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

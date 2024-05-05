@@ -577,6 +577,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9ce2pem4.png", "https://cdn.imgchest.com/files/myd5crgxrl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcdrw5z7.png",
+			title: "Larcei Presenting 2",
+			artist: "BBK13zK",
+			artist_url: "https://twitter.com/bbk13z",
+			art_url: "https://x.com/bbk13z/status/1445597807407087623",
+			desc: "",
+			date_str: "September 2021",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgczawz64.png", "https://cdn.imgchest.com/files/j7mmcr3lrr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcodxex7.png",
+			title: "Larcei & Seliph Astra infused babymaking",
+			artist: "BBK13zK",
+			artist_url: "https://twitter.com/bbk13z",
+			art_url: "https://x.com/MrTD2020/status/1725561617272971280",
+			desc: "They don't call it a \"Genealogy\" for nothing...",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

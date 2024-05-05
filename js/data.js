@@ -517,6 +517,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d7ogckwb6ly.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcj3vob4.jpg",
+			title: "Larcei Presenting 1",
+			artist: "Bardo",
+			artist_url: "https://twitter.com/BardoPlus",
+			art_url: "https://x.com/BardoPlus/status/1580314632107229186",
+			desc: "",
+			date_str: "October 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjcwdq2z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgczanm34.png",
+			title: "Larcei & Seliph under a tree 1",
+			artist: "Bardo",
+			artist_url: "https://twitter.com/BardoPlus",
+			art_url: "https://x.com/BardoPlus/status/1582594887295246336",
+			desc: "",
+			date_str: "October 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

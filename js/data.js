@@ -637,6 +637,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9cerqvg4.png", "https://cdn.imgchest.com/files/myd5crv2mp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcdmb5w7.png",
+			title: "Dommy Mommy from Hel",
+			artist: "BlankCanvas",
+			artist_url: "https://www.pixiv.net/en/users/33428754",
+			art_url: "https://x.com/MrTD2020/status/1722093275799253030",
+			desc: "The swimsuit design for her was based off of fanart someone made of a Summer Hel.",
+			date_str: "September 2020",
+			tags: ["fire_emblem", "hel", "nsfw" ],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xc9o5987.png", "https://cdn.imgchest.com/files/84apc3m83w4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cerqlg4.png",
+			title: "Annoying as Hel",
+			artist: "BlankCanvas",
+			artist_url: "https://www.pixiv.net/en/users/33428754",
+			art_url: "https://www.pixiv.net/en/artworks/88755039",
+			desc: "I love my wife who hates me and wants to kill me.",
+			date_str: "March 2021",
+			tags: ["fire_emblem", "hel", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgczld9o4.png", "https://cdn.imgchest.com/files/j7mmcrkxn57.png", "https://cdn.imgchest.com/files/k739c6lrk67.png", "https://cdn.imgchest.com/files/w7w6cv8wqqy.png", "https://cdn.imgchest.com/files/wye3cdkng84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcbrlke7.png",
+			title: "Thrasir in the summer sun",
+			artist: "BlankCanvas",
+			artist_url: "https://www.pixiv.net/en/users/33428754",
+			art_url: null,
+			desc: "I made the sketch for this comm back in 2020, I don't why it took me so long to have it made.",
+			date_str: "January 2022",
+			tags: ["fire_emblem", "thrasir", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4necm3rmd4.png", "https://cdn.imgchest.com/files/p7bwcdrqdr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcowbe37.png",
+			title: "I'm mommy's favorite toy :)",
+			artist: "BlankCanvas",
+			artist_url: "https://www.pixiv.net/en/users/33428754",
+			art_url: "https://www.pixiv.net/en/artworks/104819102",
+			desc: "Alfonse, me conducting unspeakable sexual acts with the woman that killed your father and almost you is absolutely vital for the success of the Order of Heroes.",
+			date_str: "January 2023",
+			tags: ["fire_emblem", "hel", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acb6dbp7.png", "https://cdn.imgchest.com/files/pyvdcdlqd5y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcjdpem4.png",
+			title: "Ganglot proving her devotion",
+			artist: "BlankCanvas",
+			artist_url: "https://www.pixiv.net/en/users/33428754",
+			art_url: "https://www.pixiv.net/en/artworks/109328207",
+			desc: "",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "hel", "ganglot", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -769,6 +769,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/b49zcv23b5y.jpg", "https://cdn.imgchest.com/files/l4necl8qmr4.jpg", "https://cdn.imgchest.com/files/w7pjckq2kn7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcqzw3v7.jpg",
+			title: "Larcei & Seliph in the living room",
+			artist: "BurgersNShakes",
+			artist_url: "https://twitter.com/Burgersnshakes2",
+			art_url: "https://x.com/MrTD2020/status/1790781817416806534",
+			desc: "The first comm I got featuring Julia's cosmic misfortune of walking in on Larcei & Seliph.",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

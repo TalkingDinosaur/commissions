@@ -697,6 +697,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9cv3bqj4.jpg", "https://cdn.imgchest.com/files/myd5cme9264.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogcxbqbxy.jpg",
+			title: "Larcei Presenting 3",
+			artist: "BLU",
+			artist_url: "https://twitter.com/bllelewd",
+			art_url: null,
+			desc: "",
+			date_str: "August 2021",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcn9qxx7.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjckq8qw7.png",
+			title: "Larcei's new lingerie",
+			artist: "BLU",
+			artist_url: "https://twitter.com/bllelewd",
+			art_url: "https://x.com/MrTD2020/status/1758290029032636750",
+			desc: "",
+			date_str: "February 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

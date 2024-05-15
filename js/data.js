@@ -721,6 +721,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xcqn5ga4.PNG", "https://cdn.imgchest.com/files/345xc8v2mv7.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/k739ckxjnz7.png",
+			title: "Thunder beats Fire",
+			artist: "bluejuniper",
+			artist_url: "https://twitter.com/bluejuniperart",
+			art_url: "https://x.com/bluejuniperart/status/1714304530018370000",
+			desc: "Birthday gift for a friend",
+			date_str: "October 2023",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cmeaxv4.png", "https://cdn.imgchest.com/files/3yrgc9njwd4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcxak5r7.png",
+			title: "Larcei Valentines 2022",
+			artist: "Brikot",
+			artist_url: "https://twitter.com/brikotforsberg",
+			art_url: "https://x.com/brikotforsberg/status/1492692704777625603",
+			desc: "I made chocolate from scratch once, who knew making chocolate was such a delicate process.",
+			date_str: "February 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcn96le7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogcxb65oy.png",
+			title: "Patty from below",
+			artist: "Brikot",
+			artist_url: "https://twitter.com/brikotforsberg",
+			art_url: "https://x.com/brikotforsberg/status/1512542250567405569",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "patty", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cv3lp94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjckq25l7.png",
+			title: "Creidne in lingerie",
+			artist: "Brikot",
+			artist_url: "https://twitter.com/brikotforsberg",
+			art_url: "https://x.com/brikotforsberg/status/1513953015610413065",
+			desc: "I asked Oifeybot for a random FE4 girl to commission and it landed on Creidne.",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

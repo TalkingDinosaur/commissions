@@ -805,6 +805,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/p7bwc2azod7.png", "https://cdn.imgchest.com/files/w7pjckz3ok7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pc52g6g7.png",
+			title: "Larcei blessing Seliph's holy sword with a kiss~",
+			artist: "Cheeso",
+			artist_url: "https://twitter.com/Cheesoart",
+			art_url: "https://x.com/MrTD2020/status/1765427222230532315",
+			desc: "",
+			date_str: "March 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcqejkl4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cvdwv94.jpg",
+			title: "Larcei lycoris challenge",
+			artist: "Cheunart",
+			artist_url: "https://twitter.com/cheunart",
+			art_url: null,
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/g4z9c9e6wa7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc6kl6a4.jpg",
+			title: "Sucking the life out of him like a Hoover vacuum",
+			artist: "Cheunart",
+			artist_url: "https://twitter.com/cheunart",
+			art_url: null,
+			desc: "",
+			date_str: "December 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e4gdcmd6p94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcxeqxk7.jpg",
+			title: "Pour everything into your training!",
+			artist: "Cheunart",
+			artist_url: "https://twitter.com/cheunart",
+			art_url: null,
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

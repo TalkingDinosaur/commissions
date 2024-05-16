@@ -781,6 +781,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/e4gdcmdwrx4.jpg", "https://cdn.imgchest.com/files/my8xcqev8e4.jpg", "https://cdn.imgchest.com/files/345xc86pwz7.jpg", "https://cdn.imgchest.com/files/84apcv6qol4.jpg", "https://cdn.imgchest.com/files/k46acgn8ea7.jpg", "https://cdn.imgchest.com/files/pyvdcnazozy.jpg", "https://cdn.imgchest.com/files/6yxkcqbvom7.jpg", "https://cdn.imgchest.com/files/b49zcvmeo6y.jpg", "https://cdn.imgchest.com/files/l4neclgbvk4.jpg", "https://cdn.imgchest.com/files/p7bwc2a3ow7.jpg", "https://cdn.imgchest.com/files/myd5cmq9ln4.jpg", "https://cdn.imgchest.com/files/3yrgc9rboq4.jpg", "https://cdn.imgchest.com/files/j7mmcnoq8p7.jpg", "https://cdn.imgchest.com/files/k739ckebml7.jpg", "https://cdn.imgchest.com/files/w7w6cqb6owy.jpg", "https://cdn.imgchest.com/files/wye3cgrw354.jpg", "https://cdn.imgchest.com/files/g4z9c9ejdq7.jpg", "https://cdn.imgchest.com/files/e4gdcmdwnx4.jpg", "https://cdn.imgchest.com/files/my8xcqevpe4.jpg", "https://cdn.imgchest.com/files/345xc86pez7.jpg", "https://cdn.imgchest.com/files/84apcv6qbl4.jpg", "https://cdn.imgchest.com/files/k46acgn8za7.jpg", "https://cdn.imgchest.com/files/pyvdcnaz6zy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6cqb65wy.jpg",
+			title: "Patty's Bargain",
+			artist: "BurgersNShakes",
+			artist_url: "https://twitter.com/Burgersnshakes2",
+			art_url: "https://x.com/MrTD2020/status/1707418838953038089",
+			desc: "My first feature length doujin. Before producing this, I never imagined myself having a doujin to my name, it didn't feel real. I'm eternally grateful to my friends for their support and my artist, BNS, for bringing my vision to life with their art.",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "patty", "shannan", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

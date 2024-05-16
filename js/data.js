@@ -787,9 +787,21 @@ var data = {
 			artist: "BurgersNShakes",
 			artist_url: "https://twitter.com/Burgersnshakes2",
 			art_url: "https://x.com/MrTD2020/status/1707418838953038089",
-			desc: "My first feature length doujin. Before producing this, I never imagined myself having a doujin to my name, it didn't feel real. I'm eternally grateful to my friends for their support and my artist, BNS, for bringing my vision to life with their art.",
+			desc: "My first feature length doujin. Before producing this, I never imagined myself having a doujin to my name, it didn't feel real. I'm eternally grateful to my friends for their support and my artist, BurgersNShakes, for bringing my vision to life with their art.",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "patty", "shannan", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogcxgrmmy.jpg", "https://cdn.imgchest.com/files/j7kzcxd9jz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc86px97.jpg",
+			title: "\"You at my side.\"",
+			artist: "Caelum",
+			artist_url: "https://twitter.com/XiiiCaelum",
+			art_url: "https://x.com/XiiiCaelum/status/1752183199407784394",
+			desc: "Inspired by their final chapter conversation. <3 \(Also have a bonus sketch\)",
+			date_str: "January 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

@@ -1021,6 +1021,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/345xc8z8nv7.gif", "https://cdn.imgchest.com/files/k46acgog9o7.gif", "https://cdn.imgchest.com/files/84apcvzvn64.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgc989vp4.gif",
+			title: "Women be shoppin",
+			artist: "CrimboCombo",
+			artist_url: "https://x.com/CrimboComboArt",
+			art_url: "https://x.com/CrimboComboArt/status/1775169019185713194",
+			desc: "",
+			date_str: "April 2024",
+			tags: ["fire_emblem", "larcei", "patty", "lana", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdc6g6ja4.jpg", "https://cdn.imgchest.com/files/pyq9cvzve94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc8z89p7.jpg",
+			title: "Where all his holy blood goes to",
+			artist: "dadio",
+			artist_url: "https://x.com/dadio543",
+			art_url: "https://x.com/dadio543/status/1660345453798408195",
+			desc: "",
+			date_str: "May 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cmkmrv4.png", "https://cdn.imgchest.com/files/3yrgc989zd4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcm2mp94.png",
+			title: "In the dining hall 1",
+			artist: "dadio",
+			artist_url: "https://x.com/dadio543",
+			art_url: "https://x.com/dadio543/status/1682694820794335232",
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcnznre7.png", "https://cdn.imgchest.com/files/k739ckpkkz7.png", "https://cdn.imgchest.com/files/w7w6cqeqq2y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cgxgdr4.png",
+			title: "In the dining hall 2",
+			artist: "dadio",
+			artist_url: "https://x.com/dadio543",
+			art_url: "https://x.com/dadio543/status/1718716730623643766",
+			desc: "",
+			date_str: "October 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

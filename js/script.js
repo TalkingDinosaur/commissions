@@ -258,6 +258,7 @@ function translateWord(word) {
 		thrasir: "Thrasir",
 		ganglot: "Ganglot",
 		embla: "Embla",
+		hex_maniac: "Hex Maniac",
 		other_character: "Other Character",
 		doujin: "Doujin",
 		sfw: "SFW",

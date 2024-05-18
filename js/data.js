@@ -1093,18 +1093,6 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/j7kzcx8ojd7.png", "https://cdn.imgchest.com/files/d7ogcxpqmby.png"],
-			thumbnail: "https://cdn.imgchest.com/files/j7mmcnglkn7.png",
-			title: "Larcei congratulates Seliph on his resplendent",
-			artist: "Decox",
-			artist_url: "https://x.com/decoxart",
-			art_url: "https://x.com/decoxart/status/1509244977578229762",
-			desc: "",
-			date_str: "March 2022",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: false
-		},
-		{
 			src: [""],
 			thumbnail: "",
 			title: "",

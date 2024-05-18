@@ -1075,7 +1075,7 @@ var data = {
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/RyoTsuneVA/status/1726730197628514601",
-			desc: "I was stunned one morning when I got the notification that two people dubbed this commission and it was so beautiful to listen to.<p>You can find the sound/voiced version in the art link~</p>",
+			desc: "I was stunned one morning when I got the notification that two people dubbed this commission and it was so beautiful to listen to. <p>You can find the sound/voiced version in the art link\~</p>",
 			date_str: "August 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
@@ -1087,7 +1087,7 @@ var data = {
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/CinderDryadVA/status/1775662301221433795",
-			desc: "An unbelievable and amazing project conducted by me, DaguDr, CinderDryad, and RyoTsune. This is truly one of the greatest projects I've had the priviliege to organize. :) <p>You can find the sound/voiced version in the art link~</p>",
+			desc: "An unbelievable and amazing project conducted by me, DaguDr, CinderDryad, and RyoTsune. This is truly one of the greatest projects I've had the priviliege to organize. \:\) <p>You can find the sound/voiced version in the art link\~</p>",
 			date_str: "April 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false

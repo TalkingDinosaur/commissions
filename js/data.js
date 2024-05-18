@@ -1107,7 +1107,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/p7bwc2jvel7.png", "https://cdn.imgchest.com/files/l4neclojnp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4neclojre4.png",
-			title: "Patty gets caught \(and is offered a trade~\) 1",
+			title: "Patty gets caught \(and is offered a trade\~\) 1",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: "https://x.com/decoxart/status/1521298896240234497",
@@ -1143,7 +1143,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cgoj9b4.png", "https://cdn.imgchest.com/files/g4z9c93n6w7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3xvb4.png",
-			title: "Patty gets caught \(and is offered a trade~\) 2",
+			title: "Patty gets caught \(and is offered a trade\~\) 2",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: "https://x.com/decoxart/status/1572040775797559296",
@@ -1219,7 +1219,7 @@ var data = {
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: "https://x.com/decoxart/status/1664795641397014530",
-			desc: "This is Nopan, my DB Xenoverse/Breakers OC. She dislikes clothes, especially panties, and doesn't really mind others taking a peek at her when she's less than decent.",
+			desc: "This is Nopan, my DB Xenoverse/Breakers OC. She dislikes clothes, especially panties, and doesn\'t really mind others taking a peek at her when she's less than decent.",
 			date_str: "June 2023",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
@@ -1339,7 +1339,7 @@ var data = {
 			artist: "Deli",
 			artist_url: "https://x.com/Delicious_brain",
 			art_url: null,
-			desc: "",
+			desc: "Collab with a friend.",
 			date_str: "August 2021",
 			tags: ["fire_emblem", "larcei", "fir", "nsfw""],
 			hidden: false

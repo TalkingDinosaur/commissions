@@ -1333,6 +1333,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84apcvlnx34.png", "https://cdn.imgchest.com/files/k46acgv9wg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4neclo2ax4.png",
+			title: "Larcei & Fir double-dildo training",
+			artist: "Deli",
+			artist_url: "https://x.com/Delicious_brain",
+			art_url: null,
+			desc: "",
+			date_str: "August 2021",
+			tags: ["fire_emblem", "larcei", "fir", "nsfw""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

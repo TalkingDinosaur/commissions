@@ -799,7 +799,7 @@ var data = {
 			artist: "Caelum",
 			artist_url: "https://twitter.com/XiiiCaelum",
 			art_url: "https://x.com/XiiiCaelum/status/1752183199407784394",
-			desc: "Inspired by their final chapter conversation. <3 \(Also have a bonus sketch\)",
+			desc: "Inspired by their final chapter conversation. <3 (Also have a bonus sketch)",
 			date_str: "January 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
@@ -1071,7 +1071,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my2pc5akzd7.png", "https://cdn.imgchest.com/files/l7lxcx3pn57.png", "https://cdn.imgchest.com/files/84jdc6zvnl4.png", "https://cdn.imgchest.com/files/pyq9cva3gx4.png", "https://cdn.imgchest.com/files/myd5cm3ejw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ebw4.png",
-			title: "Larcei & Seliph teatime \(Animation\)",
+			title: "Larcei & Seliph teatime (Animation)",
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/RyoTsuneVA/status/1726730197628514601",
@@ -1083,7 +1083,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/k739ck5x9r7.png", "https://cdn.imgchest.com/files/w7w6cqn2lxy.png", "https://cdn.imgchest.com/files/wye3cgo26v4.png", "https://cdn.imgchest.com/files/e4gdcm9xed4.png", "https://cdn.imgchest.com/files/345xc8mv3m7.png", "https://cdn.imgchest.com/files/84apcvl5xd4.png", "https://cdn.imgchest.com/files/k46acgvqw87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdc6zvbl4.png",
-			title: "Larcei vs 3 Seliphs \(Animation\)",
+			title: "Larcei vs 3 Seliphs (Animation)",
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/CinderDryadVA/status/1775662301221433795",

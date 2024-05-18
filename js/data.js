@@ -1315,7 +1315,7 @@ var data = {
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: "https://x.com/MrTD2020/status/1789700449970577492",
-			desc: "Somebody on Twitter asked for \"Lex x Ayra also, tie pulling\" so I decided to grant their wish :) <p>It was also Mother's Day so I decided to add that theme to it too.</p>",
+			desc: "Somebody on Twitter asked for \"Lex x Ayra also, tie pulling\" so I decided to grant their wish \:\) <p>It was also Mother's Day so I decided to add that theme to it too.</p>",
 			date_str: "May 2024",
 			tags: ["fire_emblem", "ayra", "larcei", "other_character", "nsfw"],
 			hidden: false

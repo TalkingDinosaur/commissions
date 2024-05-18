@@ -1069,6 +1069,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my2pc5akzd7.png", "https://cdn.imgchest.com/files/l7lxcx3pn57.png", "https://cdn.imgchest.com/files/84jdc6zvnl4.png", "https://cdn.imgchest.com/files/pyq9cva3gx4.png", "https://cdn.imgchest.com/files/myd5cm3ejw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ebw4.png",
+			title: "Larcei & Seliph teatime \(Animation\)",
+			artist: "DaguDr",
+			artist_url: "https://x.com/DaguDr",
+			art_url: "https://x.com/RyoTsuneVA/status/1726730197628514601",
+			desc: "I was stunned one morning when I got the notification that two people dubbed this commission and it was so beautiful to listen to.<p>You can find the sound/voiced version in the art link~</p>",
+			date_str: "August 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739ck5x9r7.png", "https://cdn.imgchest.com/files/w7w6cqn2lxy.png", "https://cdn.imgchest.com/files/wye3cgo26v4.png", "https://cdn.imgchest.com/files/e4gdcm9xed4.png", "https://cdn.imgchest.com/files/345xc8mv3m7.png", "https://cdn.imgchest.com/files/84apcvl5xd4.png", "https://cdn.imgchest.com/files/k46acgvqw87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc6zvbl4.png",
+			title: "Larcei vs 3 Seliphs \(Animation\)",
+			artist: "DaguDr",
+			artist_url: "https://x.com/DaguDr",
+			art_url: "https://x.com/CinderDryadVA/status/1775662301221433795",
+			desc: "An unbelievable and amazing project conducted by me, DaguDr, CinderDryad, and RyoTsune. This is truly one of the greatest projects I've had the priviliege to organize. :) <p>You can find the sound/voiced version in the art link~</p>",
+			date_str: "April 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

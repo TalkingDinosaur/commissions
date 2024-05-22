@@ -1341,7 +1341,31 @@ var data = {
 			art_url: null,
 			desc: "Collab with a friend.",
 			date_str: "August 2021",
-			tags: ["fire_emblem", "larcei", "fir", "nsfw""],
+			tags: ["fire_emblem", "larcei", "fir", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3cgol6l4.jpg", "https://cdn.imgchest.com/files/g4z9c93mro7.jpg", "https://cdn.imgchest.com/files/e4gdcm98ee4.jpg", "https://cdn.imgchest.com/files/my8xcqg9m84.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcm8pne4.jpg",
+			title: "Larcei & Fir cooperative fellatio",
+			artist: "Deli",
+			artist_url: "https://x.com/Delicious_brain",
+			art_url: null,
+			desc: "Collab with a friend.",
+			date_str: "October 2021",
+			tags: ["fire_emblem", "larcei", "fir", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdcn98pgy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9c9mwdo7.png",
+			title: "Larcei & Fir Hooters gig",
+			artist: "Deli",
+			artist_url: "https://x.com/Delicious_brain",
+			art_url: null,
+			desc: "",
+			date_str: "February 2022",
+			tags: ["fire_emblem", "larcei", "fir", "nsfw"],
 			hidden: false
 		},
 		{

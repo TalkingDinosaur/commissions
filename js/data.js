@@ -1369,6 +1369,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3yrgc9vzpg4.jpg", "https://cdn.imgchest.com/files/l7lxcxzd5g7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgc9vzpg4.jpg",
+			title: "Nopan wakamezake",
+			artist: "Dindakai",
+			artist_url: "https://x.com/dindakai_jpg",
+			art_url: "https://x.com/dindakai_jpg/status/1605730040016039936",
+			desc: "",
+			date_str: "December 2022",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

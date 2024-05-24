@@ -1381,6 +1381,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84apcvx6we4.png", "https://cdn.imgchest.com/files/k46acgwn3j7.png", "https://cdn.imgchest.com/files/pyvdcnpag3y.png", "https://cdn.imgchest.com/files/6yxkcqabk87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acgwnjm7.png",
+			title: "Larcei \"pregnancy\" scare",
+			artist: "Doreko",
+			artist_url: "https://x.com/DorekoNSFW",
+			art_url: "https://x.com/DorekoNSFW/status/1446806632437006336",
+			desc: "",
+			date_str: "October 2021",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjckrazd7.png", "https://cdn.imgchest.com/files/d7ogcxdlg6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pc5lp2j7.png",
+			title: "Ignatz paints Leonie's back",
+			artist: "DrAltruist",
+			artist_url: "https://x.com/DrAltruist",
+			art_url: "https://www.hentai-foundry.com/pictures/user/DrAltruist/993757/CM-Leonie-and-Ignatz",
+			desc: "",
+			date_str: "July 2022",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xc83zkg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9c9ra837.png",
+			title: "Larcei & Seliph handjob",
+			artist: "Ebinku",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://www.pixiv.net/en/artworks/98907003",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcvxzdn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cg6xpx4.png",
+			title: "Larcei Masturbation",
+			artist: "Ebinku",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://www.pixiv.net/en/artworks/99619475",
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

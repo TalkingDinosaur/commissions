@@ -1399,7 +1399,7 @@ var data = {
 			artist: "DrAltruist",
 			artist_url: "https://x.com/DrAltruist",
 			art_url: "https://www.hentai-foundry.com/pictures/user/DrAltruist/993757/CM-Leonie-and-Ignatz",
-			desc: "",
+			desc: "Gift for a friend.",
 			date_str: "July 2022",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
@@ -1426,6 +1426,18 @@ var data = {
 			desc: "",
 			date_str: "September 2022",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkcqanal7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739ckwpmm7.png",
+			title: "Just one more kid...",
+			artist: "Eltonel",
+			artist_url: "https://x.com/EltonelArts",
+			art_url: "https://x.com/EltonelArts/status/1754301862453330252",
+			desc: "",
+			date_str: "January 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

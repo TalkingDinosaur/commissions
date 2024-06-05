@@ -1093,6 +1093,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l7lxcrjlzk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcab33d4.png",
+			title: "Patty & Shannan dynamic",
+			artist: "darkshini",
+			artist_url: "https://x.com/shini_alonzo",
+			art_url: "https://x.com/MrTalkingDino/status/1792704573943238915",
+			desc: "Just a funny lil meme comm",
+			date_str: "May 2024",
+			tags: ["fire_emblem", "patty", "shannan", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzcx8ojd7.png", "https://cdn.imgchest.com/files/d7ogcxpqmby.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcnglkn7.png",
 			title: "Larcei congratulates Seliph on his resplendent",
@@ -1330,6 +1342,18 @@ var data = {
 			desc: "",
 			date_str: "October 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cg9pjv4.jpg", "https://cdn.imgchest.com/files/3yrgcab3gd4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmc3qjje7.jpg",
+			title: "Facing the truth",
+			artist: "Dejavuboy",
+			artist_url: "https://x.com/Diogossaurus",
+			art_url: "https://x.com/Diogossaurus/status/1798164964911292483",
+			desc: "",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},
 		{

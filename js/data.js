@@ -1537,6 +1537,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9c2g2bd4.png", "https://cdn.imgchest.com/files/84jdc3n32v4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xc232354.png",
+			title: "Larcei, Seliph, and the unlocked door...",
+			artist: "Fump",
+			artist_url: "https://x.com/FumpHole",
+			art_url: "https://x.com/FumpHole/status/1498132769716817922",
+			desc: "At the time of writing this, this is the only image result of Oifey on Rule34 lmfao.",
+			date_str: "February 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "shannan", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pcdzd987.png", "https://cdn.imgchest.com/files/l7lxcrnrja7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcqdqdr7.png",
+			title: "Larcei's graceful sleep",
+			artist: "Fump",
+			artist_url: "https://x.com/FumpHole",
+			art_url: "https://x.com/MrTD2020/status/1710377946232553697",
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

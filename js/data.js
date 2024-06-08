@@ -423,7 +423,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcbae2n4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkc28ee67.png",
-			title: "Larcei with Seliph's cape",
+			title: "Larcei with Seliph's cape 1",
 			artist: "Atramada",
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://x.com/Atramada1/status/1585645916882489346",
@@ -1330,6 +1330,18 @@ var data = {
 			desc: "Somebody on Twitter asked for \"Lex x Ayra also, tie pulling\" so I decided to grant their wish :) <p>It was also Mother's Day so I decided to add that theme to it too.</p>",
 			date_str: "May 2024",
 			tags: ["fire_emblem", "ayra", "larcei", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcag95d4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cg9knz7.png",
+			title: "Larcei with Seliph's cape 2",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/1799218366173081672",
+			desc: "",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{

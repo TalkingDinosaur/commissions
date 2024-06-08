@@ -1477,6 +1477,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/myd5cgjmgx4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xc23q5o4.jpg",
+			title: "Hel & Summoner chibi",
+			artist: "EvoManaphy",
+			artist_url: "https://x.com/Evomanaphy",
+			art_url: "https://www.pixiv.net/en/artworks/93951635",
+			desc: "",
+			date_str: "August 2021",
+			tags: ["fire_emblem", "hel", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9c2gvwn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cko9zb7.png",
+			title: "Seliph & Larcei Galaxy Mule",
+			artist: "FehGodly",
+			artist_url: "https://x.com/FehGodly",
+			art_url: null,
+			desc: "",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

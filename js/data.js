@@ -1501,6 +1501,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3yrgcag9mz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcex25x7.png",
+			title: "Larcei is smol",
+			artist: "FirstAid0",
+			artist_url: "https://www.pixiv.net/en/users/570874",
+			art_url: "https://www.pixiv.net/en/artworks/84048133",
+			desc: "",
+			date_str: "August 2020",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcrnxvx7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necnkld24.jpg",
+			title: "Larcei in Langrisser style 1",
+			artist: "Fly",
+			artist_url: "https://www.pixiv.net/en/users/8589237",
+			art_url: "https://www.pixiv.net/en/artworks/96217456",
+			desc: "I'm very fond of the art style of Satoshi Urushihara, but his art style is extremely hard to come by given its unique look. In my endeavors to find artists replicating his style, I've found only about half-a-dozen artists that do it well and take comms.",
+			date_str: "February 2022",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9c2gvjl4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zc9wvdpy.jpg",
+			title: "Reverse bunny suit Larcei",
+			artist: "FraudulentTaco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://www.pixiv.net/en/artworks/116280116",
+			desc: "",
+			date_str: "January 2023",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

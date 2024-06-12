@@ -1561,6 +1561,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d7ogcwkgqwy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9c2ede34.png",
+			title: "Larcei Presenting 4",
+			artist: "gakibaki",
+			artist_url: "https://x.com/gakibakiART",
+			art_url: "https://x.com/gakibakiART/status/1507727608712212489",
+			desc: "",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjcdwz8k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcazrz84.png",
+			title: "Larcei & Seliph sleeping soundly~",
+			artist: "gakibaki",
+			artist_url: "https://x.com/gakibakiART",
+			art_url: "https://x.com/gakibakiART/status/1512874907000090632",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zc9bmz3y.jpg", "https://cdn.imgchest.com/files/l4necnmg5p4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc3jkjx4.jpg",
+			title: "Deirdre & Triandra - Day of the Dead",
+			artist: "GENZOMAN",
+			artist_url: "https://x.com/MrGenzoman",
+			art_url: "https://x.com/MrGenzoman/status/1638598201878913035",
+			desc: "Collab with a former associate.",
+			date_str: "March 2023",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

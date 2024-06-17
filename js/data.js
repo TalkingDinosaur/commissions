@@ -577,6 +577,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/g4z9ckbvgq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmc329dp7.png",
+			title: "The Double Date 1",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1800972860925804671",
+			desc: "",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9ce2pem4.png", "https://cdn.imgchest.com/files/myd5crgxrl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcdrw5z7.png",
 			title: "Larcei Presenting 2",
@@ -1065,6 +1077,18 @@ var data = {
 			art_url: "https://x.com/dadio543/status/1718716730623643766",
 			desc: "",
 			date_str: "October 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zc9r2j6y.png", "https://cdn.imgchest.com/files/p7bwcelkmw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cgax2l7.png",
+			title: "In the dining hall 3",
+			artist: "dadio",
+			artist_url: "https://x.com/dadio543",
+			art_url: "https://x.com/dadio543/status/1802404603360677958",
+			desc: "",
+			date_str: "June 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
@@ -1594,6 +1618,18 @@ var data = {
 			desc: "Collab with a former associate.",
 			date_str: "March 2023",
 			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zc9r2d6y.png", "https://cdn.imgchest.com/files/l4necnx8dk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjcdvqgo7.png",
+			title: "Larcei Summer 2023",
+			artist: "Gintsu",
+			artist_url: "https://x.com/GintsuArtNSFW",
+			art_url: "https://x.com/MrTD2020/status/1713053886569934854",
+			desc: "This outfit was done in trubute to one of Grovekeeper's illustrations of Larcei. They were a fellow Larcei enjoyer, I never got the chance to commission them before they retired. I hope they enjoy the content I produce of Larcei.",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{

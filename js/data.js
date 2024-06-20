@@ -709,6 +709,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7mmc3kaln7.jpg", "https://cdn.imgchest.com/files/k739cglzog7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc3dxm34.jpg",
+			title: "Larcei has two boobs",
+			artist: "BLINK3R",
+			artist_url: "https://x.com/Blnk3r",
+			art_url: "https://x.com/Blnk3r/status/1803643504037421369",
+			desc: "One for Selia and one for Seliph.",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cv3bqj4.jpg", "https://cdn.imgchest.com/files/myd5cme9264.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogcxbqbxy.jpg",
 			title: "Larcei Presenting 3",

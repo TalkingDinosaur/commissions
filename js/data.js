@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "hex_maniac", "other_character", "doujin", "sfw", "nsfw"],
+			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "selia", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "hex_maniac", "other_character", "doujin", "sfw", "nsfw"],
 			hidden: true
 		},
 		{
@@ -1642,6 +1642,78 @@ var data = {
 			desc: "This outfit was done in trubute to one of Grovekeeper's illustrations of Larcei. They were a fellow Larcei enjoyer, I never got the chance to commission them before they retired. I hope they enjoy the content I produce of Larcei.",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcrma6v7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6cz89zby.jpg",
+			title: "Larcei & Seliph under a tree 2",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://x.com/MrTalkingDino/status/1486382111229571072",
+			desc: "",
+			date_str: "January 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdc3dxb54.jpg", "https://cdn.imgchest.com/files/my2pcdwq6o7.jpg", "https://cdn.imgchest.com/files/l7lxcrma6x7.jpg", "https://cdn.imgchest.com/files/84jdc3dxb34.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcqoaqg7.jpg",
+			title: "Always Together",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://x.com/MrTalkingDino/status/1503765429369540616",
+			desc: "Had an idea to make this sort of panoramic of Larcei and Seliph's lives together. It turned out very cute.",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9c2rk6l4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xc2ra2v4.jpg",
+			title: "After the Holy War",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://www.pixiv.net/en/artworks/98181532",
+			desc: "",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcalx6m4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9ck2qk37.png",
+			title: "Pia wants Micah's squid",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://x.com/gouble3/status/1544191686221656065",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["rune_factory", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cgv5b84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcob3ov4.png",
+			title: "Selia dressed in Hikaru's winter clothes",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://x.com/MrTalkingDino/status/1544015598702641152",
+			desc: "",
+			date_str: "July 2022",
+			tags: ["selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3c8kvdx4.png", "https://cdn.imgchest.com/files/g4z9ck2qw37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3c8kv8x4.png",
+			title: "I Want to Tell: If",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://x.com/gouble3/status/1572926186614755329",
+			desc: "What if Micah didn't change into a Wooly when Pia barged into the men's bath? This was meant to be the start of a Rune Factory doujin, but Patty's Bargain began its development in earnest and I didn't return to this project. I should come back to this one day though...",
+			date_str: "September 2022",
+			tags: ["rune_factory", "nsfw"],
 			hidden: false
 		},
 		{

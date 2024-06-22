@@ -246,6 +246,7 @@ function translateWord(word) {
 		other_series: "Other Series",
 		larcei: "Larcei",
 		seliph: "Seliph",
+		selia: "Selia",
 		patty: "Patty",
 		shannan: "Shannan",
 		lana: "Lana",

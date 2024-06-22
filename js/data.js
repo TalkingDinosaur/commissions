@@ -1717,6 +1717,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
+			title: "Larcei wiping some sweat off",
+			artist: "GreenCash",
+			artist_url: "https://x.com/NsfwGreen",
+			art_url: "https://x.com/NsfwGreen/status/1641155240765341703",
+			desc: "",
+			date_str: "March 2023",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

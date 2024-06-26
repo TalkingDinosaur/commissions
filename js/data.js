@@ -1765,6 +1765,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyvdckw3xzy.png", "https://cdn.imgchest.com/files/6yxkcwzepm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcekml97.png",
+			title: "Checking in during Heroes Journey... Again.",
+			artist: "Hmage",
+			artist_url: "https://x.com/TheHmago",
+			art_url: null,
+			desc: "",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogc6b2avy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcka6287.jpg",
+			title: "The King and Queen of Grannvale",
+			artist: "Inkanii",
+			artist_url: "https://x.com/inkanii",
+			art_url: "https://x.com/MrTalkingDino/status/1499066574229016577",
+			desc: "",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -1729,6 +1729,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7kzckazmb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cl3jm84.png",
+			title: "Shantotto's experiment with Prishe",
+			artist: "Hectic",
+			artist_url: "https://x.com/HecticSketchin",
+			art_url: "https://x.com/MrTD2020/status/1713046777971249324",
+			desc: "",
+			date_str: "August 2021",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcjnmeq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdceva8r4.png",
+			title: "How to inform your lord that you like him",
+			artist: "heppari",
+			artist_url: "https://x.com/dwkim1124",
+			art_url: "https://www.pixiv.net/en/artworks/116280291",
+			desc: "",
+			date_str: "January 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmc692ep7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc5pvlj7.png",
+			title: "Kobeni and Violence Fiend",
+			artist: "heppari",
+			artist_url: "https://x.com/dwkim1124",
+			art_url: null,
+			desc: "Copium commission sadge",
+			date_str: "June 2023",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

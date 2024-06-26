@@ -1789,6 +1789,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l4necq899a4.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5caewww4.gif",
+			title: "Julia's Salad",
+			artist: "Jun",
+			artist_url: "https://x.com/JunuNsfw",
+			art_url: "https://x.com/JunuNsfw/status/1673864938870153218",
+			desc: "\"The salad is next.\" -Rule34 commentator",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

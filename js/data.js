@@ -1981,6 +1981,78 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7kzckdlrk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necqg6zp4.png",
+			title: "Poison",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/BugLewdy/status/1540128899115491328",
+			desc: "Gift for a friend.",
+			date_str: "June 2022",
+			tags: ["other_series", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4necqgr354.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzckdmpr7.png",
+			title: "Hungry for the Scion of Light",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/MrTD2020/status/1806359329840504939",
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdckaqlvy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zc3m8n3y.png",
+			title: "Larcei & Lana - Steamy sauna",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://www.pixiv.net/en/artworks/118533827",
+			desc: "Lana feels a bit inadequate...",
+			date_str: "November 2023",
+			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcpaqrd7.png", "https://cdn.imgchest.com/files/w7pjc2zjek7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc2zpnl7.png",
+			title: "Larcei CYL8 propaganda 1",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/BugLewdy/status/1747715413473976763",
+			desc: "",
+			date_str: "December 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogc6gz9wy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcpan6l7.png",
+			title: "Mareeta & Eyvel",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/BugLewdy/status/1747415939992445194",
+			desc: "Gift for a friend.",
+			date_str: "January 2024",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkcwb3la7.png", "https://cdn.imgchest.com/files/b49zc3ml5oy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcwb9pk7.png",
+			title: "Larcei & Lana are best friends!",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/BugLewdy/status/1767717213396705514",
+			desc: "With a bit of breast envy from one...",
+			date_str: "March 2024",
+			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

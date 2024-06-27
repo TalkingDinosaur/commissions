@@ -1774,7 +1774,7 @@ var data = {
 			desc: "",
 			date_str: "June 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/d7ogc6b2avy.jpg"],
@@ -1798,6 +1798,66 @@ var data = {
 			desc: "\"The salad is next.\" -Rule34 commentator",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739cje58p7.jpg", "https://cdn.imgchest.com/files/w7w6c3bnpny.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcek95d4.png",
+			title: "Seliph's trophy",
+			artist: "Kagato007",
+			artist_url: "https://x.com/Kagato007_art",
+			art_url: "https://x.com/Kagato007_art/status/1567762422563233793",
+			desc: "",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e4gdcjd95l4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc5e2887.png",
+			title: "Kronya catches a \"worm\"",
+			artist: "Kalruna",
+			artist_url: "https://x.com/kalruna_art",
+			art_url: "https://x.com/kalruna_art/status/1247661088432414721",
+			desc: "",
+			date_str: "April 2020",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xc26mdd7.jpg", "https://cdn.imgchest.com/files/84apcp6lgx4.jpg", "https://cdn.imgchest.com/files/k46acpnvke7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcjro2q4.jpg",
+			title: "Producing heirs",
+			artist: "Karasu",
+			artist_url: "https://x.com/YataKarasu_Art",
+			art_url: "https://x.com/YataKarasu_Art/status/1560357820096282625",
+			desc: "",
+			date_str: "June 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3cqro6p4.png", "https://cdn.imgchest.com/files/g4z9cze3rj7.png", "https://cdn.imgchest.com/files/e4gdcjd9el4.png", "https://cdn.imgchest.com/files/345xc26m3d7.png", "https://cdn.imgchest.com/files/k46acpnvwe7.png", "https://cdn.imgchest.com/files/pyvdcka9p6y.png", "https://cdn.imgchest.com/files/w7w6c3bn5ny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5caql6n4.png",
+			title: "Behind the school with Mion",
+			artist: "Kawanuma",
+			artist_url: "https://www.pixiv.net/en/users/2255789",
+			art_url: "https://www.pixiv.net/en/artworks/90160401",
+			desc: "This was a Skeb comm and naturally, the skeb artist strayed from my directions and excluded details but added some of his own to compensate, I suppose. The last image is a mouth edit to give Mion her iconic kissy mouth when she's anxious. The artist didn't include that despite me asking him to.",
+			date_str: "May 2021",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cldano4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cldn9w4.jpg",
+			title: "Larcei & Seliph - Sekiha Love Love Tenkyoken",
+			artist: "Kshatriya",
+			artist_url: "https://x.com/Kshatriya_666_",
+			art_url: "https://x.com/MrTalkingDino/status/1480590714706620416",
+			desc: "",
+			date_str: "January 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

@@ -2065,6 +2065,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/w7w6c3e5amy.png", "https://cdn.imgchest.com/files/g4z9czar6n7.png", "https://cdn.imgchest.com/files/g4z9czaxq67.png", "https://cdn.imgchest.com/files/k739cjpm9z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6c3e5amy.png",
+			title: "Thrasir memepack",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "September 2020",
+			tags: ["fire_emblem", "thrasir", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

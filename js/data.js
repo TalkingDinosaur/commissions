@@ -2091,7 +2091,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/w7w6c3eomdy.png", "https://cdn.imgchest.com/files/345xc2z3r37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6c3eomdy.png",
-			title: "\"Please stop dating my mother\"",
+			title: "Please stop dating my mother",
 			artist: "Lightdasher",
 			artist_url: "https://x.com/lightdasher",
 			art_url: null,

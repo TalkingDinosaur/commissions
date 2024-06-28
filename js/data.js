@@ -2101,6 +2101,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3cqx3ar4.png", "https://cdn.imgchest.com/files/g4z9czax8p7.png", "https://cdn.imgchest.com/files/j7mmc6z8w27.png", "https://cdn.imgchest.com/files/pyq9clzn524.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cqx3ar4.png",
+			title: "Larcei & Fir memepack",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "December 2021",
+			tags: ["fire_emblem", "larcei", "fir", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkcwna6q7.png", "https://cdn.imgchest.com/files/j7mmc6z8ar7.png", "https://cdn.imgchest.com/files/wye3cqx3vq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcwna6q7.png",
+			title: "Miscellaneous memepack",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "March 2020",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcj832w4.png", "https://cdn.imgchest.com/files/myd5cakp694.png", "https://cdn.imgchest.com/files/84jdceg85z4.png", "https://cdn.imgchest.com/files/pyq9clzm954.png", "https://cdn.imgchest.com/files/j7mmc6zjpm7.png", "https://cdn.imgchest.com/files/k739cjpwv97.png", "https://cdn.imgchest.com/files/w7w6c3e5d5y.png", "https://cdn.imgchest.com/files/wye3cqx6m34.png", "https://cdn.imgchest.com/files/g4z9czar5d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcj832w4.png",
+			title: "Camilla memepack",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "April 2020",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -1735,7 +1735,7 @@ var data = {
 			artist: "Hectic",
 			artist_url: "https://x.com/HecticSketchin",
 			art_url: "https://x.com/MrTD2020/status/1713046777971249324",
-			desc: "",
+			desc: "Gift for a friend.",
 			date_str: "August 2021",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
@@ -2134,6 +2134,78 @@ var data = {
 			desc: "",
 			date_str: "April 2020",
 			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acpow2z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acpow2z7.png",
+			title: "Bernadetta CYL4 3rd place",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "March 2020",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcpzxjo4.png", "https://cdn.imgchest.com/files/345xc2z3l37.png", "https://cdn.imgchest.com/files/g4z9czarbn7.png", "https://cdn.imgchest.com/files/wye3cqx6zw4.png", "https://cdn.imgchest.com/files/e4gdcj2ek84.png", "https://cdn.imgchest.com/files/my8xc5xmb34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcpzxjo4.png",
+			title: "Larcei emotes",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "August 2021",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc2ar3v7.png", "https://cdn.imgchest.com/files/my2pceplgw7.png", "https://cdn.imgchest.com/files/p7bwcp9wzz7.png", "https://cdn.imgchest.com/files/l4necqeapq4.png", "https://cdn.imgchest.com/files/b49zc3axq9y.png", "https://cdn.imgchest.com/files/d7ogc6ldm2y.png", "https://cdn.imgchest.com/files/j7kzckv2jq7.png", "https://cdn.imgchest.com/files/l7lxc59lqb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc2ar3v7.png",
+			title: "Gen 2 FE4 girls emotes",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "November 2021",
+			tags: ["fire_emblem", "lana", "patty", "julia", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cakp6e4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cakp6e4.png",
+			title: "Buenos dias Lakche",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1467192096490545158",
+			desc: "",
+			date_str: "October 2021",
+			tags: ["fire_emblem", "larcei", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5caklza4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5caklza4.png",
+			title: "\"Hot damn, identical sub!\"",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1569076813921677312",
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9clznkm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9clznkm4.png",
+			title: "Selia has a question",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1717704856880758987",
+			desc: "",
+			date_str: "October 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
 			hidden: false
 		},
 		{

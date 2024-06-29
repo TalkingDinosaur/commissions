@@ -2113,7 +2113,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/6yxkcwna6q7.png", "https://cdn.imgchest.com/files/j7mmc6z8ar7.png", "https://cdn.imgchest.com/files/wye3cqx3vq4.png"],
+			src: ["https://cdn.imgchest.com/files/6yxkcwna6q7.png", "https://cdn.imgchest.com/files/j7mmc6z8ar7.png", "https://cdn.imgchest.com/files/wye3cqx3vq4.png", "https://cdn.imgchest.com/files/345xc2zwpv7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcwna6q7.png",
 			title: "Miscellaneous memepack",
 			artist: "Lightdasher",
@@ -2206,6 +2206,30 @@ var data = {
 			desc: "",
 			date_str: "October 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcpzoq64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcpzoq64.png",
+			title: "Need tomboy",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1466942422051479557",
+			desc: "",
+			date_str: "December 2021",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcj8ox64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcj8ox64.png",
+			title: "Isaachian mating press noises",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTD2020/status/1773365156141015127",
+			desc: "",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "julia", "sfw"],
 			hidden: false
 		},
 		{

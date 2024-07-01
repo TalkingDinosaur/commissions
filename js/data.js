@@ -2113,7 +2113,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/6yxkcwna6q7.png", "https://cdn.imgchest.com/files/j7mmc6z8ar7.png", "https://cdn.imgchest.com/files/wye3cqx3vq4.png", "https://cdn.imgchest.com/files/345xc2zwpv7.png"],
+			src: ["https://cdn.imgchest.com/files/6yxkcwna6q7.png", "https://cdn.imgchest.com/files/j7mmc6z8ar7.png", "https://cdn.imgchest.com/files/wye3cqx3vq4.png", "https://cdn.imgchest.com/files/345xc2zwpv7.png", "https://cdn.imgchest.com/files/myd5ca9j6p4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcwna6q7.png",
 			title: "Miscellaneous memepack",
 			artist: "Lightdasher",
@@ -2149,7 +2149,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/84apcpzxjo4.png", "https://cdn.imgchest.com/files/345xc2z3l37.png", "https://cdn.imgchest.com/files/g4z9czarbn7.png", "https://cdn.imgchest.com/files/wye3cqx6zw4.png", "https://cdn.imgchest.com/files/e4gdcj2ek84.png", "https://cdn.imgchest.com/files/my8xc5xmb34.png"],
+			src: ["https://cdn.imgchest.com/files/84apcpzxjo4.png", "https://cdn.imgchest.com/files/345xc2z3l37.png", "https://cdn.imgchest.com/files/g4z9czarbn7.png", "https://cdn.imgchest.com/files/wye3cqx6zw4.png", "https://cdn.imgchest.com/files/e4gdcj2ek84.png", "https://cdn.imgchest.com/files/my8xc5xmb34.png", "https://cdn.imgchest.com/files/l7lxc592gd7.png", "https://cdn.imgchest.com/files/e4gdcj2rva4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcpzxjo4.png",
 			title: "Larcei emotes",
 			artist: "Lightdasher",
@@ -2230,6 +2230,139 @@ var data = {
 			desc: "",
 			date_str: "May 2022",
 			tags: ["fire_emblem", "julia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkcwna3e7.png", "https://cdn.imgchest.com/files/b49zc3axldy.png", "https://cdn.imgchest.com/files/l4necqear34.png", "https://cdn.imgchest.com/files/p7bwcp9wqq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcwna3e7.png",
+			title: "Rune Factory memepack",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "May 2021",
+			tags: ["rune_factory", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogc6ld3ay.png", "https://cdn.imgchest.com/files/j7kzckv2ma7.png", "https://cdn.imgchest.com/files/my2pcepl827.png", "https://cdn.imgchest.com/files/l7lxc59lo97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc6ld3ay.png",
+			title: "Pia likes making kids",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "May 2021",
+			tags: ["rune_factory", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cakl5l4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cakl5l4.png",
+			title: "The Picture",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "Gift for a friend.",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e4gdcj2r3k4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcj2r3k4.png",
+			title: "Under the Mystletainn",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "Christmas celebration image for AFE4 Translation ",
+			date_str: "December 2021",
+			tags: ["fire_emblem", "seliph", "julia", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc2aoqm7.png", "https://cdn.imgchest.com/files/d7ogc6lnb8y.png", "https://cdn.imgchest.com/files/my2pceprkx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc2aoqm7.png",
+			title: "Pia memepack",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "September 2021",
+			tags: ["rune_factory", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzckv3a97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzckv3a97.png",
+			title: "Ryocei",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "November 2021",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxc592pz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc592pz7.png",
+			title: "Checking in on Seliph and Larcei...",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		
+		{
+			src: ["https://cdn.imgchest.com/files/myd5caklel4.png", "https://cdn.imgchest.com/files/3yrgcj8on64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5caklel4.png",
+			title: "Seliph when Larcei",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1525509436264984577",
+			desc: "",
+			date_str: "May 2022",
+			tags: ["fire_emblem", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmc6z89r7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmc6z89r7.png",
+			title: "Year of the Tiger family",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "February 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xc5x8va4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xc5x8va4.png",
+			title: "Ilyana burger",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "May 2020",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xc2zwgv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc2zwgv7.png",
+			title: "Those damn spats",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "Shannan confiding to Oifey after Patty's Bargain.",
+			date_str: "June 2022",
+			tags: ["fire_emblem", "patty", "shannan", "other_character", "sfw"],
 			hidden: false
 		},
 		{

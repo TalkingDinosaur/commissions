@@ -2366,6 +2366,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84apcpzok64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcpzok64.png",
+			title: "Smelliph",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1679296289975181313",
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acpoe5o7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acpoe5o7.png",
+			title: "Smugelia",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "May 2022",
+			tags: ["selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdckroe9y.png", "https://cdn.imgchest.com/files/6yxkcwnomj7.png", "https://cdn.imgchest.com/files/b49zc3aopey.png", "https://cdn.imgchest.com/files/l4necqevjj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyvdckroe9y.png",
+			title: "Seliph & Larcei on a rainy day",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1515477896814469127",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "seliph", "larcei", "patty", "lana", "scathach", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcp9ov87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcp9ov87.png",
+			title: "Patty recruiting Febail",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1526234658932871168",
+			desc: "",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "patty", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc2ao857.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc2ao857.png",
+			title: "We need to talk",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "June 2021",
+			tags: ["fire_emblem", "other_character", "hel", "peri", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

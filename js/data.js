@@ -2438,6 +2438,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k46acp5rap7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necqj9jd4.jpg",
+			title: "Legendary Seliph",
+			artist: "LILI",
+			artist_url: "https://x.com/LilkrArt",
+			art_url: "https://x.com/LilkrArt/status/1799184558040224039",
+			desc: "",
+			date_str: "May 2024",
+			tags: ["fire_emblem", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

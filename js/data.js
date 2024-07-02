@@ -1537,6 +1537,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/p7bwcp3we97.png", "https://cdn.imgchest.com/files/j7kzck92w97.png", "https://cdn.imgchest.com/files/l7lxc5jlrz7.png", "https://cdn.imgchest.com/files/84jdce283n4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9czngej7.png",
+			title: "Larcei with Seliph at both ends",
+			artist: "Fenqury",
+			artist_url: "https://x.com/fenqury",
+			art_url: null,
+			desc: "",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcag9mz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcex25x7.png",
 			title: "Larcei is smol",

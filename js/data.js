@@ -2408,7 +2408,7 @@ var data = {
 			artist: "Lightdasher",
 			artist_url: "https://x.com/lightdasher",
 			art_url: "https://x.com/MrTalkingDino/status/1515477896814469127",
-			desc: "",
+			desc: "April Fools 2022",
 			date_str: "April 2022",
 			tags: ["fire_emblem", "seliph", "larcei", "patty", "lana", "scathach", "sfw"],
 			hidden: false
@@ -2447,6 +2447,18 @@ var data = {
 			desc: "",
 			date_str: "May 2024",
 			tags: ["fire_emblem", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5caxwbp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcwmegx7.jpg",
+			title: "Where's Larcei taking Seliph?",
+			artist: "Lindyspotato",
+			artist_url: "https://x.com/cattocut",
+			art_url: "https://x.com/MrTalkingDino/status/1553784466786492416",
+			desc: "",
+			date_str: "July 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

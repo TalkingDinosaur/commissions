@@ -1782,7 +1782,7 @@ var data = {
 			title: "Checking in during Heroes Journey... Again.",
 			artist: "Hmage",
 			artist_url: "https://x.com/TheHmago",
-			art_url: null,
+			art_url: "https://x.com/TheHmago/status/1808648344279077084",
 			desc: "",
 			date_str: "June 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
@@ -2459,6 +2459,18 @@ var data = {
 			desc: "",
 			date_str: "July 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcpg6jz4.png", "https://cdn.imgchest.com/files/k46acpknjv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc5nekx7.png",
+			title: "Brigid with a grip on Dew's booty",
+			artist: "Loodolodo",
+			artist_url: "https://x.com/loodolodo",
+			art_url: "https://x.com/loodolodo/status/1672438733453377537",
+			desc: "",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

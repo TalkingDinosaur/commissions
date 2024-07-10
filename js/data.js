@@ -2774,6 +2774,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xc528pp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcpwo3v4.jpg",
+			title: "Larcei portrait",
+			artist: "Meziosaur",
+			artist_url: "https://x.com/meziosaur",
+			art_url: "https://x.com/meziosaur/status/1658289012346429440",
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zc39ozry.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc2qw997.png",
+			title: "Larcei hugging Seliph",
+			artist: "Milkahia",
+			artist_url: "https://x.com/milkahia",
+			art_url: "https://x.com/MrTalkingDino/status/1772654752280551642",
+			desc: "",
+			date_str: "March 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc2do6e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xc528kp4.png",
+			title: "Larcei heart hands",
+			artist: "Mio",
+			artist_url: "https://x.com/miona_draw",
+			art_url: "https://x.com/miona_draw/status/1574474223145582593",
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -1789,6 +1789,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcele2a4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6c3a3g2y.jpg",
+			title: "Larcei and Seliph side-by-side",
+			artist: "Hyperbooster",
+			artist_url: "https://www.instagram.com/hyperbooster/?hl=en",
+			art_url: "https://x.com/MrTalkingDino/status/1811791297948320116",
+			desc: "Artwork I ordered while at Anime Expo 2024.",
+			date_str: "July 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/d7ogc6b2avy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzcka6287.jpg",
 			title: "The King and Queen of Grannvale",

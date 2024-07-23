@@ -1381,6 +1381,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdclwgg24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcrkzvr7.png",
+			title: "Larcei rides on top",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/1814337004584517976",
+			desc: "Larcei and Seliph drawn to resemble their original 1996 watercolor artworks.",
+			date_str: "July 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -1810,6 +1822,30 @@ var data = {
 			desc: "",
 			date_str: "March 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcqgagay.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9c68av97.png",
+			title: "Seliph recharging in Larcei's arms",
+			artist: "ipi",
+			artist_url: "https://x.com/ippai_ippai",
+			art_url: "https://x.com/ippai_ippai/status/1814412396716319072",
+			desc: "",
+			date_str: "July 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcpk88g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdc6v2xo4.png",
+			title: "FE4 ring distribution",
+			artist: "Jeffmiga",
+			artist_url: "https://x.com/Jeffmiga1",
+			art_url: "https://x.com/MrTalkingDino/status/1815871345823211951",
+			desc: "",
+			date_str: "July 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "other_character", "sfw"],
 			hidden: false
 		},
 		{

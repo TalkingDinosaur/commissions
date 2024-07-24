@@ -217,6 +217,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l4necpbwla4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc3bxd67.png",
+			title: "Thracian Love Triangle",
+			artist: "AthosArt",
+			artist_url: "https://twitter.com/AthosArt",
+			art_url: null,
+			desc: "Potential proof of concept for a doujin focusing on Altena with Arion and Coirpre.",
+			date_str: "March 2024",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xc8ojnz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec59n6q4.png",
 			title: "Larcei keeping the kids warm",

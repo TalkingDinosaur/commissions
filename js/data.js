@@ -3038,6 +3038,78 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xc5j2rz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5ca8azv4.png",
+			title: "Eitri ballin",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1544876973985386496",
+			desc: "",
+			date_str: "July 2022",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcel3qn4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcjqjjv4.jpg",
+			title: "Larcei marketable plushie",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1556831255542767617",
+			desc: "",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3c9angm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xcj36qd4.png",
+			title: "Believe in fairies?",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1568202162509070336",
+			desc: "",
+			date_str: "Septemeber 2022",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9clw2om4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cz5zz37.png",
+			title: "Larcei dressed as Cherie",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1579657348028993536",
+			desc: "",
+			date_str: "October 2022",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcpew2m4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc2x2rg7.png",
+			title: "Morgan and the Demon Core",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1588848675174100992",
+			desc: ":MorgyIrradiated:",
+			date_str: "November 2022",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xc2rq5x7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zc3d3xmy.jpg",
+			title: "Seliph's leg guitar",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1598528480362528775",
+			desc: "",
+			date_str: "December 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

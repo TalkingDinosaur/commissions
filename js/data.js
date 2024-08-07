@@ -3434,6 +3434,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
+			title: "Like mother, like daughter",
+			artist: "Moccha",
+			artist_url: "https://x.com/moccha_kofii",
+			art_url: "https://x.com/moccha_kofii/status/1472581448288772101",
+			desc: "",
+			date_str: "December 2021",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

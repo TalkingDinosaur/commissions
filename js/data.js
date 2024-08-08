@@ -1405,6 +1405,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/g4z9c659q87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkc68qp27.png",
+			title: "Severa birthday cake",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "Birthday gift for friend",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",

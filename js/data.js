@@ -1410,7 +1410,7 @@ var data = {
 			title: "Severa birthday cake",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
-			art_url: null,
+			art_url: "https://x.com/decoxart/status/1821577115734851819",
 			desc: "Birthday gift for friend",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],

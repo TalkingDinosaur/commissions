@@ -1563,7 +1563,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/j7kzcjj6367.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k739c22q3p7.png",
-			title: "Larcei Summer 2024",
+			title: "Topless Tomboy",
 			artist: "Evomanaphy",
 			artist_url: "https://x.com/Evomanaphy",
 			art_url: "https://x.com/Evomanaphy/status/1810417790244814855",
@@ -3623,6 +3623,42 @@ var data = {
 			desc: "",
 			date_str: "September 2023",
 			tags: ["fire_emblem", "larcei", "fir", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cw9vkq4.jpg", "https://cdn.imgchest.com/files/myd5c86m5d4.jpg", "https://cdn.imgchest.com/files/3yrgcp29nx4.jpg", "https://cdn.imgchest.com/files/l7lxcq8xpp7.jpg", "https://cdn.imgchest.com/files/84jdcl56vk4.jpg", "https://cdn.imgchest.com/files/pyq9cw9v3z4.jpg", "https://cdn.imgchest.com/files/myd5c86me34.jpg", "https://cdn.imgchest.com/files/3yrgcp29nk4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cw9vp84.jpg",
+			title: "Askr Swordmaster Summer Suite: Hot Springs",
+			artist: "Mr.Takealook",
+			artist_url: null,
+			art_url: "https://e-hentai.org/g/2202832/ebd0f583da/",
+			desc: "My first mini-doujin. I encountered BioBiscuit's smutfic of Ayra and Larcei on AO3 and immediately got in touch with them to have its sex scene illustrated. This doujin ended up being added to nhentai and I got my very own launch code: 400633. At the time of writing this, if you told me 5 years ago I would have a doujin to my name on nhentai, I would've thought you were lying. I'm very grateful to BioBiscuit and to Takealook for working with me. Sadly, it seems Takealook is no longer around these days. No doubt the stress of the OTHER content he was paid to produce and the pressure applied to him by another vile commissioner pushed him over the edge.",
+			date_str: "March 2022",
+			tags: ["fire_emblem", "larcei", "ayra", "fir", "other_character", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcp29kk4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcl56rr4.jpg",
+			title: "Summer Larcei 2024",
+			artist: "Mune",
+			artist_url: "https://x.com/munedraws",
+			art_url: "https://x.com/munedraws/status/1800577219091206289",
+			desc: "",
+			date_str: "May 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcl56wr4.png", "https://cdn.imgchest.com/files/pyq9cw9v584.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcq8xwj7.png",
+			title: "Seliph's meal",
+			artist: "Myahogao",
+			artist_url: "https://x.com/MahoMalice",
+			art_url: "https://x.com/MahoMalice/status/1750554695943545100",
+			desc: "",
+			date_str: "January 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

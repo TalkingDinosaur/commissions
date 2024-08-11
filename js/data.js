@@ -3644,7 +3644,7 @@ var data = {
 			artist: "Mr.Takealook",
 			artist_url: null,
 			art_url: "https://e-hentai.org/g/2202832/ebd0f583da/",
-			desc: "My first mini-doujin. I encountered BioBiscuit's smutfic of Ayra and Larcei on AO3 and immediately got in touch with them to have its sex scene illustrated. This doujin ended up being added to nhentai and I got my very own launch code: 400633. At the time of writing this, if you told me 5 years ago I would have a doujin to my name on nhentai, I would've thought you were lying. I'm very grateful to BioBiscuit and to Takealook for working with me. Sadly, it seems Takealook is no longer around these days. No doubt the stress of the OTHER content he was paid to produce and the pressure applied to him by another vile commissioner pushed him over the edge.",
+			desc: "My first mini-doujin. I encountered BioBiscuit's smutfic of Ayra and Larcei on AO3 and immediately got in touch with them to have its sex scene illustrated. This doujin ended up being added to nhentai and I got my very own launch code: 400633. At the time of writing this, if you told me 5 years ago I would have a doujin to my name on nhentai, I would've thought you were lying. I'm very grateful to BioBiscuit and to Takealook for working with me. Sadly, it seems Takealook is no longer around these days. No doubt the stress of the OTHER content he was paid to produce and the pressure applied to him by another vile commissioner pushed him to hang up his pen.",
 			date_str: "March 2022",
 			tags: ["fire_emblem", "larcei", "ayra", "fir", "other_character", "doujin", "nsfw"],
 			hidden: false

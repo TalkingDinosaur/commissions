@@ -3847,8 +3847,8 @@ var data = {
 			title: "The only time Larcei wears panties",
 			artist: "Nyah",
 			artist_url: "https://x.com/Nyahpa20",
-			art_url: "-is to use it to play with Seliph's cum.",
-			desc: "",
+			art_url: "https://x.com/Nyahpa20/status/1611840474486120450",
+			desc: "\-is to use it to play with Seliph's cum.",
 			date_str: "January 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false

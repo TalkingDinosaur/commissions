@@ -3694,7 +3694,7 @@ var data = {
 			art_url: "https://x.com/CapRedNahu/status/1770510694447804641",
 			desc: "",
 			date_str: "March 2024",
-			tags: ["fire_emblem", "larcei," "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

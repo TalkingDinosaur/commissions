@@ -1539,6 +1539,18 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcjdb294.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcpeqwl4.png",
+			title: "Larcei YCH",
+			artist: "elfoppai",
+			artist_url: "https://x.com/elfoppai",
+			art_url: "https://x.com/MrTD2020/status/1827753755242340854",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcjdb294.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcpeqwl4.png",
 			title: "Larcei sitting back",
 			artist: "elfoppai",
 			artist_url: "https://x.com/elfoppai",
@@ -1990,6 +2002,18 @@ var data = {
 			desc: "My own design for Larcei as the queen of Grannvale. Her design is inspired by Legendary Seliph.",
 			date_str: "January 2022",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcm9wv34.jpg", "https://cdn.imgchest.com/files/j7mmc2nlm87.jpg", "https://cdn.imgchest.com/files/k739cako837.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcm9p5r4.jpg",
+			title: "Bernadetta boosting her confidence at the beach",
+			artist: "Kuraza",
+			artist_url: "https://x.com/crazzeffect",
+			art_url: "https://x.com/MrTD2020/status/1824462834706886807",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -2786,6 +2810,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/e4gdckmeqq4.png", "https://cdn.imgchest.com/files/my8xcbqmor4.png", "https://cdn.imgchest.com/files/345xcl83x57.png", "https://cdn.imgchest.com/files/84apcjvxa24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cnm83e4.png",
+			title: "Embla's Honeymoon - Doll",
+			artist: "LuckyMentha",
+			artist_url: "https://x.com/LuckyMentha",
+			art_url: null,
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "embla", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcenz2r4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acpkv8x7.jpg",
 			title: "Larcei",
@@ -2842,6 +2878,18 @@ var data = {
 			art_url: "https://x.com/_mangho_/status/1787670115778965811",
 			desc: "",
 			date_str: "May 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4necxlj8l4.jpg", "https://cdn.imgchest.com/files/p7bwcl2vke7.jpg", "https://cdn.imgchest.com/files/w7pjcvk8q27.jpg", "https://cdn.imgchest.com/files/l7lxckxwp87.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cak2557.jpg",
+			title: "One more hole",
+			artist: "Mango-Nectar",
+			artist_url: "https://x.com/mangonectarchan",
+			art_url: null,
+			desc: "",
+			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
@@ -3271,7 +3319,7 @@ var data = {
 			title: "Ayra gets her brave sword",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1824972753268867563",
 			desc: "",
 			date_str: "December 2023",
 			tags: ["fire_emblem", "ayra", "nsfw"],
@@ -3527,6 +3575,18 @@ var data = {
 			desc: "Wait a minute...",
 			date_str: "March 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkc5qmb67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmc2ndgz7.png",
+			title: "Patty must go through a lot of tights",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/MrTD2020/status/1826288158897488330",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
 			hidden: false
 		},
 		{

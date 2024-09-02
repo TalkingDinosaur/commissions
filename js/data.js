@@ -1057,6 +1057,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9cjk8ka4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc2ajppy.png",
+			title: "Larcei's loose tunic",
+			artist: "Cosme",
+			artist_url: "https://x.com/rthunderatk",
+			art_url: "https://x.com/rthunderatk/status/1829717286019584314",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xc8z8nv7.gif", "https://cdn.imgchest.com/files/k46acgog9o7.gif", "https://cdn.imgchest.com/files/84apcvzvn64.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc989vp4.gif",
 			title: "Women be shoppin",
@@ -2089,6 +2101,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7kzc6pgg27.png", "https://cdn.imgchest.com/files/l7lxcvazz67.png", "https://cdn.imgchest.com/files/84jdcaxmmj4.png", "https://cdn.imgchest.com/files/pyq9cjk88v4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjcln9ma7.png",
+			title: "Larcei & Seliph charms",
+			artist: "Laurencin",
+			artist_url: "https://x.com/Iaurencin",
+			art_url: null,
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyvdckadpry.png", "https://cdn.imgchest.com/files/k46acpnbwn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcjrz3l4.png",
 			title: "Larcei stakes her claim",
@@ -2815,7 +2839,7 @@ var data = {
 			title: "Embla's Honeymoon - Doll",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1830658654082830523",
 			desc: "",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "embla", "nsfw"],
@@ -2887,7 +2911,7 @@ var data = {
 			title: "One more hole",
 			artist: "Mango-Nectar",
 			artist_url: "https://x.com/mangonectarchan",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1828102844861620488",
 			desc: "",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
@@ -2903,6 +2927,18 @@ var data = {
 			desc: "",
 			date_str: "December 2022",
 			tags: ["other_series", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcqxvxo4.png", "https://cdn.imgchest.com/files/k739cqz8z67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzc6pg8e7.png",
+			title: "Selia & Baou eating some baos",
+			artist: "mawsteryowda",
+			artist_url: "https://x.com/mawsteryowda_",
+			art_url: "https://x.com/mawsteryowda_/status/1829760275127681062",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "selia", "other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -3503,6 +3539,18 @@ var data = {
 			desc: "",
 			date_str: null,
 			tags: ["fire_emblem", "larcei", "julia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcaxmwj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcm68ja7.png",
+			title: "Morgan and her rat 1",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1828939246389842362",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
 		},
 		{

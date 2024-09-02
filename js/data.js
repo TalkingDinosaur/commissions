@@ -1797,7 +1797,7 @@ var data = {
 			art_url: "https://x.com/MrTalkingDino/status/1544015598702641152",
 			desc: "",
 			date_str: "July 2022",
-			tags: ["selia", "sfw"],
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -2542,7 +2542,7 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "May 2022",
-			tags: ["selia", "sfw"],
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

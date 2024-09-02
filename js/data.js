@@ -4154,6 +4154,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9cxvxpb4.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cb9b2o7.gif",
+			title: "Applying Astra in procreative ways\~",
+			artist: "OppaiHobby",
+			artist_url: "https://x.com/OppaiHobby",
+			art_url: "https://x.com/OppaiHobby/status/1550363956795015168",
+			desc: "LARCEI ENDLESSLY PUMPS SELIPH'S HOLY SEED FROM HIS BODY WITH ASTRA-INFUSED PUMPS THAT WILL BLOW HIS MIND AND DESTROY HIS PELVIS",
+			date_str: "July 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cnmnxx4.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3czgzkl4.gif",
+			title: "\"You won't escape~\"",
+			artist: "OppaiHobby",
+			artist_url: "https://x.com/OppaiHobby",
+			art_url: "https://x.com/OppaiHobby/status/1640966828720640000",
+			desc: "",
+			date_str: "March 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxckxkwn7.png", "https://cdn.imgchest.com/files/84jdco6or84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdckmkbe4.png",
+			title: "Things to do on a rainy day",
+			artist: "OppaisErothicc",
+			artist_url: "https://x.com/oppaiserothicc",
+			art_url: "https://x.com/oppaiserothicc/status/1652015178672660480",
+			desc: "This tomboy swordmaster against a window",
+			date_str: "April 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

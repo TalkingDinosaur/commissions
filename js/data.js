@@ -4154,6 +4154,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3yrgcqraj64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zcjm9r2y.png",
+			title: "Larcei's new swimsuit",
+			artist: "Oginon07",
+			artist_url: "https://x.com/oginon07",
+			art_url: "https://skeb.jp/@oginon07/works/19",
+			desc: "",
+			date_str: "Septemeber 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cxvxpb4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cb9b2o7.gif",
 			title: "Applying Astra in procreative ways\~",
@@ -4295,6 +4307,54 @@ var data = {
 			desc: "",
 			date_str: "July 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
+			title: "Hetha the daughter of Hel",
+			artist: "Paulygon",
+			artist_url: "https://x.com/Paulygon_2",
+			art_url: "https://x.com/Paulygon_2/status/1468370098524241921",
+			desc: "",
+			date_str: "December 2021",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acrnk8a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cer6vv4.png",
+			title: "Ensnaring the Scion of Light",
+			artist: "Pepper",
+			artist_url: "https://x.com/PepperNSalt",
+			art_url: null,
+			desc: "",
+			date_str: "July 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4nec9gkbk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6ckblxxy.png",
+			title: "Need Tomboy but FEH styled",
+			artist: "Phoebe",
+			artist_url: "https://x.com/DeebyFeeby",
+			art_url: "https://x.com/DeebyFeeby/status/1570073726590521351",
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjclz5bo7.png", "https://cdn.imgchest.com/files/d7ogc2g5rvy.png", "https://cdn.imgchest.com/files/j7kzc6d59b7.png", "https://cdn.imgchest.com/files/my2pcm2z357.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cqe9dr7.png",
+			title: "Azelle, softest boy in Sigurd's army",
+			artist: "Playzholder",
+			artist_url: "https://x.com/punished_playz",
+			art_url: null,
+			desc: "Gift for a friend",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

@@ -3359,7 +3359,7 @@ var data = {
 			desc: "",
 			date_str: "December 2023",
 			tags: ["fire_emblem", "ayra", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/e4gdcj6oqp4.png"],
@@ -3503,7 +3503,7 @@ var data = {
 			desc: "",
 			date_str: "July 2024",
 			tags: ["fire_emblem", "julia", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/e4gdcj6oak4.png"],
@@ -4343,7 +4343,7 @@ var data = {
 			desc: "",
 			date_str: "September 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/w7pjclz5bo7.png", "https://cdn.imgchest.com/files/d7ogc2g5rvy.png", "https://cdn.imgchest.com/files/j7kzc6d59b7.png", "https://cdn.imgchest.com/files/my2pcm2z357.png"],

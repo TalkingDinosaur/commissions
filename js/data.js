@@ -1785,7 +1785,7 @@ var data = {
 			art_url: "https://x.com/gouble3/status/1544191686221656065",
 			desc: "",
 			date_str: "April 2022",
-			tags: ["rune_factory", "nsfw"],
+			tags: ["rune_factory", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -1809,7 +1809,7 @@ var data = {
 			art_url: "https://x.com/gouble3/status/1572926186614755329",
 			desc: "What if Micah didn't change into a Wooly when Pia barged into the men's bath? This was meant to be the start of a Rune Factory doujin, but Patty's Bargain began its development in earnest and I didn't return to this project. I should come back to this one day though...",
 			date_str: "September 2022",
-			tags: ["rune_factory", "nsfw"],
+			tags: ["rune_factory", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3970,7 +3970,7 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/1720196048763990131",
 			desc: "",
 			date_str: "March 2023",
-			tags: ["rune_factory", "nsfw"],
+			tags: ["rune_factory", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -4355,6 +4355,90 @@ var data = {
 			desc: "Gift for a friend",
 			date_str: "August 2022",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cjdgbq4.jpg", "https://cdn.imgchest.com/files/myd5cwqj9d4.jpg", "https://cdn.imgchest.com/files/3yrgcqrgwx4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcbovek7.jpg",
+			title: "Pia doesn't wear panties!",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/1799273471173923033",
+			desc: "",
+			date_str: "June 2024",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcbovl97.png", "https://cdn.imgchest.com/files/k739cqe9oe7.png", "https://cdn.imgchest.com/files/w7w6ckblgey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcqrge24.png",
+			title: "Pia got a new swimsuit from Daria!",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/1811349212854169863",
+			desc: "",
+			date_str: "July 2024",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/g4z9cgeon87.png", "https://cdn.imgchest.com/files/345xcb6dgn7.png", "https://cdn.imgchest.com/files/e4gdcgd5lw4.png", "https://cdn.imgchest.com/files/my8xcze3ww4.png", "https://cdn.imgchest.com/files/84apcr6gkg4.png", "https://cdn.imgchest.com/files/k46acrnk5w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cwqjdw4.png",
+			title: "Pia wants to see Micah's white ink!",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/1819691980202606966",
+			desc: "",
+			date_str: "August 2024",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzc6d5oz7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cjdgox4.jpg",
+			title: "Larcei thinkin",
+			artist: "Pooki",
+			artist_url: "https://x.com/H0ward4lteisen",
+			art_url: null,
+			desc: "",
+			date_str: "August 2021",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cjdgpq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcaknql4.png",
+			title: "When you stay too long in the Aed Desert",
+			artist: "Pororu",
+			artist_url: "https://x.com/mr_pororu",
+			art_url: "https://x.com/mr_pororu/status/1421464413047984128",
+			desc: "",
+			date_str: "July 2021",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acrnk9w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcveno57.png",
+			title: "Larcei is hotter than this heatwave",
+			artist: "pubs",
+			artist_url: null,
+			art_url: null,
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcze39w4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcqrgea4.png",
+			title: "Julia frustrated",
+			artist: "pubs",
+			artist_url: null,
+			art_url: null,
+			desc: "If only she got a boyfriend when she had the chance \;\^\)",
+			date_str: "February 2023",
+			tags: ["fire_emblem", "julia", "nsfw"],
 			hidden: false
 		},
 		{

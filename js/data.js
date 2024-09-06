@@ -1069,6 +1069,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l7lxcv3lxn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cq5wkg7.png",
+			title: "Larcei & Seliph back-to-back",
+			artist: "Cosme",
+			artist_url: "https://x.com/rthunderatk",
+			art_url: "https://x.com/rthunderatk/status/1831882251564613852",
+			desc: "",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xc8z8nv7.gif", "https://cdn.imgchest.com/files/k46acgog9o7.gif", "https://cdn.imgchest.com/files/84apcvzvn64.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc989vp4.gif",
 			title: "Women be shoppin",
@@ -4439,6 +4451,42 @@ var data = {
 			desc: "If only she got a boyfriend when she had the chance \;\^\)",
 			date_str: "February 2023",
 			tags: ["fire_emblem", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcq8gam4.png", "https://cdn.imgchest.com/files/l7lxcv9nrv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xczxzp64.png",
+			title: "Altena takes flight",
+			artist: "Rakusai",
+			artist_url: "https://x.com/saisaigarou",
+			art_url: "https://www.pixiv.net/artworks/94505394",
+			desc: "Someone once commented on this piece saying \"The Thracian Dracoknights are useless in the final chapter because they're distract by Altena.\" So true.",
+			date_str: "November 2021",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcagn354.png", "https://cdn.imgchest.com/files/pyq9cjzg2r4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcg2gnb4.png",
+			title: "Larcei gets a leotard",
+			artist: "Rakusai",
+			artist_url: "https://x.com/saisaigarou",
+			art_url: "https://x.com/saisaigarou/status/1517354317573136389",
+			desc: "",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcq8gae4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cgagd57.png",
+			title: "Gettin rough with Seliph~",
+			artist: "Rakusai",
+			artist_url: "https://x.com/saisaigarou",
+			art_url: "https://x.com/saisaigarou/status/1557589814542991361",
+			desc: "",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

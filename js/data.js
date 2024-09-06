@@ -1567,18 +1567,6 @@ var data = {
 			artist: "elfoppai",
 			artist_url: "https://x.com/elfoppai",
 			art_url: "https://x.com/MrTD2020/status/1827753755242340854",
-			desc: "",
-			date_str: "August 2024",
-			tags: ["fire_emblem", "larcei", "nsfw"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/my8xcjdb294.png"],
-			thumbnail: "https://cdn.imgchest.com/files/3yrgcpeqwl4.png",
-			title: "Larcei sitting back",
-			artist: "elfoppai",
-			artist_url: "https://x.com/elfoppai",
-			art_url: null,
 			desc: "This artist had a YCH model that looked eerily like Larcei so I commissioned them to make it her.",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],

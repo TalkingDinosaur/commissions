@@ -4682,6 +4682,78 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l4nec9ekrx4.png", "https://cdn.imgchest.com/files/b49zcjawlqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6ckekojy.png",
+			title: "Fire Emblem Beach Collab",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: null,
+			desc: "Group collab with friends and associates",
+			date_str: "June 2022",
+			tags: ["fire_emblem", "larcei", "fir", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xcbzd5e7.png", "https://cdn.imgchest.com/files/84apcrzg834.png", "https://cdn.imgchest.com/files/k46acrokdg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcbzb867.png",
+			title: "Larcei and her marketable Seliph plushie",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1558621672630255616",
+			desc: "",
+			date_str: "August 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/g4z9cgaopo7.png", "https://cdn.imgchest.com/files/e4gdcg25ze4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cexe3e4.png",
+			title: "End of Hooterscina",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1570415448973520897",
+			desc: "Collab with Yoostink",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdc3rvqgy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcq8qoa4.png",
+			title: "Family Photo",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1590019772909228033",
+			desc: "",
+			date_str: "November 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xczx3684.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cqpqm27.png",
+			title: "Gala Collab",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1673679186136014849",
+			desc: "Collab with friends",
+			date_str: "June 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "ayra", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3cexanl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcg2grb4.png",
+			title: "Battle Damage",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1800571259576815923",
+			desc: "",
+			date_str: "June 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

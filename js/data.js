@@ -5246,6 +5246,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84apcrk8a84.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cjgxqo4.jpg",
+			title: "The results of being infantry locked",
+			artist: "Squish",
+			artist_url: "https://x.com/SquishLewds",
+			art_url: "https://x.com/SquishLewds/status/1643992031163994112",
+			desc: "",
+			date_str: "April 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3cejnkn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcvnkbm7.png",
+			title: "Peri",
+			artist: "Suke",
+			artist_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1713041612190941669",
+			desc: "",
+			date_str: "July 2020",
+			tags: ["fire_emblem", "peri", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6ckgw88y.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcanopp4.jpg",
+			title: "Summer Eir",
+			artist: "Suke",
+			artist_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1713041612190941669",
+			desc: "",
+			date_str: "July 2020",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcjpl8py.png", "https://cdn.imgchest.com/files/l4nec9jr624.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcmzjbv7.png",
+			title: "A top tier tomboy",
+			artist: "SylphFern",
+			artist_url: "https://x.com/SylphFern",
+			art_url: "https://x.com/SylphFern/status/1517142344985841669",
+			desc: "Gift for a friend",
+			date_str: "April 2022",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

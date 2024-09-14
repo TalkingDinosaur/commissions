@@ -2007,7 +2007,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/l4necqg52z4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdcjdnql4.png",
-			title: "Queen of Grannvale, Larcei",
+			title: "Larcei, Queen of Grannvale 1",
 			artist: "Kuraza",
 			artist_url: "https://x.com/crazzeffect",
 			art_url: "https://x.com/crazzeffect/status/1488195887956430848",
@@ -3640,7 +3640,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkc68xqo7.jpg", "https://cdn.imgchest.com/files/l4necpdolm4.jpg", "https://cdn.imgchest.com/files/p7bwcz5j227.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcgv9pz7.jpg",
-			title: "Pogslime",
+			title: "Pogslime 1",
 			artist: "moneree",
 			artist_url: "https://x.com/mon_eree",
 			art_url: "https://x.com/mon_eree/status/1448008442141159430",
@@ -5836,7 +5836,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/k739cq6gp27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcr3pdq4.png",
-			title: "Larcei, Queen of Grannvale",
+			title: "Larcei, Queen of Grannvale 2",
 			artist: "Xith",
 			artist_url: "https://x.com/x_Xith_x",
 			art_url: "https://x.com/x_Xith_x/status/1481709790753660936",
@@ -5927,6 +5927,90 @@ var data = {
 			desc: "",
 			date_str: "December 2023",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e4gdcgpool4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cjelaj4.png",
+			title: "Larcei, Queen of Grannvale 3",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/YusiVishnu/status/1690741739114655744",
+			desc: "",
+			date_str: "August 2023",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6ckvzzny.png", "https://cdn.imgchest.com/files/wye3ced88p4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcqzj5l4.png",
+			title: "Pogslime 2",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/YusiVishnu/status/1728392429932552310",
+			desc: "Successor to the first Pogslime originally drawn by my friend, Moneree. Hope you're doin okay wherever you are now.",
+			date_str: "November 2023",
+			tags: ["fire_emblem", "lana", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xczk2294.png", "https://cdn.imgchest.com/files/345xcb9qqd7.png", "https://cdn.imgchest.com/files/84apcr3wwx4.png", "https://cdn.imgchest.com/files/k46acrb33e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcajezo4.png",
+			title: "Selia, firstborn daughter of Larcei & Seliph 1",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/MrTalkingDino/status/1757962956883828929",
+			desc: "Crown princess to Grannvale. She bears her father's kindhearted and caring qualities along with her mother's courageous and headstrong nature.",
+			date_str: "December 2023",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdc3dgg6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcvd53q7.png",
+			title: "Selia, firstborn daughter of Larcei & Seliph 2",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/MrTalkingDino/status/1777728832000389308",
+			desc: "By this time, Selia has made a name for herself as an indomitable swordswoman. No doubt her dual holy bloods play a part in her superior swordsmanship!",
+			date_str: "April 2024",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcbr33o7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcbr6gx7.png",
+			title: "Baou, secondborn son of Larcei & Seliph",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/MrTalkingDino/status/1793670498087551095",
+			desc: "Bearing the minor bloods of Od and Naga, he specializes in fighting with magic swords! Baou's words can be sharp but underneath his tough exterior is a compassionate man and kindhearted brother.",
+			date_str: "May 2024",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkcegkkg7.png", "https://cdn.imgchest.com/files/6yxkcegkkg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcqzj5j4.png",
+			title: "Selia, firstborn daughter of Larcei & Seliph 3",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/MrTalkingDino/status/1816863730283724964",
+			desc: "Selia will one day inherit Tyrfing from Seliph. With it, her abilities would know no bounds and the people would come to call her a \"Sword Goddess\"...",
+			date_str: "July 2024",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/g4z9cgwkkj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cwra364.png",
+			title: "Larcei, Queen of Grannvale twenty years later...",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/MrTalkingDino/status/1829542604314444203",
+			desc: "Twenty years after the end of the Final Holy War, here's Larcei as queen of Grannvale and mother to Selia and her many siblings!",
+			date_str: "August 2024",
+			tags: ["fire_emblem", "larcei", "other_character", "sfw"],
 			hidden: false
 		},
 		{

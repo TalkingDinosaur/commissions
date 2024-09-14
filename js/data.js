@@ -6014,6 +6014,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3ced8z64.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcvd5367.jpg",
+			title: "The books ain't the only thing thick in this library",
+			artist: "zdoor",
+			artist_url: "https://x.com/zdoor_616",
+			art_url: null,
+			desc: "",
+			date_str: "May 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cwrgaz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cwra3g4.png",
+			title: "Larcei, Seliph, and the door 1",
+			artist: "ZeroA",
+			artist_url: "https://www.pixiv.net/users/62272954",
+			art_url: "https://www.pixiv.net/artworks/96613675",
+			desc: "",
+			date_str: "February 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739cq6gj87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cjelav4.png",
+			title: "Larcei, Seliph, and the door 2",
+			artist: "ZeroA",
+			artist_url: "https://www.pixiv.net/users/62272954",
+			art_url: "https://www.pixiv.net/artworks/101534987",
+			desc: "",
+			date_str: "September 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/g4z9cgwkzx7.png", "https://cdn.imgchest.com/files/my8xczk25k4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcajezj4.png",
+			title: "The weight of leading the resistance is heavy...",
+			artist: "ZeroA",
+			artist_url: "https://www.pixiv.net/users/62272954",
+			art_url: "https://www.pixiv.net/artworks/119823069",
+			desc: "...but this tomboy's ass is heavier.",
+			date_str: "December 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

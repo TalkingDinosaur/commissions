@@ -5726,6 +5726,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3cedg5g4.png", "https://cdn.imgchest.com/files/j7mmcbrne87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzc6bkew7.png",
+			title: "Larcei, Seliph, and Selia out in the town!",
+			artist: "Voidloop",
+			artist_url: "https://x.com/LoopVoid",
+			art_url: "https://x.com/MrTalkingDino/status/1781488295752650838",
+			desc: "",
+			date_str: "April 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4nec9mnzz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc2k68xy.png",
+			title: "Fir and Larcei go to a Summer Festival",
+			artist: "Wanderstill",
+			artist_url: "https://x.com/WanderstillArt",
+			art_url: "https://x.com/WanderstillArt/status/1448839041638535170",
+			desc: "",
+			date_str: "Septemeber 2021",
+			tags: ["fire_emblem", "larcei", "fir", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcmde6k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjclw2xw7.png",
+			title: "Sword Gals to Axe Pals",
+			artist: "Wanderstill",
+			artist_url: "https://x.com/WanderstillArt",
+			art_url: "https://x.com/WanderstillArt/status/1438330296433352706",
+			desc: "",
+			date_str: "October 2021",
+			tags: ["fire_emblem", "larcei", "fir", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

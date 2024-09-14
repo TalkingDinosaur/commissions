@@ -3530,7 +3530,7 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/my8xc5j2dz4.png", "https://cdn.imgchest.com/files/j7kzcj6v3j7.png"],
+			src: ["https://cdn.imgchest.com/files/my8xc5j2dz4.png", "https://cdn.imgchest.com/files/j7kzcj6v3j7.png", "https://cdn.imgchest.com/files/b49zcjbvrby.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my8xc5j2dz4.png",
 			title: "Mnejing emotes",
 			artist: "Mnejing",

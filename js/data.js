@@ -3022,7 +3022,7 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "May 2020",
-			tags: ["fire_Emblem", "other_character", "sfw"],
+			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
 		},
 		{

@@ -248,6 +248,12 @@ a:hover, a:active {
 	border: 2px dashed #888ca2;
 }
 
+#tulipcei {
+	display: block;
+    width: 60%;
+    margin: -8% auto auto auto;
+}
+
 @media (max-width: 767px) {
 	/* Small devices (tablets, 768px and less) */
 	body {
@@ -304,6 +310,9 @@ a:hover, a:active {
 	.gallery-buttons-container {
 		float: left;
 	}
+	#tulipcei {
+		width: 80%;
+	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	/* Medium devices (desktops, 768px and up) */
@@ -355,6 +364,9 @@ a:hover, a:active {
 	}
 	.gallery-buttons-container {
 		float: left;
+	}
+	#tulipcei {
+		width: 80%;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px) {

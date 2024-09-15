@@ -3379,11 +3379,11 @@ var data = {
 			title: "Peri polishing her lance",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1835111272536588552",
 			desc: "",
 			date_str: "January 2024",
 			tags: ["fire_emblem", "peri", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/345xc2rqox7.png"],
@@ -3552,6 +3552,18 @@ var data = {
 			date_str: "August 2024",
 			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzc6x69j7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc2x2q6y.png",
+			title: "Hilda at the waterfall",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

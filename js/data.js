@@ -4460,7 +4460,7 @@ var data = {
 			artist: "Rakusai",
 			artist_url: "https://x.com/saisaigarou",
 			art_url: "https://www.pixiv.net/artworks/94505394",
-			desc: "Someone once commented on this piece saying \"The Thracian Dracoknights are useless in the final chapter because they're distract by Altena.\" So true.",
+			desc: "Someone once commented on this piece saying \"The Thracian Dracoknights are useless in the final chapter because they're distracted by Altena.\" So true.",
 			date_str: "November 2021",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false

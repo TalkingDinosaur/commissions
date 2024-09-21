@@ -63,7 +63,8 @@ $(document).ready(function() {
 	// If the URL has a hash, then open that image based on the hash index
 	if (window.location.hash) {
 		var hash_index = window.location.hash.substring(1);
-		$("#img"+hash_index).click();
+		// Permalink disabled for this site
+		//$("#img"+hash_index).click();
 	}
 	else {
 		ageVerification();

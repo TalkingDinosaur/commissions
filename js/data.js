@@ -5726,6 +5726,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3yrgc2na5p4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcxvqkv7.jpg",
+			title: "Larcei & Seliph post-battle",
+			artist: "verdie",
+			artist_url: "https://x.com/ladyverdigris",
+			art_url: "https://x.com/ladyverdigris/status/1836990992546771112",
+			desc: "",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4nec9mlr94.jpg", "https://cdn.imgchest.com/files/d7ogc2kxzzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcmoe9e7.jpg",
 			title: "Larcei laying in bed",

@@ -5309,7 +5309,7 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/k739cv5pkj7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3cmoxgz4.png",
 			title: "Seliph's heritage",
-			artist: "Tacitgret",
+			artist: "Tacitgrey",
 			artist_url: "https://x.com/tacitgrey",
 			art_url: null,
 			desc: "This comm was inspired by one of the sketches from FE4's production.",

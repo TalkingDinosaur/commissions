@@ -1813,6 +1813,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/g4z9c53x6o7.png", "https://cdn.imgchest.com/files/e4gdcq9r6e4.png", "https://cdn.imgchest.com/files/my8xcog8j84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acxve2g7.png",
+			title: "Larcei on top of Seliph\, as usual \<3",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/1838238361162776656",
+			desc: "",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",
@@ -5311,7 +5323,7 @@ var data = {
 			title: "Seliph's heritage",
 			artist: "Tacitgrey",
 			artist_url: "https://x.com/tacitgrey",
-			art_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1838238573004537993",
 			desc: "This comm was inspired by one of the sketches from FE4's production.",
 			date_str: "Septemeber 2024",
 			tags: ["fire_emblem", "seliph", "other_character", "sfw"],

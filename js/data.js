@@ -5306,6 +5306,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k739cv5pkj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cmoxgz4.png",
+			title: "Seliph's heritage",
+			artist: "Tacitgret",
+			artist_url: "https://x.com/tacitgrey",
+			art_url: null,
+			desc: "This comm was inspired by one of the sketches from FE4's production.",
+			date_str: "Septemeber 2024",
+			tags: ["fire_emblem", "seliph", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/wye3ce33rn4.jpeg", "https://cdn.imgchest.com/files/w7pjcloozr7.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcmrrnj7.jpg",
 			title: "The morning after",

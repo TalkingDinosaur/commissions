@@ -2137,6 +2137,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/g4z9c5nqvv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcxgavm7.png",
+			title: "War is hard but booba is soft",
+			artist: "Lean",
+			artist_url: "https://x.com/ninelean",
+			art_url: "https://x.com/MrTalkingDino/status/1838968807362076838",
+			desc: "",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyvdckadpry.png", "https://cdn.imgchest.com/files/k46acpnbwn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcjrz3l4.png",
 			title: "Larcei stakes her claim",

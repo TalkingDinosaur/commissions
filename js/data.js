@@ -733,6 +733,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/pyq9c9bvmp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc8jxwg7.jpg",
+			title: "Cleaning up~",
+			artist: "BLINK3R",
+			artist_url: "https://x.com/Blnk3r",
+			art_url: "https://x.com/Blnk3r/status/1838743764178747889",
+			desc: "",
+			date_str: "Septemeber 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cv3bqj4.jpg", "https://cdn.imgchest.com/files/myd5cme9264.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogcxbqbxy.jpg",
 			title: "Larcei Presenting 3",
@@ -2163,7 +2175,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/l4necqgr354.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzckdmpr7.png",
-			title: "Hungry for the Scion of Light",
+			title: "Hungry for the Scion of Light 1",
 			artist: "LewdyBug",
 			artist_url: "https://x.com/BugLewdy",
 			art_url: "https://x.com/MrTD2020/status/1806359329840504939",
@@ -2218,6 +2230,18 @@ var data = {
 			desc: "With a bit of breast envy from one...",
 			date_str: "March 2024",
 			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdcmznvmy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc526r24.png",
+			title: "Hungry for the Scion of Light 2",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/BugLewdy/status/1838745233896673437",
+			desc: "",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

@@ -1933,6 +1933,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l4necdmzj34.png", "https://cdn.imgchest.com/files/p7bwc5d6vq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9c59vrn7.png",
+			title: "The Azellewich",
+			artist: "JaaGal3h",
+			artist_url: "https://x.com/jagalxh",
+			art_url: null,
+			desc: "Birthday gift for a friend",
+			date_str: "September 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcpk88g4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdc6v2xo4.png",
 			title: "FE4 ring distribution",
@@ -3696,6 +3708,18 @@ var data = {
 			date_str: "August 2024",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcoqn334.png", "https://cdn.imgchest.com/files/345xcx8vd37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xcoqnm34.png",
+			title: "Big sword, small sheath",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: null,
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkc68xqo7.jpg", "https://cdn.imgchest.com/files/l4necpdolm4.jpg", "https://cdn.imgchest.com/files/p7bwcz5j227.png"],
@@ -5784,6 +5808,18 @@ var data = {
 			date_str: "April 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3cmg2aw4.png", "https://cdn.imgchest.com/files/g4z9c59von7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcqmxe84.png",
+			title: "Feeling his love",
+			artist: "Vehn",
+			artist_url: "https://x.com/vehn___",
+			art_url: null,
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgc2na5p4.jpg"],

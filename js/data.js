@@ -3715,11 +3715,11 @@ var data = {
 			title: "Big sword, small sheath",
 			artist: "mocomori",
 			artist_url: "https://x.com/mocomori_",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1841507934238302637",
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkc68xqo7.jpg", "https://cdn.imgchest.com/files/l4necpdolm4.jpg", "https://cdn.imgchest.com/files/p7bwcz5j227.png"],

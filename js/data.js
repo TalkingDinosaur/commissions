@@ -289,6 +289,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3cmgnnk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcv58pg7.png",
+			title: "\"Are you a leg man\, Seliph?\"",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/ahri_el90/status/1841574397129392629",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyvdc63k9jy.png", "https://cdn.imgchest.com/files/6yxkc2ewxe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcbrpwk4.png",
 			title: "Larcei's Holy Blood Quest 1",

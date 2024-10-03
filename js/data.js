@@ -1950,11 +1950,11 @@ var data = {
 			title: "The Azellewich",
 			artist: "JaaGal3h",
 			artist_url: "https://x.com/jagalxh",
-			art_url: null,
+			art_url: "https://x.com/jagalxh/status/1841663098429833496",
 			desc: "Birthday gift for a friend",
 			date_str: "September 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgcpk88g4.png"],
@@ -3724,7 +3724,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcoqn334.png", "https://cdn.imgchest.com/files/345xcx8vd37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my8xcoqnm34.png",
-			title: "Big sword, small sheath",
+			title: "Big sword, small thief",
 			artist: "mocomori",
 			artist_url: "https://x.com/mocomori_",
 			art_url: "https://x.com/MrTD2020/status/1841507934238302637",

@@ -1105,6 +1105,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k46acx28dg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxc8qwaa7.png",
+			title: "Larcei & Seliph bridal carry",
+			artist: "Cosme",
+			artist_url: "https://x.com/rthunderatk",
+			art_url: "https://x.com/rthunderatk/status/1842403860524015983",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xc8z8nv7.gif", "https://cdn.imgchest.com/files/k46acgog9o7.gif", "https://cdn.imgchest.com/files/84apcvzvn64.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc989vp4.gif",
 			title: "Women be shoppin",

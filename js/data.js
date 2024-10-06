@@ -3487,11 +3487,11 @@ var data = {
 			title: "Pulling out is not allowed in Jugdral",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1842718109649846666",
 			desc: "",
 			date_str: "February 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l7lxc5q5az7.png"],

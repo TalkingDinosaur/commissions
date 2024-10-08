@@ -613,6 +613,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/b49zcd5n8jy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necd38j84.png",
+			title: "The Double Date 2",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1843364312792084596",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9ce2pem4.png", "https://cdn.imgchest.com/files/myd5crgxrl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcdrw5z7.png",
 			title: "Larcei Presenting 2",
@@ -3648,6 +3660,18 @@ var data = {
 			date_str: "September 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5c6veqz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zcd52pny.png",
+			title: "Country girls... 2",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1843431865027572179",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

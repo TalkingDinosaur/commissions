@@ -1633,6 +1633,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/g4z9c2v3o97.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcwkala7.jpg",
+			title: "Larcei but her outfit has midriff now",
+			artist: "EPGART",
+			artist_url: "https://x.com/erik_epgart",
+			art_url: "https://x.com/MrTalkingDino/status/1844567008857231538",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cgjmgx4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my8xc23q5o4.jpg",
 			title: "Hel & Summoner chibi",

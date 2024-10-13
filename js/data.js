@@ -301,6 +301,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k739cln95x7.png", "https://cdn.imgchest.com/files/w7w6c8mlnby.png", "https://cdn.imgchest.com/files/wye3ckpaox4.png", "https://cdn.imgchest.com/files/g4z9c28o337.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc985p6y.png",
+			title: "Wild Princess, Larcei",
+			artist: "Arikawa44",
+			artist_url: "https://x.com/arikawa44",
+			art_url: "https://x.com/MrTalkingDino/status/1845544746556567889",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyvdc63k9jy.png", "https://cdn.imgchest.com/files/6yxkc2ewxe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcbrpwk4.png",
 			title: "Larcei's Holy Blood Quest 1",

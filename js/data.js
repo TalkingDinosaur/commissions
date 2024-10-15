@@ -1501,6 +1501,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcdrkma4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgclwrvd4.png",
+			title: "Did you bring protection?",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/1846211900834521316",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",

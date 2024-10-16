@@ -1525,6 +1525,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7kzcr5o6e7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcb5lg64.jpg",
+			title: "Showering at the waterfall",
+			artist: "DeepSpace",
+			artist_url: "https://x.com/DeepSpaceNSFW",
+			art_url: "https://x.com/MrTD2020/status/1846590143844528489",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cg9pjv4.jpg", "https://cdn.imgchest.com/files/3yrgcab3gd4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmc3qjje7.jpg",
 			title: "Facing the truth",

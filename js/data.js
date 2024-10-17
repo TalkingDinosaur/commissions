@@ -5474,6 +5474,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcdnqv94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4nec3k6go4.png",
+			title: "Sitting together; holding hands 😳",
+			artist: "sylphy",
+			artist_url: "https://x.com/sylphy_fe",
+			art_url: "https://x.com/MrTalkingDino/status/1846944000575439172",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739cv5pkj7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3cmoxgz4.png",
 			title: "Seliph's heritage",

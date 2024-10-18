@@ -2053,6 +2053,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/345xco3wr57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcml2ql7.png",
+			title: "Larcei Love",
+			artist: "Kaen",
+			artist_url: "https://x.com/yoltablaze",
+			art_url: "https://x.com/yoltablaze/status/1847089110927732788",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739cje58p7.jpg", "https://cdn.imgchest.com/files/w7w6c3bnpny.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdcek95d4.png",
 			title: "Seliph's trophy",
@@ -3060,6 +3072,18 @@ var data = {
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pcwlrb57.jpg", "https://cdn.imgchest.com/files/l7lxcml2br7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc9dn3my.jpg",
+			title: "You need to be more aware of your opponent...",
+			artist: "Mango-Nectar",
+			artist_url: "https://x.com/mangonectarchan",
+			art_url: null,
+			desc: "...or you might get hit with a counter!",
+			date_str: "October 2024",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cqgajx4.png"],

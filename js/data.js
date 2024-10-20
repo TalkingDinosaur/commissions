@@ -3746,6 +3746,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3ckb9pj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcl6pk84.png",
+			title: "Tancei returns",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",

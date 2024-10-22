@@ -1921,6 +1921,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcd3ljv4.png", "https://cdn.imgchest.com/files/pyq9cr2wed4.png", "https://cdn.imgchest.com/files/my2pcwdg687.png", "https://cdn.imgchest.com/files/l7lxcmrqda7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46ac632pr7.png",
+			title: "Pia in mermaid lingerie 2x",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: null,
+			desc: "",
+			date_str: "October 2024",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/g4z9c53x6o7.png", "https://cdn.imgchest.com/files/e4gdcq9r6e4.png", "https://cdn.imgchest.com/files/my8xcog8j84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acxve2g7.png",
 			title: "Larcei on top of Seliph\, as usual \<3",

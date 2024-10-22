@@ -5150,6 +5150,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/345xcoqrng7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcrez827.png",
+			title: "Larcei in a qipao",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/sachiko2s/status/1848586156243316854",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6ol837.png", "https://cdn.imgchest.com/files/w7pjcl8jm57.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6cklk9ny.png",
 			title: "Doing something",

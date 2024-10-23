@@ -1926,11 +1926,11 @@ var data = {
 			title: "Pia in mermaid lingerie 2x",
 			artist: "Gouble",
 			artist_url: "https://x.com/gouble3",
-			art_url: null,
+			art_url: "https://x.com/gouble3/status/1848897614940672172",
 			desc: "",
 			date_str: "October 2024",
 			tags: ["rune_factory", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/g4z9c53x6o7.png", "https://cdn.imgchest.com/files/e4gdcq9r6e4.png", "https://cdn.imgchest.com/files/my8xcog8j84.png"],

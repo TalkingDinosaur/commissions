@@ -2774,6 +2774,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l7lxcbaap87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cpqqe87.png",
+			title: "S for koma",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1850926575916666939",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "selia", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acp5rap7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necqj9jd4.jpg",
 			title: "Legendary Seliph",

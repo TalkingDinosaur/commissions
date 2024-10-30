@@ -6014,6 +6014,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/myd5c2qdvj4.png", "https://cdn.imgchest.com/files/3yrgcdrel34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xc6edrj4.png",
+			title: "Larcei & Seliph - Embracing",
+			artist: "ursla99",
+			artist_url: "https://x.com/ursla99",
+			art_url: "https://x.com/ursla99/status/1851582154599538856",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/wye3cmg2aw4.png", "https://cdn.imgchest.com/files/g4z9c59von7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdcqmxe84.png",
 			title: "Feeling his love",

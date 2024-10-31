@@ -2149,6 +2149,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7mmcxzbew7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cnxe5l4.png",
+			title: "Larcei dressed as Kahm",
+			artist: "Keldan",
+			artist_url: "https://x.com/KeldanCon",
+			art_url: "https://x.com/KeldanCon/status/1851718607648231744",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cldano4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cldn9w4.jpg",
 			title: "Larcei & Seliph - Sekiha Love Love Tenkyoken",

@@ -277,6 +277,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/p7bwcq3w9l7.png", "https://cdn.imgchest.com/files/w7pjcjbral7.png", "https://cdn.imgchest.com/files/d7ogczrdloy.png", "https://cdn.imgchest.com/files/j7kzcl92vr7.png", "https://cdn.imgchest.com/files/my2pcb3lpb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcxqjvv7.png",
+			title: "\"Toned physique, a healthy tan, and a determined personality.\"",
+			artist: "Artsheops",
+			artist_url: "https://x.com/ArtSHEOps",
+			art_url: null,
+			desc: "",
+			date_str: "October 2024",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc3qkla7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcbmpkq7.jpg",
 			title: "Larcei got a new shirt",
@@ -1969,6 +1981,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k739crbw5n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcdb3gv4.png",
+			title: "Twirl on it",
+			artist: "H!de",
+			artist_url: "https://x.com/SneakyHide",
+			art_url: "https://x.com/SneakyHide/status/1851857765838229757",
+			desc: "Birthday gift for friend.",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzckazmb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cl3jm84.png",
 			title: "Shantotto's experiment with Prishe",
@@ -2027,6 +2051,18 @@ var data = {
 			date_str: "July 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4necrba2r4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cqbmgb4.png",
+			title: "Huggin",
+			artist: "Infinit",
+			artist_url: "https://x.com/Infinit_art",
+			art_url: null,
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/d7ogc6b2avy.jpg"],
@@ -4199,6 +4235,18 @@ var data = {
 			desc: "",
 			date_str: "April 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcxqjqg7.jpg", "https://cdn.imgchest.com/files/k739crbwbn7.jpg", "https://cdn.imgchest.com/files/w7w6cw6566y.jpg", "https://cdn.imgchest.com/files/wye3cnw6wj4.jpg", "https://cdn.imgchest.com/files/g4z9cpjrjm7.jpg", "https://cdn.imgchest.com/files/e4gdczwew54.jpg", "https://cdn.imgchest.com/files/my8xc6vmvm4.jpg", "https://cdn.imgchest.com/files/345xc5p3pw7.jpg", "https://cdn.imgchest.com/files/84apc8qxqb4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5c29pjx4.jpg",
+			title: "Cherie & Elwin's one night together~",
+			artist: "NOLIA",
+			artist_url: "https://www.pixiv.net/users/4962782",
+			art_url: "https://www.pixiv.net/artworks/123905952",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

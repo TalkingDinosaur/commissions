@@ -4478,6 +4478,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/p7bwcq3mx27.png", "https://cdn.imgchest.com/files/w7pjcjbl5d7.png", "https://cdn.imgchest.com/files/d7ogczr256y.png", "https://cdn.imgchest.com/files/j7kzcl965j7.png", "https://cdn.imgchest.com/files/my2pcb3mzj7.png", "https://cdn.imgchest.com/files/84jdcp2an54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zclejxqy.png",
+			title: "Larcei & Seliph's Morning Ritual",
+			artist: "Odatakai",
+			artist_url: "https://x.com/Odatakai",
+			art_url: "https://x.com/Odatakai/status/1852737707333574943",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqraj64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcjm9r2y.png",
 			title: "Larcei's new swimsuit",

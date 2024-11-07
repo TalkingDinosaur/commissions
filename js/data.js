@@ -5174,6 +5174,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l4necrmq9w4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cpw63j7.png",
+			title: "What if Larcei wore a high-leg leotard with bikini armor?",
+			artist: "s_ryuken",
+			artist_url: "https://x.com/s_ryuken",
+			art_url: "https://x.com/MrTD2020/status/1854202787267063936",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/b49zcjplmey.png", "https://cdn.imgchest.com/files/l4nec9jrgj4.png", "https://cdn.imgchest.com/files/w7pjcl8jz57.png", "https://cdn.imgchest.com/files/d7ogc2qzgdy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3cej5px4.png",
 			title: "Larcei Jack-o pose",

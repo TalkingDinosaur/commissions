@@ -1549,6 +1549,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3cn9rmj4.png", "https://cdn.imgchest.com/files/g4z9cp6e5m7.png", "https://cdn.imgchest.com/files/e4gdcz6dq54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cp6aol7.png",
+			title: "The armor",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/decoxart/status/1854977612004704546",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2089,6 +2101,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7mmcxdo2e7.png", "https://cdn.imgchest.com/files/k739cr2eqz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6cwael8y.png",
+			title: "Under the stars and moonlight",
+			artist: "IRIS",
+			artist_url: "https://x.com/IRISLI0224",
+			art_url: "https://x.com/IRISLI0224/status/1855260900673896733",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4necdmzj34.png", "https://cdn.imgchest.com/files/p7bwc5d6vq7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9c59vrn7.png",
 			title: "The Azellewich",
@@ -2195,6 +2219,18 @@ var data = {
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcbqevo7.png", "https://cdn.imgchest.com/files/84jdcplk5x4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cn9xan4.png",
+			title: "The girls at the beach!",
+			artist: "Kiwii",
+			artist_url: "https://x.com/Kiwii_Line",
+			art_url: null,
+			desc: "It took me 2 weeks to design these swimsuits!",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "lana", "patty", "sfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9cldano4.jpg"],

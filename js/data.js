@@ -2226,7 +2226,7 @@ var data = {
 			title: "The girls at the beach!",
 			artist: "Kiwii",
 			artist_url: "https://x.com/Kiwii_Line",
-			art_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1856372012102656276",
 			desc: "It took me 2 weeks to design these swimsuits!",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "lana", "patty", "sfw"],

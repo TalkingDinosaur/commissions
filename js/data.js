@@ -2221,8 +2221,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/l7lxcbqevo7.png", "https://cdn.imgchest.com/files/84jdcplk5x4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/wye3cn9xan4.png",
+			src: ["https://cdn.imgchest.com/files/my8xc6z3qm4.png", "https://cdn.imgchest.com/files/345xc5bd8w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcl65xr7.png",
 			title: "The girls at the beach!",
 			artist: "Kiwii",
 			artist_url: "https://x.com/Kiwii_Line",
@@ -2230,7 +2230,7 @@ var data = {
 			desc: "It took me 2 weeks to design these swimsuits!",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "lana", "patty", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9cldano4.jpg"],

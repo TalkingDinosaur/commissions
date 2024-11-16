@@ -2053,6 +2053,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcpppk84.png", "https://cdn.imgchest.com/files/pyq9cqqqdn4.png", "https://cdn.imgchest.com/files/myd5c222qb4.png", "https://cdn.imgchest.com/files/3yrgcdddrz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5c2dmel4.png",
+			title: "Trust the healing process",
+			artist: "Hmage",
+			artist_url: "https://x.com/TheHmago",
+			art_url: null,
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "lana", "scathach", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcele2a4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6c3a3g2y.jpg",
 			title: "Larcei and Seliph side-by-side",
@@ -2219,6 +2231,18 @@ var data = {
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogczzzgry.png", "https://cdn.imgchest.com/files/j7kzcllldo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cqov3m4.png",
+			title: "In the moment",
+			artist: "Kenshin187",
+			artist_url: "https://x.com/kenshinx187",
+			art_url: null,
+			desc: "",
+			date_str: "November",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xc6z3qm4.png", "https://cdn.imgchest.com/files/345xc5bd8w7.png"],

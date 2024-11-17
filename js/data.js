@@ -3914,6 +3914,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xcdnwgk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcnkvva7.png",
+			title: "Patty's meal",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "ONovember 2024",
+			tags: ["fire_emblem", "patty", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",

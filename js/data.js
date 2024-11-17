@@ -286,7 +286,7 @@ var data = {
 			desc: "",
 			date_str: "October 2024",
 			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: true
+			hidden: 
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7kzc3qkla7.jpg"],
@@ -2062,7 +2062,7 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "lana", "scathach", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: 
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcele2a4.jpg"],
@@ -2086,7 +2086,7 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
-			hidden: true
+			hidden: 
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/d7ogc6b2avy.jpg"],
@@ -2242,7 +2242,7 @@ var data = {
 			desc: "",
 			date_str: "November",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: 
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xc6z3qm4.png", "https://cdn.imgchest.com/files/345xc5bd8w7.png"],
@@ -3052,7 +3052,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcengqk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzck58o87.png",
-			title: "Ganglot vs Eir \[REAL\]\[TRUE\]",
+			title: "Ganglot vs Eir \[REAL\]\[\]",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",
 			art_url: "https://x.com/LuckyMentha/status/1599546592788246528",
@@ -3239,7 +3239,7 @@ var data = {
 			desc: "...or you might get hit with a counter!",
 			date_str: "October 2024",
 			tags: ["other_series", "other_character", "nsfw"],
-			hidden: true
+			hidden: 
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cqgajx4.png"],
@@ -3751,11 +3751,11 @@ var data = {
 			title: "Lucina, did you lay this egg?",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1857951320243646560",
 			desc: "",
 			date_str: "March 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/g4z9cz6kl67.png"],

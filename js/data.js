@@ -4022,6 +4022,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3c5lxp64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcjnzk87.png",
+			title: "Patty's petered out~",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/MrTD2020/status/1859772628376178965",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkc68xqo7.jpg", "https://cdn.imgchest.com/files/l4necpdolm4.jpg", "https://cdn.imgchest.com/files/p7bwcz5j227.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcgv9pz7.jpg",
 			title: "Pogslime 1",

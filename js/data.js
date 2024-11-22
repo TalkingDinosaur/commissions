@@ -2058,11 +2058,11 @@ var data = {
 			title: "Trust the healing process",
 			artist: "Hmage",
 			artist_url: "https://x.com/TheHmago",
-			art_url: null,
+			art_url: "https://x.com/TheHmago/status/1860003246636696047",
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "lana", "scathach", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcele2a4.jpg"],

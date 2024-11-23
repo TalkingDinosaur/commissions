@@ -985,6 +985,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/84jdcqn6584.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgceg92z4.jpg",
+			title: "Intermission~",
+			artist: "Cheunart",
+			artist_url: "https://twitter.com/cheunart",
+			art_url: "https://x.com/cheunart/status/1860327679377178721",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cqep5jy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cmkolm4.jpg",
 			title: "Savor his expression~",

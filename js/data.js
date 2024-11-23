@@ -817,6 +817,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xcd9dkj4.jpg", "https://cdn.imgchest.com/files/345xcjnj9l7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcmgmx87.jpg",
+			title: "Deirdre & Ayra at the hot springs",
+			artist: "BLINK3R",
+			artist_url: "https://x.com/Blnk3r",
+			art_url: "https://x.com/Blnk3r/status/1860160880178266198",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "ayra", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cv3bqj4.jpg", "https://cdn.imgchest.com/files/myd5cme9264.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogcxbqbxy.jpg",
 			title: "Larcei Presenting 3",

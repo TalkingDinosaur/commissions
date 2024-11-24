@@ -6398,6 +6398,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d7ogc3n5ary.png", "https://cdn.imgchest.com/files/j7kzcm35po7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apc2og5z4.png",
+			title: "How to properly carry your prince",
+			artist: "YA-DON",
+			artist_url: "https://x.com/origin0beginer",
+			art_url: "https://x.com/MrTalkingDino/status/1860739441406456029",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cje2ae4.png", "https://cdn.imgchest.com/files/myd5cwrg3m4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdcgpjv24.png",
 			title: "What if Larcei wore a leotard instead of a tunic?",

@@ -2106,11 +2106,11 @@ var data = {
 			title: "Huggin",
 			artist: "Infinit",
 			artist_url: "https://x.com/Infinit_art",
-			art_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1861090658464710723",
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/d7ogc6b2avy.jpg"],
@@ -4586,8 +4586,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/p7bwcq3mx27.png", "https://cdn.imgchest.com/files/w7pjcjbl5d7.png", "https://cdn.imgchest.com/files/d7ogczr256y.png", "https://cdn.imgchest.com/files/j7kzcl965j7.png", "https://cdn.imgchest.com/files/my2pcb3mzj7.png", "https://cdn.imgchest.com/files/84jdcp2an54.png"],
-			thumbnail: "https://cdn.imgchest.com/files/b49zclejxqy.png",
+			src: ["https://cdn.imgchest.com/files/k739cd3lpa7.png", "https://cdn.imgchest.com/files/p7bwcq3mx27.png", "https://cdn.imgchest.com/files/w7pjcjbl5d7.png", "https://cdn.imgchest.com/files/d7ogczr256y.png", "https://cdn.imgchest.com/files/j7kzcl965j7.png", "https://cdn.imgchest.com/files/my2pcb3mzj7.png", "https://cdn.imgchest.com/files/84jdcp2an54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cdbv3g4.png",
 			title: "Larcei & Seliph's Morning Ritual",
 			artist: "Odatakai",
 			artist_url: "https://x.com/Odatakai",
@@ -4680,6 +4680,18 @@ var data = {
 			date_str: "August 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pc86wxr7.jpg", "https://cdn.imgchest.com/files/84jdcqbdrj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cd3lba7.jpg",
+			title: "Rinkah flash",
+			artist: "Pala",
+			artist_url: "https://x.com/lewdpala",
+			art_url: null,
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],

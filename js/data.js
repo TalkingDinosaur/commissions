@@ -6273,7 +6273,7 @@ var data = {
 			artist_url: "https://x.com/Vesper_NSFW",
 			art_url: "https://x.com/Vesper_NSFW/status/1862018035768541601",
 			desc: "You can find the sound/voiced version in the art link!",
-			date_str: "November 2024,
+			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

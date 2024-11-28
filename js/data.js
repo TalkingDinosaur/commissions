@@ -97,6 +97,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/k739cdjz687.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3c5qvd64.png",
+			title: "Pre-workout Stretch 3",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/Anander0/status/1861899913077903390",
+			desc: "",
+			date_str: "October 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",

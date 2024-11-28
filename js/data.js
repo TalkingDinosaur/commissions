@@ -6554,7 +6554,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/6yxkcegkkg7.png", "https://cdn.imgchest.com/files/6yxkcegkkg7.png"],
+			src: ["https://cdn.imgchest.com/files/6yxkcegkkg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcqzj5j4.png",
 			title: "Selia, firstborn daughter of Larcei & Seliph 3",
 			artist: "Yusi",

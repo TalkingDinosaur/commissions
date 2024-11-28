@@ -3314,6 +3314,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my8xcd5jpk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acmp2g67.png",
+			title: "Larcei",
+			artist: "Meqqey",
+			artist_url: "https://x.com/Meqqey",
+			art_url: "https://x.com/Meqqey/status/1862208811156603240",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xc528pp4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcpwo3v4.jpg",
 			title: "Larcei portrait",

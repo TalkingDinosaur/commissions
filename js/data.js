@@ -6266,6 +6266,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my2pc8ea3l7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwcnpjoo7.png",
+			title: "Quiet Night",
+			artist: "Vesper",
+			artist_url: "https://x.com/Vesper_NSFW",
+			art_url: "https://x.com/Vesper_NSFW/status/1862018035768541601",
+			desc: "You can find the sound/voiced version in the art link!",
+			date_str: "November 2024,
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4nec9mlr94.jpg", "https://cdn.imgchest.com/files/d7ogc2kxzzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcmoe9e7.jpg",
 			title: "Larcei laying in bed",

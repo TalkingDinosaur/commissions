@@ -3811,11 +3811,11 @@ var data = {
 			title: "Clothing swap \[Gone Right\]\[Gone Sexual\]",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1863012370915987795",
 			desc: "",
 			date_str: "April 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/345xc2rqxq7.png"],
@@ -3969,9 +3969,21 @@ var data = {
 			artist_url: "https://x.com/Mnejing30",
 			art_url: null,
 			desc: "",
-			date_str: "ONovember 2024",
+			date_str: "November 2024",
 			tags: ["fire_emblem", "patty", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcn569w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcaq3xq4.png",
+			title: "Morgan and her rat 2",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1862620821606539509",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
@@ -6599,6 +6611,18 @@ var data = {
 			desc: "Twenty years after the end of the Final Holy War, here's Larcei as queen of Grannvale and mother to Selia and her many siblings!",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xcdzdb54.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xcdoanr4.jpg",
+			title: "Selia post-training",
+			artist: "Yusi",
+			artist_url: "https://x.com/YusiVishnu",
+			art_url: "https://x.com/YouseeVishnu/status/1862247598368989227",
+			desc: "",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

@@ -3275,7 +3275,7 @@ var data = {
 			desc: "...or you might get hit with a counter!",
 			date_str: "October 2024",
 			tags: ["other_series", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cqgajx4.png"],
@@ -6280,7 +6280,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cmg2aw4.png", "https://cdn.imgchest.com/files/g4z9c59von7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdcqmxe84.png",
-			title: "Feeling his love",
+			title: "Feeling his strength",
 			artist: "Vehn",
 			artist_url: "https://x.com/vehn___",
 			art_url: null,

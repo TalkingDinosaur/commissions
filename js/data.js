@@ -5246,6 +5246,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/b49zc85qdly.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4nec63pd64.png",
+			title: "First Steps",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1863502844915331345",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcagnqv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec9e9qa4.png",
 			title: "Larcei in Langrisser style 2",

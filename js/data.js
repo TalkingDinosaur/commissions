@@ -6650,6 +6650,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcappd5e7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5996ga4.jpg",
+			title: "Larcei plays with her food",
+			artist: "zergbrush",
+			artist_url: "https://x.com/zergbrush",
+			art_url: "https://x.com/zergbrush/status/1864413542499197277",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cwrgaz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cwra3g4.png",
 			title: "Larcei, Seliph, and the door 1",

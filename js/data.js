@@ -4802,6 +4802,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpap39b7.jpg", "https://cdn.imgchest.com/files/yq9c3k3aak4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9a9ggz7.jpg",
+			title: "Larcei & Seliph reference sheet V2",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/MrTD2020/status/1864357013632770145",
+			desc: "My new personal reference sheet for Larcei & Seliph. Decided to commit to their detailed looks and also updated Larcei's height to be more accurate \:\^\). Also shooting star pubes.",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",

@@ -1777,6 +1777,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y2pckqa6e67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnx56md4.png",
+			title: "Mother and daughter",
+			artist: "Evomanaphy",
+			artist_url: "https://x.com/Evomanaphy",
+			art_url: "https://x.com/MrTalkingDino/status/1777174251226972626",
+			desc: "Bithday gift from Evo",
+			date_str: "April 2024",
+			tags: ["fire_emblem", "larcei", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzcjj6367.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k739c22q3p7.png",
 			title: "Topless Tomboy",
@@ -5282,6 +5294,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c2vobzr4.png", "https://cdn.imgchest.com/files/ye3c2vobnj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce53bnv4.png",
+			title: "Larcei in Helish garb",
+			artist: "Regulus",
+			artist_url: "https://x.com/SirKnightbot",
+			art_url: "https://x.com/SirKnightbot/status/1509186009937895432",
+			desc: "\+ no pants. Lovely gift from a friend.",
+			date_str: "July 2022",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cwkjdk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcenewd7.png",
 			title: "Larcei CYL8 propaganda 4",
@@ -6295,11 +6319,11 @@ var data = {
 			title: "Feeling his strength",
 			artist: "Vehn",
 			artist_url: "https://x.com/vehn___",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1865853205240057922",
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgc2na5p4.jpg"],

@@ -4735,11 +4735,11 @@ var data = {
 			title: "Rinkah flash",
 			artist: "Pala",
 			artist_url: "https://x.com/lewdpala",
-			art_url: null,
+			art_url: "https://x.com/lewdpala/status/1866818967601549319",
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],
@@ -4823,6 +4823,18 @@ var data = {
 			desc: "My new personal reference sheet for Larcei & Seliph. Decided to commit to their detailed looks and also updated Larcei's height to be more accurate \:\^\). Also shooting star pubes.",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pckq396k7.jpg", "https://cdn.imgchest.com/files/7lxcpajg6e7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvqj8dx7.jpg",
+			title: "Lana V2 & Scathach reference sheet",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/MrTD2020/status/1866532772241657944",
+			desc: "My new personal reference sheet for Lana & first time for Scathach. Decided to make Lana shorter as well.",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
 		{

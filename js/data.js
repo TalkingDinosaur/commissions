@@ -3206,6 +3206,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9arqzd7.png", "https://cdn.imgchest.com/files/4apc593ql54.png", "https://cdn.imgchest.com/files/yxkczpgvxx7.png", "https://cdn.imgchest.com/files/7pjcqnwbm97.png", "https://cdn.imgchest.com/files/7ogcbakrp5y.png", "https://cdn.imgchest.com/files/7kzcapb9827.png", "https://cdn.imgchest.com/files/yq9c3kebav4.png", "https://cdn.imgchest.com/files/yrgcnxzb5j4.png", "https://cdn.imgchest.com/files/7mmc9arqgd7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpadjg67.png",
+			title: "Embla's Honeymoon - Cleaning",
+			artist: "LuckyMentha",
+			artist_url: "https://x.com/LuckyMentha",
+			art_url: "https://x.com/MrTD2020/status/1867432006864511324",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "embla", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcenz2r4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acpkv8x7.jpg",
 			title: "Larcei",
@@ -4103,6 +4115,18 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ye3c2vdwom4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckqo39r7.png",
+			title: "I\'m sure it\'ll fit...",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/MrTD2020/status/1867602705897714028",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6023,6 +6047,18 @@ var data = {
 			desc: "",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/45xcva9pka7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcapb9e27.png",
+			title: "Post-seggs cuddles",
+			artist: "themanyoukilled",
+			artist_url: "https://x.com/themanyoukilled",
+			art_url: "https://x.com/MrTD2020/status/1867383969563492395",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

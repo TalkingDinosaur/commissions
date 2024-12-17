@@ -3247,7 +3247,7 @@ var data = {
 			title: "Grumpy Larcei Christmas",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",
-			art_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1869059826002837759",
 			desc: "",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],

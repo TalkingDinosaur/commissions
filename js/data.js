@@ -109,6 +109,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcnakv9g4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqnwb3p7.jpg",
+			title: "The workout",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTD2020/status/1868026680264282145",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -3218,6 +3230,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcx3pwop4.png", "https://cdn.imgchest.com/files/4apc593qwp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8zmbp34.png",
+			title: "Grumpy Larcei Christmas",
+			artist: "LuckyMentha",
+			artist_url: "https://x.com/LuckyMentha",
+			art_url: null,
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcenz2r4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acpkv8x7.jpg",
 			title: "Larcei",
@@ -4008,6 +4032,18 @@ var data = {
 			date_str: "November 2024",
 			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4apc593q3o4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwck6d3zq7.png",
+			title: "The lewd lady in Julia's book",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "A spiritual successor to one of Mnejing\'s old comics",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

@@ -1753,6 +1753,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c2vdjdb4.png", "https://cdn.imgchest.com/files/4z9cvqwnww7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3kepb94.png",
+			title: "Larcei squat",
+			artist: "ELS",
+			artist_url: "https://www.pixiv.net/users/8097971",
+			art_url: "https://www.pixiv.net/artworks/125227849",
+			desc: "I originally requested an iconic tits-n-ass pose but the artist opted for a spread legs squat instead. While the quality of the illustration is good, they also neglected to include her pubic hair with this new pose so I can never forgive them smh.",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkcqanal7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k739ckwpmm7.png",
 			title: "Just one more kid...",
@@ -6767,6 +6779,18 @@ var data = {
 			desc: "",
 			date_str: "May 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcapbook7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpadwjk7.jpg",
+			title: "Larcei's ready for bed!",
+			artist: "zdoor",
+			artist_url: "https://x.com/zdoor_616",
+			art_url: "https://x.com/MrTD2020/status/1868871575455646188",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{

@@ -306,11 +306,11 @@ var data = {
 			title: "\"Toned physique, a healthy tan, and a determined personality.\"",
 			artist: "Artsheops",
 			artist_url: "https://x.com/ArtSHEOps",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1872685435002208639",
 			desc: "",
 			date_str: "October 2024",
 			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7kzc3qkla7.jpg"],

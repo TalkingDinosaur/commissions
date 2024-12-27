@@ -1609,6 +1609,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc592bdn4.png", "https://cdn.imgchest.com/files/46acqlmzak7.png", "https://cdn.imgchest.com/files/yxkczp92jo7.png", "https://cdn.imgchest.com/files/49zc2n8zgzy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvxqjeb4.png",
+			title: "WE LOVE TOMBOYS!",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/1870984097348427825",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "other_character", "other_series", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -4466,6 +4478,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwx26rpy.jpg", "https://cdn.imgchest.com/files/7bwck6nb927.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2n8vbgy.jpg",
+			title: "Warm milk and cookies",
+			artist: "NiraiNini",
+			artist_url: "https://x.com/NiniNirai",
+			art_url: "https://x.com/NiniNirai/status/1871644241551892523",
+			desc: "Secret Santa gift for friend.",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "other)character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7mmcxqjqg7.jpg", "https://cdn.imgchest.com/files/k739crbwbn7.jpg", "https://cdn.imgchest.com/files/w7w6cw6566y.jpg", "https://cdn.imgchest.com/files/wye3cnw6wj4.jpg", "https://cdn.imgchest.com/files/g4z9cpjrjm7.jpg", "https://cdn.imgchest.com/files/e4gdczwew54.jpg", "https://cdn.imgchest.com/files/my8xc6vmvm4.jpg", "https://cdn.imgchest.com/files/345xc5p3pw7.jpg", "https://cdn.imgchest.com/files/84apc8qxqb4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5c29pjx4.jpg",
 			title: "Cherie & Elwin's one night together~",
@@ -4908,6 +4932,18 @@ var data = {
 			date_str: "December 2024",
 			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4apc592b3j4.jpg", "https://cdn.imgchest.com/files/46acqlmzbr7.jpg", "https://cdn.imgchest.com/files/yvdcwx26dmy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcapmbk57.jpg",
+			title: "CYL9 Propaganda 1",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: null,
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
@@ -5702,6 +5738,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9ae5pp7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcba3k6jy.jpg",
+			title: "Where Holy Blood goes to",
+			artist: "SexySquid",
+			artist_url: "https://x.com/sexysquidxxx",
+			art_url: null,
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xczw69l4.png", "https://cdn.imgchest.com/files/345xcbg5np7.png", "https://cdn.imgchest.com/files/84apcrk8nk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcl5vp37.png",
 			title: "Larcei finds a nice place to sit",
@@ -5795,6 +5843,18 @@ var data = {
 			desc: "",
 			date_str: "April 2024",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcapmn8j7.png", "https://cdn.imgchest.com/files/ye3c2v5bpx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpaod527.png",
+			title: "\"Astra is an Isaach technique passed down from the Sword Saint Od. Let me show you!\"",
+			artist: "Sinccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: "https://x.com/SINccubi/status/1871294425055592462",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6611,6 +6671,18 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ce5dbok4.png", "https://cdn.imgchest.com/files/739cxzd38b7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckq8oel7.png",
+			title: "Family outing!",
+			artist: "YA-DON",
+			artist_url: "https://x.com/origin0beginer",
+			art_url: "https://x.com/origin0beginer/status/1870001722258796886",
+			desc: "",
+			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
 			hidden: false
 		},
 		{

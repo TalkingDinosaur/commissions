@@ -1939,7 +1939,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://x.com/fusenryo2",
 			art_url: null,
-			desc: "",
+			desc: "Gift from a friend",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
@@ -2346,11 +2346,11 @@ var data = {
 			title: "In the moment",
 			artist: "Kenshin187",
 			artist_url: "https://x.com/kenshinx187",
-			art_url: null,
+			art_url: "https://x.com/kenshinx187/status/1875762907037986851",
 			desc: "",
 			date_str: "November",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xc6z3qm4.png", "https://cdn.imgchest.com/files/345xc5bd8w7.png"],

@@ -1621,6 +1621,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c338vm34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcww8k25y.png",
+			title: "CYL Propaganda 2",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -1918,6 +1930,18 @@ var data = {
 			desc: "",
 			date_str: "July 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pckkn5gn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec882q6d4.png",
+			title: "Larcei & Seliph across the fields",
+			artist: "fusenryo2",
+			artist_url: "https://x.com/fusenryo2",
+			art_url: null,
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -4082,6 +4106,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c22lglj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc22638jy.png",
+			title: "Country girls... 3",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "A follow-up to Mia Suspects the Corn",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -4850,6 +4886,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcnnv9mm4.jpg", "https://cdn.imgchest.com/files/7mmc99mn2b7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckk8pnr7.jpg",
+			title: "Thjazi squatting",
+			artist: "Pala",
+			artist_url: "https://x.com/lewdpala",
+			art_url: null,
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcb9vxz7.jpg",
 			title: "Larcei dress lift",
@@ -4956,6 +5004,18 @@ var data = {
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnnv9v84.jpg", "https://cdn.imgchest.com/files/7mmc99mnmg7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczzdw957.jpg",
+			title: "Patty V2 & Shannan reference sheet",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: null,
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],

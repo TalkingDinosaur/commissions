@@ -121,6 +121,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqq3obw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c332ak84.png",
+			title: "Another satisfying workout!",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTD2020/status/1876306865015095805",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -5011,7 +5023,7 @@ var data = {
 			title: "Patty V2 & Shannan reference sheet",
 			artist: "Pasquale",
 			artist_url: "https://x.com/dekura_",
-			art_url: null,
+			art_url: "https://x.com/dekura_/status/1877052653336764732",
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
@@ -6815,6 +6827,18 @@ var data = {
 			desc: "",
 			date_str: "December 2023",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnn2xkw4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcppr3aj7.jpg",
+			title: "Imminent kiss",
+			artist: "Yuruzuko",
+			artist_url: "https://x.com/yuuuuuzuko_7",
+			art_url: "https://x.com/yuuuuuzuko_7/status/1876193363155947954",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

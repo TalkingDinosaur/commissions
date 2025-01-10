@@ -4903,7 +4903,7 @@ var data = {
 			title: "Thjazi squatting",
 			artist: "Pala",
 			artist_url: "https://x.com/lewdpala",
-			art_url: null,
+			art_url: "https://x.com/lewdpala/status/1877714511009919484",
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],

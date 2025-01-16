@@ -2113,6 +2113,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqznevl7.png", "https://cdn.imgchest.com/files/7ogcbga9eoy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqnl6xj7.png",
+			title: "Larcei\'s hungry for more!",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/1879923948621811976",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",

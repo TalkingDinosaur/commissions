@@ -373,6 +373,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqzndze7.png", "https://cdn.imgchest.com/files/7ogcbgawgzy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwaxgaky.png",
+			title: "Larcei giving Seliph some succ",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/MrTD2020/status/1878576402523361610",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739cln95x7.png", "https://cdn.imgchest.com/files/w7w6c8mlnby.png", "https://cdn.imgchest.com/files/wye3ckpaox4.png", "https://cdn.imgchest.com/files/g4z9c28o337.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogc985p6y.png",
 			title: "Wild Princess, Larcei",
@@ -2629,6 +2641,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpear9j7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqnl3n37.png",
+			title: "Keeping Warm",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/MrTD2020/status/1878846562627133651",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcegj5l4.png", "https://cdn.imgchest.com/files/w7w6c3eol2y.png", "https://cdn.imgchest.com/files/my8xc5xmj34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdcegj5l4.png",
 			title: "Peri memepack",
@@ -4246,6 +4270,18 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/1867602705897714028",
 			desc: "",
 			date_str: "December 2024",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnea2np4.png", "https://cdn.imgchest.com/files/45xcv6aqv97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczbpkb67.png",
+			title: "You\'re doing great\, Lana!",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/MrTD2020/status/1877761398274449785",
+			desc: "",
+			date_str: "January 2025",
 			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
 		},

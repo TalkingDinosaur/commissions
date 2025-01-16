@@ -1635,7 +1635,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/yq9c338vm34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcww8k25y.png",
-			title: "CYL Propaganda 2",
+			title: "CYL9 Propaganda 2",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: null,
@@ -5827,11 +5827,11 @@ var data = {
 			title: "Where Holy Blood goes to",
 			artist: "SexySquid",
 			artist_url: "https://x.com/sexysquidxxx",
-			art_url: null,
+			art_url: "https://x.com/sexysquidxxx/status/1878634325476016348",
 			desc: "",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xczw69l4.png", "https://cdn.imgchest.com/files/345xcbg5np7.png", "https://cdn.imgchest.com/files/84apcrk8nk4.png"],
@@ -6046,6 +6046,18 @@ var data = {
 			art_url: "https://x.com/SquishLewds/status/1643992031163994112",
 			desc: "",
 			date_str: "April 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pck2qdqq7.jpg", "https://cdn.imgchest.com/files/7lxcpearap7.jpg", "https://cdn.imgchest.com/files/4jdcvkx3xk4.jpg", "https://cdn.imgchest.com/files/yq9c3dk2kz4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqznkpe7.jpg",
+			title: "Let\'s make a baby",
+			artist: "Sugag",
+			artist_url: "https://x.com/sugagsugag0524",
+			art_url: "https://x.com/MrTD2020/status/1877555582581817432",
+			desc: "",
+			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

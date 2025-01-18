@@ -4166,6 +4166,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwarbegy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceqkzjk4.png",
+			title: "Larcei touches grass",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1880391365491937646",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",

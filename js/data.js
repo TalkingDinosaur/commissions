@@ -5071,11 +5071,11 @@ var data = {
 			title: "CYL9 Propaganda 1",
 			artist: "Pasquale",
 			artist_url: "https://x.com/dekura_",
-			art_url: null,
+			art_url: "https://x.com/dekura_/status/1881371109129601310",
 			desc: "",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yrgcnnv9v84.jpg", "https://cdn.imgchest.com/files/7mmc99mnmg7.jpg"],

@@ -2101,6 +2101,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwavov2y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvkn9nn4.png",
+			title: "Always Together 2",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: null,
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/g4z9c53x6o7.png", "https://cdn.imgchest.com/files/e4gdcq9r6e4.png", "https://cdn.imgchest.com/files/my8xcog8j84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acxve2g7.png",
 			title: "Larcei on top of Seliph\, as usual \<3",
@@ -2146,6 +2158,18 @@ var data = {
 			desc: "Birthday gift for friend.",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnrgo364.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceqjljl4.png",
+			title: "POV: Seliph wakes up from a nap",
+			artist: "Haysey Draws",
+			artist_url: "https://bsky.app/profile/did:plc:yj5vnhcckihajql2h6k7ey5q",
+			art_url: "https://x.com/MrTD2020/status/1881510401294405870",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -2266,6 +2290,18 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4z9cveoxr67.png", "https://cdn.imgchest.com/files/4gdcxd5rek4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9ov8vr7.png",
+			title: "Larcei has some ice cream for you!",
+			artist: "Ishijima",
+			artist_url: "https://x.com/Ishijimajirou",
+			art_url: "https://x.com/Ishijimajirou/status/1881851772538654841",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},
 		{
@@ -5126,6 +5162,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7ogcbg5nd8y.jpg", "https://cdn.imgchest.com/files/7kzcad53297.jpg", "https://cdn.imgchest.com/files/y2pck2zrlx7.jpg", "https://cdn.imgchest.com/files/7lxcpen2lz7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3dgngm4.jpg",
+			title: "Dew mounts Brigid",
+			artist: "Pimpin Ninja",
+			artist_url: "https://www.pixiv.net/users/98799200",
+			art_url: "https://www.pixiv.net/artworks/126460956",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7pjclz5bo7.png", "https://cdn.imgchest.com/files/d7ogc2g5rvy.png", "https://cdn.imgchest.com/files/j7kzc6d59b7.png", "https://cdn.imgchest.com/files/my2pcm2z357.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k739cqe9dr7.png",
 			title: "Azelle, softest boy in Sigurd's army",
@@ -5254,6 +5302,18 @@ var data = {
 			art_url: "https://x.com/saisaigarou/status/1557589814542991361",
 			desc: "",
 			date_str: "August 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2blo5zy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnrgog64.png",
+			title: "Forest Quickie",
+			artist: "Rakusai",
+			artist_url: "https://x.com/saisaigarou",
+			art_url: "https://x.com/saisaigarou/status/1881555151745597847",
+			desc: "",
+			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

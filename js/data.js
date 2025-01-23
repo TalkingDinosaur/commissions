@@ -1650,11 +1650,11 @@ var data = {
 			title: "CYL9 Propaganda 2",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1882262033581879788",
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],

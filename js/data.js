@@ -2420,7 +2420,19 @@ var data = {
 			artist_url: "https://x.com/kenshinx187",
 			art_url: "https://x.com/kenshinx187/status/1875762907037986851",
 			desc: "",
-			date_str: "November",
+			date_str: "November 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2bo5loy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceqlpjx4.png",
+			title: "On the couch",
+			artist: "KiddyCorky",
+			artist_url: "https://x.com/KiddyCorky",
+			art_url: "https://x.com/KiddyCorky/status/1882666894567817467",
+			desc: "",
+			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

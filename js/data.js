@@ -4063,11 +4063,11 @@ var data = {
 			title: "When you bother mommy Hilda too much",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1883307279950455031",
 			desc: "",
 			date_str: "June 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdck5gl2y.png"],

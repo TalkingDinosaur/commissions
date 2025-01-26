@@ -2106,11 +2106,11 @@ var data = {
 			title: "Always Together 2",
 			artist: "Gouble",
 			artist_url: "https://x.com/gouble3",
-			art_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/1883349851309850844",
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/g4z9c53x6o7.png", "https://cdn.imgchest.com/files/e4gdcq9r6e4.png", "https://cdn.imgchest.com/files/my8xcog8j84.png"],
@@ -4039,11 +4039,11 @@ var data = {
 			title: "Clothing swap \[Gone Right\]\[Gone Sexual\]Again",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1883580202057691169",
 			desc: "",
 			date_str: "May 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/b49zc3q3n2y.png"],

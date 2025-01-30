@@ -841,6 +841,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczbeqr57.png", "https://cdn.imgchest.com/files/49zc2mjvwjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxeqk987.png",
+			title: "Alfonse gets boned",
+			artist: "BlankCanvas",
+			artist_url: "https://www.pixiv.net/en/users/33428754",
+			art_url: "https://x.com/MrTD2020/status/1884075268144521625",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "thrasir", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7mmc3kaln7.jpg", "https://cdn.imgchest.com/files/k739cglzog7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdc3dxm34.jpg",
 			title: "Larcei has two boobs",
@@ -1822,6 +1834,18 @@ var data = {
 			desc: "",
 			date_str: "January 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4z9cveg9kz7.jpg", "https://cdn.imgchest.com/files/4gdcxdgmo64.jpg", "https://cdn.imgchest.com/files/y8xcnezq2b4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2rega64.jpg",
+			title: "Borrowed shirt\~",
+			artist: "EmitX",
+			artist_url: "https://x.com/emit_x",
+			art_url: "https://x.com/MrTD2020/status/1884784766005780917",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3095,6 +3119,18 @@ var data = {
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "selia", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7bwckame9z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvka6po4.png",
+			title: "Nidhoggr Every Day",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1882987552287936926",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -5016,6 +5052,18 @@ var data = {
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxeqk367.jpg", "https://cdn.imgchest.com/files/7w6c2bkqrqy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2bkqlly.jpg",
+			title: "Panne\'s done waiting",
+			artist: "Pala",
+			artist_url: "https://x.com/lewdpala",
+			art_url: null,
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],

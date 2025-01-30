@@ -3411,7 +3411,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/4gdcx3pwop4.png", "https://cdn.imgchest.com/files/4apc593qwp4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4nec8zmbp34.png",
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqnpw287.png",
 			title: "Grumpy Larcei Christmas",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",

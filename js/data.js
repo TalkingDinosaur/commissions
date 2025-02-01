@@ -133,6 +133,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/45xcv65nb97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2rnl9o4.png",
+			title: "Ayra tries on Larcei\'s clothes",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/Anander0/status/1885050179151159437",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "ayra", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -2341,6 +2353,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczb3de67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2bwpaey.png",
+			title: "Double Holy Bloods means more stamina!",
+			artist: "jankpeanuts2",
+			artist_url: "https://x.com/jank365m",
+			art_url: "https://x.com/MrTD2020/status/1885761024290099620",
+			desc: "",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcpk88g4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdc6v2xo4.png",
 			title: "FE4 ring distribution",
@@ -2735,6 +2759,18 @@ var data = {
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcadlg6m7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvepm687.png",
+			title: "Muirne gets a warm gift",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: null,
+			desc: "Birthday gift for a friend",
+			date_str: "January 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcegj5l4.png", "https://cdn.imgchest.com/files/w7w6c3eol2y.png", "https://cdn.imgchest.com/files/my8xc5xmj34.png"],

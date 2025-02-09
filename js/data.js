@@ -1681,6 +1681,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvgr6rw4.png", "https://cdn.imgchest.com/files/739cxpokow7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcavox5d7.png",
+			title: "Urushihara styled Aizawa",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "Gift for a friend",
+			date_str: "February 2025",
+			tags: ["other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -6047,6 +6059,18 @@ var data = {
 			desc: "",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/45xcvzg8mw7.jpg", "https://cdn.imgchest.com/files/4apc5zkvlb4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp9wxn37.jpg",
+			title: "Elline making milk and honey",
+			artist: "SexySquid",
+			artist_url: "https://x.com/sexysquidxxx",
+			art_url: null,
+			desc: "",
+			date_str: "February 2025",
+			tags: ["other_character", "nsfw"],
 			hidden: false
 		},
 		{

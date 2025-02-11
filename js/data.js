@@ -337,6 +337,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3zmv9p4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5zxva24.png",
+			title: "Cuddling in bed",
+			artist: "Asu",
+			artist_url: "https://x.com/Aegis_Asu",
+			art_url: "https://twitter.com/Aegis_Asu/status/1552288514175340545?t=fIfdh7dSpQvVS9f6B5jsxw&s=19",
+			desc: "",
+			date_str: "June 2022",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc3qkla7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcbmpkq7.jpg",
 			title: "Larcei got a new shirt",

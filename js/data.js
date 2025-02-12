@@ -1698,7 +1698,7 @@ var data = {
 			title: "Urushihara styled Aizawa",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1888653057757442500",
 			desc: "Gift for a friend",
 			date_str: "February 2025",
 			tags: ["other_character", "nsfw"],
@@ -1873,6 +1873,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcavndkq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cekbqne4.png",
+			title: "Maybe just another kid...",
+			artist: "Eltonel",
+			artist_url: "https://x.com/EltonelArts",
+			art_url: null,
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/4z9cveg9kz7.jpg", "https://cdn.imgchest.com/files/4gdcxdgmo64.jpg", "https://cdn.imgchest.com/files/y8xcnezq2b4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2rega64.jpg",
 			title: "Borrowed shirt\~",
@@ -1990,6 +2002,18 @@ var data = {
 			desc: "",
 			date_str: "January 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8e5gnq4.png", "https://cdn.imgchest.com/files/7bwck9baez7.png", "https://cdn.imgchest.com/files/7pjcqa6zdv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3z6dxk4.png",
+			title: "Comparing hands",
+			artist: "Fukukichi2529",
+			artist_url: "https://x.com/fukukichi2529",
+			art_url: null,
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -7031,6 +7055,18 @@ var data = {
 			desc: "",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3z6dlk4.png", "https://cdn.imgchest.com/files/yd5cekbqae4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn86rmr4.png",
+			title: "Flower crown for Seliph",
+			artist: "YA-DON",
+			artist_url: "https://x.com/origin0beginer",
+			art_url: "https://x.com/origin0beginer/status/1889126801592701103",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

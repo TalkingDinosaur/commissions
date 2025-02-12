@@ -2014,7 +2014,7 @@ var data = {
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
-			hidden: false
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9c2g2bd4.png", "https://cdn.imgchest.com/files/84jdc3n32v4.png"],

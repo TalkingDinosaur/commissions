@@ -1878,11 +1878,11 @@ var data = {
 			title: "Maybe just another kid...",
 			artist: "Eltonel",
 			artist_url: "https://x.com/EltonelArts",
-			art_url: null,
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3li36d435ts23",
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/4z9cveg9kz7.jpg", "https://cdn.imgchest.com/files/4gdcxdgmo64.jpg", "https://cdn.imgchest.com/files/y8xcnezq2b4.jpg"],
@@ -2010,11 +2010,11 @@ var data = {
 			title: "Comparing hands",
 			artist: "Fukukichi2529",
 			artist_url: "https://x.com/fukukichi2529",
-			art_url: null,
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3li35jsnajc22",
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9c2g2bd4.png", "https://cdn.imgchest.com/files/84jdc3n32v4.png"],
@@ -2811,7 +2811,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/7kzcadlg6m7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cvepm687.png",
-			title: "Muirne gets a warm gift",
+			title: "Cum in the Commoner",
 			artist: "LewdyBug",
 			artist_url: "https://x.com/BugLewdy",
 			art_url: null,

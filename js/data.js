@@ -5147,7 +5147,7 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: false
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],

@@ -2818,7 +2818,7 @@ var data = {
 			desc: "Birthday gift for a friend",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcegj5l4.png", "https://cdn.imgchest.com/files/w7w6c3eol2y.png", "https://cdn.imgchest.com/files/my8xc5xmj34.png"],
@@ -3376,7 +3376,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcengqk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzck58o87.png",
-			title: "Ganglot vs Eir \[REAL\]\[\]",
+			title: "Ganglot vs Eir \[REAL\]\[TRUE\]",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",
 			art_url: "https://x.com/LuckyMentha/status/1599546592788246528",
@@ -4211,7 +4211,7 @@ var data = {
 			desc: "This was a reference to a twitter post",
 			date_str: "July 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my2pcgmprj7.png"],
@@ -4223,7 +4223,7 @@ var data = {
 			desc: "",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xc5j2dz4.png", "https://cdn.imgchest.com/files/j7kzcj6v3j7.png", "https://cdn.imgchest.com/files/b49zcjbvrby.png"],
@@ -4259,7 +4259,7 @@ var data = {
 			desc: "",
 			date_str: "September 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5c6veqz4.png"],
@@ -4283,7 +4283,7 @@ var data = {
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcdnwgk4.png"],
@@ -4295,7 +4295,7 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "patty", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/p7bwcn569w7.png"],
@@ -4319,7 +4319,7 @@ var data = {
 			desc: "A spiritual successor to one of Mnejing\'s old comics",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/ye3c22lglj4.png"],
@@ -4331,7 +4331,7 @@ var data = {
 			desc: "A follow-up to Mia Suspects the Corn",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: 
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yvdcwarbegy.png"],
@@ -5147,7 +5147,7 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: 
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],
@@ -5420,7 +5420,7 @@ var data = {
 			artist: "Rakusai",
 			artist_url: "https://x.com/saisaigarou",
 			art_url: "https://www.pixiv.net/artworks/94505394",
-			desc: "Someone once commented on this piece saying \"The Thracian Dracoknights are useless in the final chapter because they're distracted by Altena.\" So .",
+			desc: "Someone once commented on this piece saying \"The Thracian Dracoknights are useless in the final chapter because they're distracted by Altena.\" So true.",
 			date_str: "November 2021",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
@@ -7331,7 +7331,7 @@ var data = {
 			desc: "",
 			date_str: "",
 			tags: [""],
-			hidden: 
+			hidden: true
 		}
 	]
 };

@@ -5143,11 +5143,11 @@ var data = {
 			title: "Panne\'s done waiting",
 			artist: "Pala",
 			artist_url: "https://x.com/lewdpala",
-			art_url: null,
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lid46b6q3k2a",
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],

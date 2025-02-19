@@ -4526,6 +4526,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7w6c2ewlzvy.png", "https://cdn.imgchest.com/files/ye3c2xna8g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvgpneb4.png",
+			title: "Hey\, I just realized what Lana spelled backwards is!",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lihpmok6ms2b",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkc68xqo7.jpg", "https://cdn.imgchest.com/files/l4necpdolm4.jpg", "https://cdn.imgchest.com/files/p7bwcz5j227.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcgv9pz7.jpg",
 			title: "Pogslime 1",

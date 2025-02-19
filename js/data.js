@@ -1369,6 +1369,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcp9bnzp7.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvgpmg34.jpg",
+			title: "Patty & Shannan hugging at the end of the Holy War",
+			artist: "Danderfull",
+			artist_url: "https://x.com/Danderfull_",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3liijpoj2rc2a",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "patty", "shannan", "larcei", "seliph", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxcrjlzk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcab33d4.png",
 			title: "Patty & Shannan dynamic",
@@ -2221,6 +2233,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7w6c2ewlney.png", "https://cdn.imgchest.com/files/ye3c2xnaoo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3z9mrq4.png",
+			title: "An evil union between Julius and... Hilda!? ",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lifbahdl6s2c",
+			desc: "Wait a sec, whose room are they in...?",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",
@@ -2230,6 +2254,18 @@ var data = {
 			desc: "",
 			date_str: "March 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnx63gw4.png", "https://cdn.imgchest.com/files/45xcvz5dmn7.png", "https://cdn.imgchest.com/files/4apc5z8glg4.png", "https://cdn.imgchest.com/files/46acqodkvw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvg58dd4.png",
+			title: "Battle-ready Scions!",
+			artist: "GreenTapir0415",
+			artist_url: "https://x.com/GreenTapir0415",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3liffm5r5zs2y",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -2819,6 +2855,18 @@ var data = {
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7bwck9qxje7.png", "https://cdn.imgchest.com/files/7pjcqaj5m27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp98lm87.png",
+			title: "Anytime\, Anywhere",
+			artist: "Liesday",
+			artist_url: "https://x.com/Liesday",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lifrkcf7cs2t",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcegj5l4.png", "https://cdn.imgchest.com/files/w7w6c3eol2y.png", "https://cdn.imgchest.com/files/my8xc5xmj34.png"],
@@ -6214,6 +6262,18 @@ var data = {
 			art_url: "https://x.com/SINccubi/status/1871294425055592462",
 			desc: "",
 			date_str: "December 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2ewlmey.png", "https://cdn.imgchest.com/files/ye3c2xnapo4.png", "https://cdn.imgchest.com/files/4z9cvapo887.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cek6pvd4.png",
+			title: "Larcei's special dance",
+			artist: "SIRATAMA5656",
+			artist_url: "https://x.com/SIRATAMA5656",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lidbrjnlqc2s",
+			desc: "",
+			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

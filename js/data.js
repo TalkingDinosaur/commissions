@@ -4255,11 +4255,11 @@ var data = {
 			title: "Larcei is such a good girlfriend",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1893805830081822752",
 			desc: "This was a reference to a twitter post",
 			date_str: "July 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my2pcgmprj7.png"],

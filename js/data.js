@@ -3582,8 +3582,8 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kzrq8y.png",
 			title: "Nupital Nights",
 			artist: "Madras",
-			artist_url: "https://x.com/MauLegend",
-			art_url: "https://x.com/MrTD2020/status/1717979686440243436",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3liq34t7ov226",
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
@@ -3594,12 +3594,12 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/yxkczx25637.png",
 			title: "Tender love",
 			artist: "Madras",
-			artist_url: "https://x.com/MauLegend",
-			art_url: "https://x.com/MrTD2020/status/1717979686440243436",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lj3umh22ks2o",
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdce6nz54.png"],

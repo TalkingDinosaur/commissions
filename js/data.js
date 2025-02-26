@@ -3578,6 +3578,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvzbld94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kzrq8y.png",
+			title: "Nupital Nights",
+			artist: "Madras",
+			artist_url: "https://x.com/MauLegend",
+			art_url: "https://x.com/MrTD2020/status/1717979686440243436",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3a6wr64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczx25637.png",
+			title: "Tender love",
+			artist: "Madras",
+			artist_url: "https://x.com/MauLegend",
+			art_url: "https://x.com/MrTD2020/status/1717979686440243436",
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdce6nz54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdce6n9v4.png",
 			title: "Larcei sitting at the bar",
@@ -4392,6 +4416,18 @@ var data = {
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pcka6joq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjbllk7.png",
+			title: "Ayra says no pants",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "ayra", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
@@ -5844,6 +5880,18 @@ var data = {
 			date_str: "December 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/49zc2kzrxry.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8o5xxz4.png",
+			title: "Larcei wingmans for Lana",
+			artist: "Ribosoma",
+			artist_url: "https://x.com/ribosoma_42",
+			art_url: null,
+			desc: "",
+			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739cqp9db7.jpg"],

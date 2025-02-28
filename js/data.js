@@ -5887,11 +5887,11 @@ var data = {
 			title: "Larcei wingmans for Lana",
 			artist: "Ribosoma",
 			artist_url: "https://x.com/ribosoma_42",
-			art_url: null,
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lj7ci664pk2f",
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739cqp9db7.jpg"],

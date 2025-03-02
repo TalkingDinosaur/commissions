@@ -337,6 +337,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcn5qkmq4.png", "https://cdn.imgchest.com/files/7w6c2nkmjwy.png", "https://cdn.imgchest.com/files/ye3c2oepz54.png", "https://cdn.imgchest.com/files/4z9cv3g8gq7.png", "https://cdn.imgchest.com/files/4gdcx9gvgx4.png", "https://cdn.imgchest.com/files/y8xcngzlze4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmbkr57.png",
+			title: "Seggs Maniacs",
+			artist: "Artsheops",
+			artist_url: "https://x.com/ArtSHEOps",
+			art_url: "https://x.com/ArtSHEOps/status/1895685428675538993",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["porkymon", "hex_maniac", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/yq9c3zmv9p4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5zxva24.png",
 			title: "Cuddling in bed",
@@ -7007,6 +7019,18 @@ var data = {
 			desc: "",
 			date_str: "October 2022",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4apc5lrdp24.png", "https://cdn.imgchest.com/files/yvdcw93b5wy.png", "https://cdn.imgchest.com/files/yxkczxej6b7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lrde24.png",
+			title: "What's Muirne gonna do on the bed?",
+			artist: "Vodka13",
+			artist_url: "https://x.com/VodkaDrawings",
+			art_url: "https://x.com/VodkaDrawings/status/1896097946594394375",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

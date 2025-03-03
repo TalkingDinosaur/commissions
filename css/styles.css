@@ -199,7 +199,7 @@ a:hover, a:active {
 .show-all-button {
 	float: left;
 	margin-left: 10px;
-	width: 105px;
+	width: 110px;
 	color: white;
 	border: none;
 	padding: 0.4375rem 0.75rem;
@@ -398,6 +398,9 @@ a:hover, a:active {
 		font-size: 0.8rem;
 		display: inline-block;
 	}
+	.shuffle-button {
+		width: 45px;
+	}
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
 	/* Large devices (desktops, 992px and up) */
@@ -412,8 +415,12 @@ a:hover, a:active {
 	}
 	.sidebar-item-button {
 		font-size: 0.85rem;
+		padding: 10px 6px 10px 6px;
 	}
 }
 @media (min-width: 1400px) {
 	/* Large devices (large desktops, 1200px and up) */
+	.sidebar-item-button {
+		padding: 10px 7px 10px 7px;
+	}
 }

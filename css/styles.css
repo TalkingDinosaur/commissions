@@ -163,6 +163,8 @@ a:hover, a:active {
 	margin-bottom: 10px;
 	border-radius: 0.25rem;
 	font-weight: 900;
+	float: right;
+	width: 80%;
 }
 
 #dropdownMenuLink {
@@ -179,6 +181,27 @@ a:hover, a:active {
 }
 .tag-dropdown-button {
 	float: left;
+	margin-left: 10px;
+}
+#datepicker {
+	color: #fff;
+	background-color: #666a80;
+	border-color: #666a80;
+}
+#datepicker-dropdown {
+	background-color: #e1e4f2;
+	font-weight: bold;
+	padding: 3px 10px 3px 10px;
+	width: 190px;
+}
+#datepicker-reset {
+	background-color: #71758a;
+	font-weight: bold;
+	color: white;
+}
+#datepicker-dropdown > label {
+	margin-top: 3px;
+	margin-bottom: 3px;
 }
 .shuffle-button {
 	float: left;
@@ -313,6 +336,9 @@ a:hover, a:active {
 	#tulipcei {
 		width: 80%;
 	}
+	#search-bar {
+		width: 100%;
+	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	/* Medium devices (desktops, 768px and up) */
@@ -368,6 +394,9 @@ a:hover, a:active {
 	#tulipcei {
 		width: 80%;
 	}
+	#search-bar {
+		width: 100%;
+	}
 }
 @media (min-width: 992px) and (max-width: 1199px) {
 	/* Medium devices (desktops, 992px and up) */
@@ -400,6 +429,9 @@ a:hover, a:active {
 	}
 	.shuffle-button {
 		width: 45px;
+	}
+	#search-bar {
+		width: 100%;
 	}
 }
 @media (min-width: 1200px) and (max-width: 1399px) {

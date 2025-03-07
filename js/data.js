@@ -5212,7 +5212,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9cxvxpb4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cb9b2o7.gif",
-			title: "Applying Astra in procreative ways\~",
+			title: "Applying Astra in procreative ways\~ (Animation)",
 			artist: "OppaiHobby",
 			artist_url: "https://x.com/OppaiHobby",
 			art_url: "https://x.com/OppaiHobby/status/1550363956795015168",
@@ -5224,7 +5224,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cnmnxx4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3czgzkl4.gif",
-			title: "\"You won't escape~\"",
+			title: "\"You won't escape~\" (Animation)",
 			artist: "OppaiHobby",
 			artist_url: "https://x.com/OppaiHobby",
 			art_url: "https://x.com/OppaiHobby/status/1640966828720640000",

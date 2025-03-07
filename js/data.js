@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "selia", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "hex_maniac", "other_character", "doujin", "sfw", "nsfw"],
+			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "selia", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "hex_maniac", "other_character", "doujin", "animation", "sfw", "nsfw"],
 			hidden: true
 		},
 		{
@@ -1371,25 +1371,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my2pc5akzd7.png", "https://cdn.imgchest.com/files/l7lxcx3pn57.png", "https://cdn.imgchest.com/files/84jdc6zvnl4.png", "https://cdn.imgchest.com/files/pyq9cva3gx4.png", "https://cdn.imgchest.com/files/myd5cm3ejw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ebw4.png",
-			title: "Larcei & Seliph teatime (Animation)",
+			title: "Larcei & Seliph teatime",
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/RyoTsuneVA/status/1726730197628514601",
 			desc: "I was stunned one morning when I got the notification that two people dubbed this commission and it was so beautiful to listen to.<p>You can find the sound/voiced version in the art link~</p>",
 			date_str: "August 2023",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739ck5x9r7.png", "https://cdn.imgchest.com/files/w7w6cqn2lxy.png", "https://cdn.imgchest.com/files/wye3cgo26v4.png", "https://cdn.imgchest.com/files/e4gdcm9xed4.png", "https://cdn.imgchest.com/files/345xc8mv3m7.png", "https://cdn.imgchest.com/files/84apcvl5xd4.png", "https://cdn.imgchest.com/files/k46acgvqw87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdc6zvbl4.png",
-			title: "Larcei vs 3 Seliphs (Animation)",
+			title: "Larcei vs 3 Seliphs",
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/CinderDryadVA/status/1775662301221433795",
 			desc: "An unbelievable and amazing project conducted by me, DaguDr, CinderDryad, and RyoTsune. This is truly one of the greatest projects I've had the priviliege to organize. :) <p>You can find the sound/voiced version in the art link~</p>",
 			date_str: "April 2024",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5212,25 +5212,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/pyq9cxvxpb4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cb9b2o7.gif",
-			title: "Applying Astra in procreative ways\~ (Animation)",
+			title: "Applying Astra in procreative ways\~",
 			artist: "OppaiHobby",
 			artist_url: "https://x.com/OppaiHobby",
 			art_url: "https://x.com/OppaiHobby/status/1550363956795015168",
 			desc: "LARCEI ENDLESSLY PUMPS SELIPH'S HOLY SEED FROM HIS BODY WITH ASTRA-INFUSED PUMPS THAT WILL BLOW HIS MIND AND DESTROY HIS PELVIS",
 			date_str: "July 2022",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cnmnxx4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3czgzkl4.gif",
-			title: "\"You won't escape~\" (Animation)",
+			title: "\"You won't escape~\"",
 			artist: "OppaiHobby",
 			artist_url: "https://x.com/OppaiHobby",
 			art_url: "https://x.com/OppaiHobby/status/1640966828720640000",
 			desc: "",
 			date_str: "March 2023",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6496,25 +6496,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdc3eqmxy.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkceoawk7.jpg",
-			title: "Futaba (Animation)",
+			title: "Futaba",
 			artist: "Spiritrush",
 			artist_url: "https://x.com/Spirit_Rushh",
 			art_url: "https://x.com/Spirit_Rushh/status/1659335757616562179",
 			desc: "",
 			date_str: "May 2023",
-			tags: ["other_series", "other_character", "nsfw"],
+			tags: ["other_series", "other_character", "animation", "nsfw"],
 			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkcem38z7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcjox33y.jpg",
-			title: "Wanna be friends? (Animation)",
+			title: "Wanna be friends?",
 			artist: "Spiritrush",
 			artist_url: "https://x.com/Spirit_Rushh",
 			art_url: "https://x.com/Spirit_Rushh/status/1696579535603376566",
 			desc: "Debut animation of my nudeable Hex Maniac model made by Samus.",
 			date_str: "August 2023",
-			tags: ["porkymon", "hex_maniac", "nsfw"],
+			tags: ["porkymon", "hex_maniac", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7072,13 +7072,13 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my2pc8ea3l7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcnpjoo7.png",
-			title: "Quiet Night (Animation)",
+			title: "Quiet Night",
 			artist: "Vesper",
 			artist_url: "https://x.com/Vesper_NSFW",
 			art_url: "https://x.com/Vesper_NSFW/status/1862018035768541601",
 			desc: "You can find the sound/voiced version in the art link!",
 			date_str: "November 2024",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{

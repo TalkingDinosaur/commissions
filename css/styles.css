@@ -203,6 +203,9 @@ a:hover, a:active {
 	margin-top: 3px;
 	margin-bottom: 3px;
 }
+#year, #month, #year > option, #month > option {
+	font-weight: bold;
+}
 .shuffle-button {
 	float: left;
 	margin-left: 10px;

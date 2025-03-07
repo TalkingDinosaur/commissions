@@ -421,6 +421,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqxzl9z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjbev37.png",
+			title: "Something is poking up Larcei's skirt",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/ahri_el90/status/1897086691443360167",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739cln95x7.png", "https://cdn.imgchest.com/files/w7w6c8mlnby.png", "https://cdn.imgchest.com/files/wye3ckpaox4.png", "https://cdn.imgchest.com/files/g4z9c28o337.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogc985p6y.png",
 			title: "Wild Princess, Larcei",
@@ -1729,6 +1741,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cv8egnk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwba3zly.png",
+			title: "Lonely Sonya",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlwsfmkf22t",
+			desc: "Gift for a friend",
+			date_str: "March 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2110,6 +2134,18 @@ var data = {
 			desc: "Collab with a former associate.",
 			date_str: "March 2023",
 			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcb8g2qly.png", "https://cdn.imgchest.com/files/7kzcaed6o87.png", "https://cdn.imgchest.com/files/7lxcpgevwj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk6bpl7.png",
+			title: "Selia Relaxes \+ Chibi",
+			artist: "Gerald",
+			artist_url: "https://x.com/GeraldJess1",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljpwubyo2c2o",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -2578,6 +2614,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxneqo37.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqanr8x7.png",
+			title: "Fa Yuiry & Methuss",
+			artist: "KimA",
+			artist_url: "https://x.com/PoruKima",
+			art_url: "https://x.com/PoruKima/status/1897444244710941085",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["other_series", "other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -3610,6 +3658,18 @@ var data = {
 			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lj3umh22ks2o",
 			desc: "",
 			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxneq937.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2gmje8y.png",
+			title: "A good king gives thanks to his queen",
+			artist: "Madras",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlqwpy5wc2r",
+			desc: "",
+			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
@@ -6346,6 +6406,18 @@ var data = {
 			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lidbrjnlqc2s",
 			desc: "",
 			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8wg9az4.png", "https://cdn.imgchest.com/files/7bwckgamwk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wg9jz4.png",
+			title: "Walking in on Seliph & Larcei",
+			artist: "snze",
+			artist_url: "https://www.pixiv.net/users/1001850",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljkwfzpfns2f",
+			desc: "",
+			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

@@ -4942,7 +4942,7 @@ var data = {
 			art_url: "https://x.com/NiniNirai/status/1871644241551892523",
 			desc: "Secret Santa gift for friend.",
 			date_str: "November 2024",
-			tags: ["fire_emblem", "other)character", "nsfw"],
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

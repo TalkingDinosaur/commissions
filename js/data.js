@@ -6496,7 +6496,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdc3eqmxy.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkceoawk7.jpg",
-			title: "Futaba loop",
+			title: "Futaba (Animation)",
 			artist: "Spiritrush",
 			artist_url: "https://x.com/Spirit_Rushh",
 			art_url: "https://x.com/Spirit_Rushh/status/1659335757616562179",
@@ -6508,7 +6508,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkcem38z7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcjox33y.jpg",
-			title: "Wanna be friends? Animation",
+			title: "Wanna be friends? (Animation)",
 			artist: "Spiritrush",
 			artist_url: "https://x.com/Spirit_Rushh",
 			art_url: "https://x.com/Spirit_Rushh/status/1696579535603376566",
@@ -7072,7 +7072,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my2pc8ea3l7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcnpjoo7.png",
-			title: "Quiet Night",
+			title: "Quiet Night (Animation)",
 			artist: "Vesper",
 			artist_url: "https://x.com/Vesper_NSFW",
 			art_url: "https://x.com/Vesper_NSFW/status/1862018035768541601",

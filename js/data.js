@@ -346,7 +346,7 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["porkymon", "hex_maniac", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yq9c3zmv9p4.png"],
@@ -2862,11 +2862,11 @@ var data = {
 			title: "Cum in the Commoner",
 			artist: "LewdyBug",
 			artist_url: "https://x.com/BugLewdy",
-			art_url: null,
-			desc: "Birthday gift for a friend",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlwsfmkf22t",
+			desc: "Muirne birthday gift for a friend",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7bwck9qxje7.png", "https://cdn.imgchest.com/files/7pjcqaj5m27.png"],

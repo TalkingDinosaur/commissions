@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "selia", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "hex_maniac", "other_character", "doujin", "sfw", "nsfw"],
+			tags: ["fire_emblem", "porkymon", "rune_factory", "other_series", "larcei", "seliph", "selia", "patty", "shannan", "lana", "scathach", "julia", "ayra", "fir", "peri", "hel", "thrasir", "ganglot", "embla", "hex_maniac", "other_character", "doujin", "animation", "sfw", "nsfw"],
 			hidden: true
 		},
 		{
@@ -346,7 +346,7 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["porkymon", "hex_maniac", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yq9c3zmv9p4.png"],
@@ -417,6 +417,18 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/1878576402523361610",
 			desc: "",
 			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcqxzl9z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjbev37.png",
+			title: "Something is poking up Larcei's skirt",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/ahri_el90/status/1897086691443360167",
+			desc: "",
+			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
@@ -1359,25 +1371,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/my2pc5akzd7.png", "https://cdn.imgchest.com/files/l7lxcx3pn57.png", "https://cdn.imgchest.com/files/84jdc6zvnl4.png", "https://cdn.imgchest.com/files/pyq9cva3gx4.png", "https://cdn.imgchest.com/files/myd5cm3ejw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ebw4.png",
-			title: "Larcei & Seliph teatime (Animation)",
+			title: "Larcei & Seliph teatime",
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/RyoTsuneVA/status/1726730197628514601",
 			desc: "I was stunned one morning when I got the notification that two people dubbed this commission and it was so beautiful to listen to.<p>You can find the sound/voiced version in the art link~</p>",
 			date_str: "August 2023",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739ck5x9r7.png", "https://cdn.imgchest.com/files/w7w6cqn2lxy.png", "https://cdn.imgchest.com/files/wye3cgo26v4.png", "https://cdn.imgchest.com/files/e4gdcm9xed4.png", "https://cdn.imgchest.com/files/345xc8mv3m7.png", "https://cdn.imgchest.com/files/84apcvl5xd4.png", "https://cdn.imgchest.com/files/k46acgvqw87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdc6zvbl4.png",
-			title: "Larcei vs 3 Seliphs (Animation)",
+			title: "Larcei vs 3 Seliphs",
 			artist: "DaguDr",
 			artist_url: "https://x.com/DaguDr",
 			art_url: "https://x.com/CinderDryadVA/status/1775662301221433795",
 			desc: "An unbelievable and amazing project conducted by me, DaguDr, CinderDryad, and RyoTsune. This is truly one of the greatest projects I've had the priviliege to organize. :) <p>You can find the sound/voiced version in the art link~</p>",
 			date_str: "April 2024",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -1726,6 +1738,18 @@ var data = {
 			desc: "Gift for a friend",
 			date_str: "February 2025",
 			tags: ["other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4z9cv8egnk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwba3zly.png",
+			title: "Lonely Sonya",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlwsfmkf22t",
+			desc: "Gift for a friend",
+			date_str: "March 2025",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -2113,6 +2137,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7ogcb8g2qly.png", "https://cdn.imgchest.com/files/7kzcaed6o87.png", "https://cdn.imgchest.com/files/7lxcpgevwj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk6bpl7.png",
+			title: "Selia Relaxes \+ Chibi",
+			artist: "Gerald",
+			artist_url: "https://x.com/GeraldJess1",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljpwubyo2c2o",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/b49zc9r2d6y.png", "https://cdn.imgchest.com/files/l4necnx8dk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdvqgo7.png",
 			title: "Larcei Summer 2023",
@@ -2481,7 +2517,7 @@ var data = {
 			art_url: "https://x.com/JunuNsfw/status/1673864938870153218",
 			desc: "\"The salad is next.\" -Rule34 commentator",
 			date_str: "June 2023",
-			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -2578,6 +2614,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxneqo37.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqanr8x7.png",
+			title: "Fa Yuiry & Methuss",
+			artist: "KimA",
+			artist_url: "https://x.com/PoruKima",
+			art_url: "https://x.com/PoruKima/status/1897444244710941085",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["other_series", "other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -2862,11 +2910,11 @@ var data = {
 			title: "Cum in the Commoner",
 			artist: "LewdyBug",
 			artist_url: "https://x.com/BugLewdy",
-			art_url: null,
-			desc: "Birthday gift for a friend",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlwsfmkf22t",
+			desc: "Muirne birthday gift for a friend",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7bwck9qxje7.png", "https://cdn.imgchest.com/files/7pjcqaj5m27.png"],
@@ -3610,6 +3658,18 @@ var data = {
 			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lj3umh22ks2o",
 			desc: "",
 			date_str: "February 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxneq937.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2gmje8y.png",
+			title: "A good king gives thanks to his queen",
+			artist: "Madras",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlqwpy5wc2r",
+			desc: "",
+			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
@@ -4882,7 +4942,7 @@ var data = {
 			art_url: "https://x.com/NiniNirai/status/1871644241551892523",
 			desc: "Secret Santa gift for friend.",
 			date_str: "November 2024",
-			tags: ["fire_emblem", "other)character", "nsfw"],
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5158,7 +5218,7 @@ var data = {
 			art_url: "https://x.com/OppaiHobby/status/1550363956795015168",
 			desc: "LARCEI ENDLESSLY PUMPS SELIPH'S HOLY SEED FROM HIS BODY WITH ASTRA-INFUSED PUMPS THAT WILL BLOW HIS MIND AND DESTROY HIS PELVIS",
 			date_str: "July 2022",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5170,7 +5230,7 @@ var data = {
 			art_url: "https://x.com/OppaiHobby/status/1640966828720640000",
 			desc: "",
 			date_str: "March 2023",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6350,6 +6410,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec8wg9az4.png", "https://cdn.imgchest.com/files/7bwckgamwk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wg9jz4.png",
+			title: "Walking in on Seliph & Larcei",
+			artist: "snze",
+			artist_url: "https://www.pixiv.net/users/1001850",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljkwfzpfns2f",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqwdo84.png", "https://cdn.imgchest.com/files/j7mmcblx8g7.png", "https://cdn.imgchest.com/files/k739cqormn7.png", "https://cdn.imgchest.com/files/wye3cejn3j4.png", "https://cdn.imgchest.com/files/g4z9cgnpxm7.png", "https://cdn.imgchest.com/files/84apcrk8ob4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdcg5kal4.png",
 			title: "Making the third generation",
@@ -6424,25 +6496,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdc3eqmxy.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkceoawk7.jpg",
-			title: "Futaba loop",
+			title: "Futaba",
 			artist: "Spiritrush",
 			artist_url: "https://x.com/Spirit_Rushh",
 			art_url: "https://x.com/Spirit_Rushh/status/1659335757616562179",
 			desc: "",
 			date_str: "May 2023",
-			tags: ["other_series", "other_character", "nsfw"],
+			tags: ["other_series", "other_character", "animation", "nsfw"],
 			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkcem38z7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcjox33y.jpg",
-			title: "Wanna be friends? Animation",
+			title: "Wanna be friends?",
 			artist: "Spiritrush",
 			artist_url: "https://x.com/Spirit_Rushh",
 			art_url: "https://x.com/Spirit_Rushh/status/1696579535603376566",
 			desc: "Debut animation of my nudeable Hex Maniac model made by Samus.",
 			date_str: "August 2023",
-			tags: ["porkymon", "hex_maniac", "nsfw"],
+			tags: ["porkymon", "hex_maniac", "animation", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7006,7 +7078,7 @@ var data = {
 			art_url: "https://x.com/Vesper_NSFW/status/1862018035768541601",
 			desc: "You can find the sound/voiced version in the art link!",
 			date_str: "November 2024",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
 			hidden: false
 		},
 		{

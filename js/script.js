@@ -266,6 +266,7 @@ function translateWord(word) {
 		hex_maniac: "Hex Maniac",
 		other_character: "Other Character",
 		doujin: "Doujin",
+		animation: "Animation",
 		sfw: "SFW",
 		nsfw: "NSFW"
 	};

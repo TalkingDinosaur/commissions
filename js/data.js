@@ -2517,7 +2517,7 @@ var data = {
 			art_url: "https://x.com/JunuNsfw/status/1673864938870153218",
 			desc: "\"The salad is next.\" -Rule34 commentator",
 			date_str: "June 2023",
-			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "animation", "nsfw"],
 			hidden: false
 		},
 		{

@@ -5438,6 +5438,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqa988e7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckg838p7.jpg",
+			title: "Selia reference sheet",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://bsky.app/profile/dekura.bsky.social/post/3ljzzho6utc2o",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",

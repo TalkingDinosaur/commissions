@@ -769,6 +769,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcaejdp97.png", "https://cdn.imgchest.com/files/y2pck9g2qx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgzk5q7.png",
+			title: "The Double Date 3",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1900628322037403727",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9ce2pem4.png", "https://cdn.imgchest.com/files/myd5crgxrl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcdrw5z7.png",
 			title: "Larcei Presenting 2",
@@ -4502,6 +4514,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcaejara7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8mb9ay.png",
+			title: "Making Febail & Patty",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -6146,6 +6170,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcnkprx64.png", "https://cdn.imgchest.com/files/7mmc9wdoar7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wp8d34.png",
+			title: "Another couch falls",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/sachiko2s/status/1900425215861002525",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6ol837.png", "https://cdn.imgchest.com/files/w7pjcl8jm57.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6cklk9ny.png",
 			title: "Doing something",
@@ -6299,6 +6335,18 @@ var data = {
 			desc: "Gift for a friend",
 			date_str: "February 2025",
 			tags: ["other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c35w3rm4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqx3qgp7.jpg",
+			title: "Grannvalian Mating Press Noises",
+			artist: "SexySquid",
+			artist_url: "https://x.com/sexysquidxxx",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lkez6eo7nk2w",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

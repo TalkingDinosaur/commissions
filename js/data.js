@@ -2413,6 +2413,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpgollx7.png", "https://cdn.imgchest.com/files/4jdcvwq8834.png", "https://cdn.imgchest.com/files/yq9c35omml4.png", "https://cdn.imgchest.com/files/yd5cezdpp84.png", "https://cdn.imgchest.com/files/yrgcnke33m4.png", "https://cdn.imgchest.com/files/7mmc9wejjb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2p566n4.png",
+			title: "It will just take a minute",
+			artist: "Hmage",
+			artist_url: "https://x.com/TheHmago",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lkt2j7ecg22l",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcele2a4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6c3a3g2y.jpg",
 			title: "Larcei and Seliph side-by-side",
@@ -3496,7 +3508,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcengqk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzck58o87.png",
-			title: "Ganglot vs Eir \[REAL\]\[TRUE\]",
+			title: "Ganglot vs Eir \[REAL\]\[\]",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",
 			art_url: "https://x.com/LuckyMentha/status/1599546592788246528",
@@ -4375,11 +4387,11 @@ var data = {
 			title: "Nidhoggr gets drunk off something else",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1903596245001576463",
 			desc: "",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xc5j2dz4.png", "https://cdn.imgchest.com/files/j7kzcj6v3j7.png", "https://cdn.imgchest.com/files/b49zcjbvrby.png"],
@@ -4667,6 +4679,18 @@ var data = {
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcqxprdd7.png", "https://cdn.imgchest.com/files/7ogcb83dw6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvaer34.png",
+			title: "Continuing Genealogies",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/mocomori_/status/1902886892347052265",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "lana", "patty", "nsfw"],
 			hidden: false
 		},
 		{

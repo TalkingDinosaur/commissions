@@ -1417,6 +1417,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/739cxbbrrn7.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce9922q4.jpg",
+			title: "Larcei reads the news while Seliph naps",
+			artist: "Danderfull",
+			artist_url: "https://x.com/Danderfull_",
+			art_url: "https://x.com/Danderfull_/status/1905014179259617324",
+			desc: "Looks like Julia has an article about herself.",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxcrjlzk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcab33d4.png",
 			title: "Patty & Shannan dynamic",
@@ -4536,6 +4548,18 @@ var data = {
 			date_str: "March 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4z9cvjjppm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnbbdd84.png",
+			title: "They banned Red40",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1904315697553170842",
+			desc: "",
+			date_str: "March 2025",
+			tags: ["fire_emblem", "thrasir", "sfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

@@ -145,6 +145,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/45xcvpemeq7.png", "https://cdn.imgchest.com/files/yvdcwz696jy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck36adx7.png",
+			title: "Lewyyn & Erinys soaring and streaking",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTD2020/status/1907586583332597946",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",

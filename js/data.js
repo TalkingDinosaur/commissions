@@ -3580,7 +3580,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcengqk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzck58o87.png",
-			title: "Ganglot vs Eir \[REAL\]\[\]",
+			title: "Ganglot vs Eir \[REAL\]\[TRUE\]",
 			artist: "LuckyMentha",
 			artist_url: "https://x.com/LuckyMentha",
 			art_url: "https://x.com/LuckyMentha/status/1599546592788246528",

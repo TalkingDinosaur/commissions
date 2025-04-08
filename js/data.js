@@ -2461,6 +2461,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqbvrxe7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqbv9x57.png",
+			title: "Baou, the second-born son of Larcei & Seliph!",
+			artist: "Icoooos",
+			artist_url: "https://x.com/icoooos",
+			art_url: "https://x.com/MrTalkingDino/status/1909278413573288429",
+			desc: "Gift from a friend.",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4necrba2r4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cqbmgb4.png",
 			title: "Huggin",
@@ -2689,6 +2701,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzca9z2om7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpjkzbn7.png",
+			title: "Seliph & Larcei splashing around at the beach! ",
+			artist: "Kousetu0506",
+			artist_url: "https://x.com/kousetu0506",
+			art_url: "https://x.com/kousetu0506/status/1909219919981433313",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cldano4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cldn9w4.jpg",
 			title: "Larcei & Seliph - Sekiha Love Love Tenkyoken",
@@ -2818,6 +2842,18 @@ var data = {
 			desc: "",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ce9npx34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3bx89n4.png",
+			title: "Parenthood with Larcei & Seliph",
+			artist: "Lazzledazzle",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: "https://x.com/MrTalkingDino/status/1908695366683549933",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -3374,6 +3410,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc2erxery.gif", "https://cdn.imgchest.com/files/4nec8bxab94.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca9zge37.gif",
+			title: "Baby Selia emote",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acp5rap7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necqj9jd4.jpg",
 			title: "Legendary Seliph",
@@ -3719,6 +3767,18 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbredrzy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv2om584.png",
+			title: "The two most precious people in Larcei's life",
+			artist: "Madras",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: "https://x.com/MrTalkingDino/status/1908193580604416285",
+			desc: "\(she hasn't had her second baby yet.\)",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
 			hidden: false
 		},
 		{

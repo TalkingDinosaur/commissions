@@ -7154,6 +7154,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwck3nbro7.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8b65rn4.png",
+			title: "Sporty Larcei",
+			artist: "ToRoRoKafKa",
+			artist_url: "https://x.com/ToRoRoKafKa",
+			art_url: "https://x.com/ToRoRoKafKa/status/1910727613947273384",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cjnnbr4.png", "https://cdn.imgchest.com/files/myd5cwll924.png", "https://cdn.imgchest.com/files/3yrgcqoobe4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec9vx8v4.png",
 			title: "Larcei hot & sweaty",

@@ -145,7 +145,7 @@ a:hover, a:active {
 }
 
 .checkbox-menu li.active label {
-	background-color: #cbcbff;
+	background-color: #e5cbff;
 	font-weight:bold;
 }
 
@@ -156,7 +156,7 @@ a:hover, a:active {
 
 .checkbox-menu li.active label:hover,
 .checkbox-menu li.active label:focus {
-	background-color: #b8b8ff;
+	background-color: #d9b8f2;
 }
 
 #search-bar {
@@ -188,6 +188,11 @@ a:hover, a:active {
 	background-color: #a17bbd;
 	border-color: #a17bbd;
 }
+#datepicker:hover {
+	background-color: #b894d3;
+	cursor: pointer;
+	color: white;
+}
 #datepicker-dropdown {
 	background-color: #d9b8f2;
 	font-weight: bold;
@@ -195,7 +200,7 @@ a:hover, a:active {
 	width: 190px;
 }
 #datepicker-reset {
-	background-color: #71758a;
+	background-color: #a17bbd;
 	font-weight: bold;
 	color: white;
 }

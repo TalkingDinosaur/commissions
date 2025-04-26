@@ -1813,7 +1813,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/7pjcq8329n7.png"],
+			src: ["https://cdn.imgchest.com/files/7pjcq8329n7.png", "https://cdn.imgchest.com/files/7ogcbqm6jby.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckxgd8g7.png",
 			title: "The besties",
 			artist: "Decox",

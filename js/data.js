@@ -361,6 +361,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwe5kbny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczm6k9a7.png",
+			title: "The girls chatting",
+			artist: "Asphodelis",
+			artist_url: "https://bsky.app/profile/did:plc:zfjwu4abbosprhi4feiqpdfg",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lmpoilggqc2q",
+			desc: "\"Is Fortnite actually overrated?\"",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "lana", "patty", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/yq9c3zmv9p4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5zxva24.png",
 			title: "Cuddling in bed",
@@ -441,6 +453,18 @@ var data = {
 			art_url: "https://x.com/ahri_el90/status/1897086691443360167",
 			desc: "",
 			date_str: "March 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcq833ng7.png", "https://cdn.imgchest.com/files/7ogcbqmma9y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcaojwmk7.png",
+			title: "Cum Fun in the Sun",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/ahri_el90/status/1915514451530572231",
+			desc: "",
+			date_str: "April 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
@@ -1783,9 +1807,21 @@ var data = {
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3ljlwsfmkf22t",
-			desc: "Gift for a friend",
+			desc: "",
 			date_str: "March 2025",
 			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcq8329n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckxgd8g7.png",
+			title: "The besties",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTalkingDino/status/1915567018151206935",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "lana", "patty", "nsfw"],
 			hidden: false
 		},
 		{
@@ -2569,6 +2605,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczm6wvk7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckvzend7.jpg",
+			title: "Selia strikes her family pose!",
+			artist: "JulianVanist",
+			artist_url: "https://x.com/JcnJulian",
+			art_url: "https://x.com/MrTalkingDino/status/1914711248719204590",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4necq899a4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5caewww4.gif",
 			title: "Julia's Salad",
@@ -2686,6 +2734,18 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["other_series", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3pwl534.PNG", "https://cdn.imgchest.com/files/yd5cex8azq4.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/46acq523m97.png",
+			title: "Four Murasame sensing the presence of a boy with a man's name",
+			artist: "Xiva",
+			artist_url: "https://x.com/XivastrA",
+			art_url: "https://x.com/MrTD2020/status/1911252799456944250",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -4634,6 +4694,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cvn6zjm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8jpn654.png",
+			title: "Mysterious Forest Lady Succ",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -5459,6 +5531,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5cex8axq4.jpg", "https://cdn.imgchest.com/files/yrgcnwpjw84.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq83dpk7.jpg",
+			title: "Getting frisky at the waterfall",
+			artist: "Pala",
+			artist_url: "https://x.com/lewdpala",
+			art_url: "https://x.com/MrTD2020/status/1915204486865576262",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6350,6 +6434,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvrlemw4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpwqrok7.jpg",
+			title: "What if Larcei wore a high-leg leotard with bikini armor again?",
+			artist: "SaradUdon",
+			artist_url: "https://x.com/SaradUdon",
+			art_url: "https://x.com/SaradUdon/status/1915858100739011035",
+			desc: "Seliph was so lucky.",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4nec9jrde4.png", "https://cdn.imgchest.com/files/my2pcmxbvn7.png", "https://cdn.imgchest.com/files/l7lxcvwb8n7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acrorp87.png",
 			title: "Hex Maniac Mastersex nudeable model",
@@ -6467,6 +6563,18 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5cex8a9q4.jpg", "https://cdn.imgchest.com/files/yrgcnwpjb84.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2pq98oy.jpg",
+			title: "Lana & Scathach get daring~",
+			artist: "SexySquid",
+			artist_url: "https://x.com/sexysquidxxx",
+			art_url: "https://x.com/MrTD2020/status/1913374320925295080",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
 		{

@@ -7826,8 +7826,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/46acqqva2v7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yq9c33a5wr4.png",
+			src: ["https://cdn.imgchest.com/files/7ogcbjlmmmy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9mzd397.png",
 			title: "Selia flexes!",
 			artist: "zantetsukenn_",
 			artist_url: "https://x.com/zantetsukenn_",

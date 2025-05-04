@@ -1917,7 +1917,7 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "April 2025",
-			tags: ["ofire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: true
 		},
 		{

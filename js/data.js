@@ -1909,6 +1909,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc5nzejv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9mzd397.png",
+			title: "Ride him until he sees his parents again",
+			artist: "DoeHorn",
+			artist_url: "https://x.com/LounaImm",
+			art_url: null,
+			desc: "",
+			date_str: "April 2025",
+			tags: ["ofire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84apcvx6we4.png", "https://cdn.imgchest.com/files/k46acgwn3j7.png", "https://cdn.imgchest.com/files/pyvdcnpag3y.png", "https://cdn.imgchest.com/files/6yxkcqabk87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acgwnjm7.png",
 			title: "Larcei \"pregnancy\" scare",
@@ -3626,6 +3638,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9mzd2q7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnv8pax4.jpg",
+			title: "A Peaceful Moment",
+			artist: "Louna",
+			artist_url: "https://x.com/LounaImm",
+			art_url: "https://x.com/LounaImm/status/1916859581449327062",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/p7bwcpx9qe7.png", "https://cdn.imgchest.com/files/w7pjc25aj27.png", "https://cdn.imgchest.com/files/d7ogc65lzmy.png", "https://cdn.imgchest.com/files/j7kzck5vlz7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcezax97.png",
 			title: "Sloppy Blowjob Tomboy",
@@ -4567,11 +4591,11 @@ var data = {
 			title: "Hilda at the waterfall",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1918836586550112760",
 			desc: "",
 			date_str: "September 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5c6veqz4.png"],
@@ -4702,6 +4726,18 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "April 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcagvjkz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpz9qx87.png",
+			title: "Altena and her BadWyvern",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "May 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true
 		},
@@ -6386,6 +6422,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc26aqqby.png", "https://cdn.imgchest.com/files/4nec82eppl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c38zwvq4.png",
+			title: "The forests of Jugdral are a popular hot spot!",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/sachiko2s/status/1916374122860335159",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6ol837.png", "https://cdn.imgchest.com/files/w7pjcl8jm57.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6cklk9ny.png",
 			title: "Doing something",
@@ -6684,6 +6732,18 @@ var data = {
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ceok8ad4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvmgl6d4.png",
+			title: "Eitri sends you the wrong video at the end of Book V",
+			artist: "Sinccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: null,
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7w6c2ewlmey.png", "https://cdn.imgchest.com/files/ye3c2xnapo4.png", "https://cdn.imgchest.com/files/4z9cvapo887.png"],
@@ -7763,6 +7823,18 @@ var data = {
 			desc: "His reign broke the cycle of hatred between Loptrians and the people of Jugdral and ushered the continent into a new era of peace. ",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/46acqqva2v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c33a5wr4.png",
+			title: "Selia flexes!",
+			artist: "zantetsukenn_",
+			artist_url: "https://x.com/zantetsukenn_",
+			art_url: "https://x.com/zantetsukenn_/status/1916824460344087029",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

@@ -1913,12 +1913,12 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9mzd397.png",
 			title: "Ride him until he sees his parents again",
 			artist: "DoeHorn",
-			artist_url: "https://x.com/LounaImm",
-			art_url: null,
+			artist_url: "https://x.com/doehorn_tw",
+			art_url: "https://x.com/doehorn_tw/status/1919416371559149740",
 			desc: "",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84apcvx6we4.png", "https://cdn.imgchest.com/files/k46acgwn3j7.png", "https://cdn.imgchest.com/files/pyvdcnpag3y.png", "https://cdn.imgchest.com/files/6yxkcqabk87.png"],

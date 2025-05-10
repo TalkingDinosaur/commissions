@@ -6764,7 +6764,7 @@ var data = {
 			artist: "Sinccubi",
 			artist_url: "https://x.com/SINccubi",
 			art_url: "https://x.com/SINccubi/status/1920916687278293502",
-			desc: "",
+			desc: "Collab with a friend.",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false

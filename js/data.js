@@ -2521,6 +2521,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcq9obk27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceop8lo4.png",
+			title: "Selia, the ever-smiling crown princess of Grannvale!",
+			artist: "Icoooos",
+			artist_url: "https://x.com/icoooos",
+			art_url: "https://x.com/MrTalkingDino/status/1919793082100543854",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4necrba2r4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cqbmgb4.png",
 			title: "Huggin",
@@ -5714,6 +5726,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec82vbak4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c38mwnp4.jpg",
+			title: "Queen Larcei reference sheet",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/dekura_/status/1920524096606978174",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",
@@ -6739,11 +6763,11 @@ var data = {
 			title: "Eitri sends you the wrong video at the end of Book V",
 			artist: "Sinccubi",
 			artist_url: "https://x.com/SINccubi",
-			art_url: null,
+			art_url: "https://x.com/SINccubi/status/1920916687278293502",
 			desc: "",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7w6c2ewlmey.png", "https://cdn.imgchest.com/files/ye3c2xnapo4.png", "https://cdn.imgchest.com/files/4z9cvapo887.png"],
@@ -6755,6 +6779,18 @@ var data = {
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcag39xz7.png", "https://cdn.imgchest.com/files/y2pcknr35m7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9mjd8j7.png",
+			title: "Larcei and her big naturals",
+			artist: "Snazzypunpkin",
+			artist_url: "https://x.com/snazzypumpkin",
+			art_url: "https://x.com/MrTD2020/status/1918829567386513779",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7823,6 +7859,18 @@ var data = {
 			desc: "His reign broke the cycle of hatred between Loptrians and the people of Jugdral and ushered the continent into a new era of peace. ",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ceol9jn4.png", "https://cdn.imgchest.com/files/yrgcnvobgq4.png", "https://cdn.imgchest.com/files/7mmc9m8qvp7.png", "https://cdn.imgchest.com/files/739cx8mb9l7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvm8l924.png",
+			title: "Larcei\'s favorite position",
+			artist: "yuuri_splatoon",
+			artist_url: "https://x.com/yuuri_splatoon",
+			art_url: "https://x.com/yuuri_splatoon/status/1920676648963223979",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

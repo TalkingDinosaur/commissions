@@ -337,6 +337,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpzkoll7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvnljmr7.png",
+			title: "Selia shines like the stars!",
+			artist: "Arknights_yuu12",
+			artist_url: "https://x.com/Arknights_yuu12",
+			art_url: "https://x.com/MrTalkingDino/status/1921254891747439098",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/p7bwcq3w9l7.png", "https://cdn.imgchest.com/files/w7pjcjbral7.png", "https://cdn.imgchest.com/files/d7ogczrdloy.png", "https://cdn.imgchest.com/files/j7kzcl92vr7.png", "https://cdn.imgchest.com/files/my2pcb3lpb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcxqjvv7.png",
 			title: "\"Toned physique, a healthy tan, and a determined personality.\"",
@@ -2077,6 +2089,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c38xovw4.jpg", "https://cdn.imgchest.com/files/yd5ceondmn4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2pjxnry.jpg",
+			title: "Larcei & Seliph waste no time to consummate their marriage!",
+			artist: "Evomanaphy",
+			artist_url: "https://x.com/Evomanaphy",
+			art_url: "https://x.com/Evomanaphy/status/1923069856456331670?t=EEdLQ3oP6v1NUgVYwGcbpQ&s=19",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9c2gvwn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cko9zb7.png",
 			title: "Seliph & Larcei Galaxy Mule",
@@ -2181,6 +2205,18 @@ var data = {
 			art_url: null,
 			desc: "Gift from a friend",
 			date_str: "January 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pcknj8557.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2lz5od4.png",
+			title: "The beginning of the rest of their lives",
+			artist: "fusenryo2",
+			artist_url: "https://x.com/fusenryo2",
+			art_url: null,
+			desc: "",
+			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
@@ -2758,6 +2794,18 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["other_series", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/45xcvnlj8z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx8ka9o4.png",
+			title: "Blood That Binds",
+			artist: "Kini",
+			artist_url: "https://x.com/Kinigoni",
+			art_url: "https://x.com/MrTalkingDino/status/1922656425056014694",
+			desc: "My FE4 29th Anniversary celebratory comm",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "seliph", "julia", "other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -3506,6 +3554,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwck8ln2w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvmbl397.png",
+			title: "Orb Spiritbomb",
+			artist: "Lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: "https://x.com/MrTalkingDino/status/1922882192381706654",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acp5rap7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necqj9jd4.jpg",
 			title: "Legendary Seliph",
@@ -3995,6 +4055,18 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cx8adkl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx8ad5m7.png",
+			title: "Legendary Seliph",
+			artist: "Meqqey",
+			artist_url: "https://x.com/Meqqey",
+			art_url: "https://x.com/Meqqey/status/1923093666643501062",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -4752,6 +4824,18 @@ var data = {
 			date_str: "May 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7mmc9m2ej37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn9bdg54.png",
+			title: "I Witness Sins Not Tragedies",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1922080437398036685",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "julia", "sfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
@@ -7703,6 +7787,18 @@ var data = {
 			desc: "",
 			date_str: "June 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2pjxqwy.png", "https://cdn.imgchest.com/files/4z9cvmblkq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5nj2lj4.png",
+			title: "Akane in the Middle",
+			artist: "Yashiro",
+			artist_url: "https://x.com/yashiroMA02",
+			art_url: "https://www.pixiv.net/artworks/130418623",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

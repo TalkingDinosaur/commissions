@@ -7526,6 +7526,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9mkwbw7.png", "https://cdn.imgchest.com/files/739cx8lnqb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnvlkq54.png",
+			title: "Selia - Light of Jugdral",
+			artist: "ursla99",
+			artist_url: "https://x.com/ursla99",
+			art_url: "https://x.com/ursla99/status/1923712104818933910",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2p8mkgy.png", "https://cdn.imgchest.com/files/ye3c2lkpel4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvnokxe7.png",
+			title: "Bonus Larceis!",
+			artist: "ursla99",
+			artist_url: "https://x.com/ursla99",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lpfhv2mq722e",
+			desc: "Gift from friend",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/wye3cmg2aw4.png", "https://cdn.imgchest.com/files/g4z9c59von7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdcqmxe84.png",
 			title: "Feeling his strength",

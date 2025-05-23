@@ -2413,6 +2413,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9vrw597.png", "https://cdn.imgchest.com/files/739cx96n3e7.png", "https://cdn.imgchest.com/files/7w6c2lvmrey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwvdb8zy.png",
+			title: "\"I shall never tire of seeing that smile.\"",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTalkingDino/status/1925934285908738354",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",

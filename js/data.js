@@ -73,6 +73,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7ogcbdqe5ry.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckwvlxj7.png",
+			title: "You lock eyes with the tomboy crown princess of Grannvale!",
+			artist: "aduti_momoyama",
+			artist_url: "https://x.com/aduti_momoyama",
+			art_url: "https://x.com/MrTalkingDino/status/1926361276512375131",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -154,6 +166,18 @@ var data = {
 			desc: "",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcqr8vrr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8ajxke4.png",
+			title: "The confident and couraegous Selia!",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTalkingDino/status/1927037083966746655",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -1837,6 +1861,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcv8rob34.png", "https://cdn.imgchest.com/files/yd5cepxnb84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwpejvxy.png",
+			title: "More consummation for Larcei and Seliph\~",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/1928118583210692781",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2422,6 +2458,18 @@ var data = {
 			desc: "",
 			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/49zc2xprvzy.png", "https://cdn.imgchest.com/files/4nec8ajxlm4.png", "https://cdn.imgchest.com/files/7bwckwvl227.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqw5j9m7.png",
+			title: "\"...I love you, Scathach.\"",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/1928483766353240518",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6650,6 +6698,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckwvlbx7.png", "https://cdn.imgchest.com/files/7pjcqr8v6r7.png", "https://cdn.imgchest.com/files/7ogcbdqevny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczam5rz7.png",
+			title: "The tomboy princess of Isaach invites you to seize her throne\~",
+			artist: "Seios",
+			artist_url: "https://x.com/seiosArt",
+			art_url: null,
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4nec9jrj54.png", "https://cdn.imgchest.com/files/p7bwcmvqvd7.png", "https://cdn.imgchest.com/files/w7pjcl8j8k7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdcanoqp4.png",
 			title: "Peri likes you",
@@ -8002,7 +8062,19 @@ var data = {
 			art_url: "https://x.com/yuuri_splatoon/status/1920676648963223979",
 			desc: "",
 			date_str: "May 2025",
-			tags: ["fire_emblem", "seliph", "nsfw"],
+			tags: ["fire_emblem", "seliph", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnmwb8n4.jpg", "https://cdn.imgchest.com/files/45xcv3glw67.jpg", "https://cdn.imgchest.com/files/4apc5xkjoz4.jpg", "https://cdn.imgchest.com/files/46acqw5jev7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2xprwmy.jpg",
+			title: "She's not letting go until she takes every last drop\~",
+			artist: "yuuri_splatoon",
+			artist_url: "https://x.com/yuuri_splatoon",
+			art_url: "https://x.com/yuuri_splatoon/status/1927222566369824999",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

@@ -1501,6 +1501,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7w6c25r5lky.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkcza2aor7.jpg",
+			title: "Together, always.",
+			artist: "Danderfull",
+			artist_url: "https://x.com/Danderfull_",
+			art_url: "https://x.com/MrTalkingDino/status/1928910619392057478",
+			desc: "",
+			date_str: "May 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxcrjlzk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcab33d4.png",
 			title: "Patty & Shannan dynamic",

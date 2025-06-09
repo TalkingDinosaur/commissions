@@ -6482,7 +6482,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/7pjcqob6d57.jpg", "https://cdn.imgchest.com/files/7pjcqob6d57.jpg"],
+			src: ["https://cdn.imgchest.com/files/7pjcqob6d57.jpg", "https://cdn.imgchest.com/files/7kzca39nw37.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckr36vg7.jpg",
 			title: "Baou & Selia",
 			artist: "RodLanghi",

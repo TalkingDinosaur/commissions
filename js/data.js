@@ -1141,9 +1141,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/4nec8vb5qj4.jpg", "https://cdn.imgchest.com/files/7pjcqob6257.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcv92b5a4.jpg",
-			title: "\"Finally, I have a unit that can beat NY Nidhoggr!\"",
+			src: ["https://cdn.imgchest.com/files/7lxcp2l6qq7.jpg", "https://cdn.imgchest.com/files/yq9c3nm6wj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczoa26r7.jpg",
+			title: "The inevitable Summer Nidhoggr alt",
 			artist: "CarlosVitor",
 			artist_url: "https://x.com/carlaumdu_nsfw",
 			art_url: null,

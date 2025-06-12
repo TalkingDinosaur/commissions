@@ -5659,7 +5659,7 @@ var data = {
 			title: "Larcei's new swimsuit",
 			artist: "Oginon07",
 			artist_url: "https://x.com/oginon07",
-			art_url: "https://skeb.jp/@oginon07/works/19",
+			art_url: "https://x.com/MrTD2020/status/1831491533822140867",
 			desc: "",
 			date_str: "Septemeber 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],

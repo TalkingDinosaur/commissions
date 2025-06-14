@@ -668,7 +668,7 @@ var data = {
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://x.com/Atramada1/status/1363637866312601602",
 			desc: "A gift to Ylae Animations for their Bernadetta animation.",
-			date_str: "",
+			date_str: "February 2021",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},

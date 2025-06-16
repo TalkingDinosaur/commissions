@@ -1146,11 +1146,11 @@ var data = {
 			title: "The inevitable Summer Nidhoggr alt",
 			artist: "CarlosVitor",
 			artist_url: "https://x.com/carlaumdu_nsfw",
-			art_url: null,
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lrnwihgk7s2l",
 			desc: "",
 			date_str: "June 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/p7bwc2azod7.png", "https://cdn.imgchest.com/files/w7pjckz3ok7.png"],

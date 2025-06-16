@@ -2509,6 +2509,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcp28lbr7.png", "https://cdn.imgchest.com/files/yd5cel6p2n4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwomoxoy.png",
+			title: "Tirnanog has some interesting wedding traditions. 🤔",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/1933552035028480235",
+			desc: "Or maybe this is just the influence of a certain individual...",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",

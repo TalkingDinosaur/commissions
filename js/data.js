@@ -6463,11 +6463,11 @@ var data = {
 			title: "Selia & Larcei at the beach!",
 			artist: "Redkite",
 			artist_url: "https://x.com/RedKite333",
-			art_url: null,
+			art_url: "https://x.com/RedKite333/status/1936923165122613513",
 			desc: "",
 			date_str: "June 2025",
 			tags: ["fire_emblem", "larcei", "selia", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcagnqv4.png"],

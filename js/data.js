@@ -469,6 +469,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckbgw6k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbv8j39y.png",
+			title: "When doing it against a window, one should be careful for any potential passerby...",
+			artist: "3rshPanda",
+			artist_url: "https://x.com/3rshPanda",
+			art_url: "https://x.com/MrTD2020/status/1936504394998284473",
+			desc: "",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/wye3cmgnnk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcv58pg7.png",
 			title: "\"Are you a leg man\, Seliph?\"",
@@ -2542,6 +2554,30 @@ var data = {
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnplm8x4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5bdxod4.png",
+			title: "Workout Larcei",
+			artist: "Grimmels",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "Gift from a friend.",
+			date_str: "February 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcq6xrqz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcanegml7.png",
+			title: "Oh no! Lana tripped and fell on top of Scathach and now they're having a moment...",
+			artist: "guro",
+			artist_url: "https://x.com/gu___ro",
+			art_url: "https://x.com/MrTalkingDino/status/1935731768109523120",
+			desc: "Also Larcei is there too.",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "larcei", "lana", "scathach", "sfw"],
 			hidden: false
 		},
 		{
@@ -6422,6 +6458,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc2zgw5ry.png", "https://cdn.imgchest.com/files/4nec85wk394.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq6x9pg7.png",
+			title: "Selia & Larcei at the beach!",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: null,
+			desc: "",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "larcei", "selia", "sfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcagnqv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec9e9qa4.png",
 			title: "Larcei in Langrisser style 2",
@@ -6874,6 +6922,18 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/1913374320925295080",
 			desc: "",
 			date_str: "April 2025",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbv8dgly.jpg", "https://cdn.imgchest.com/files/7lxcp6glej7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck69n887.jpg",
+			title: "Scathach really likes Lana's wedding dress\~",
+			artist: "SexySquid",
+			artist_url: "https://x.com/sexysquidxxx",
+			art_url: "https://x.com/MrTD2020/status/1935366582764704009",
+			desc: "",
+			date_str: "June 2025",
 			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
@@ -7606,6 +7666,18 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "July 2024",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pck69ljk7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnplmbk4.jpg",
+			title: "Motorcyclist Larcei",
+			artist: "TruJek",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "Gift from a friend.",
+			date_str: "April 2023",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},

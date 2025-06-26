@@ -5978,6 +5978,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcnp98gq4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc953anj7.jpg",
+			title: "Larcei & Seliph Sundae",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: null,
+			desc: "Gift for a friend.",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",

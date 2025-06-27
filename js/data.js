@@ -5983,11 +5983,11 @@ var data = {
 			title: "Larcei & Seliph Sundae",
 			artist: "Pasquale",
 			artist_url: "https://x.com/dekura_",
-			art_url: null,
+			art_url: "https://x.com/dekura_/status/1938281108837167444",
 			desc: "Gift for a friend.",
 			date_str: "June 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],

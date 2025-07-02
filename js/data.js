@@ -877,6 +877,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpdjqbd7.png", "https://cdn.imgchest.com/files/4jdcvj2lp64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnzbpdp4.png",
+			title: "The Double Date 4",
+			artist: "Batterbee",
+			artist_url: "https://twitter.com/batterbeenthere",
+			art_url: "https://x.com/batterbeenthere/status/1939690808841498748",
+			desc: "",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9ce2pem4.png", "https://cdn.imgchest.com/files/myd5crgxrl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcdrw5z7.png",
 			title: "Larcei Presenting 2",
@@ -1918,6 +1930,18 @@ var data = {
 			desc: "",
 			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cx6b2rq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9rqdx27.png",
+			title: "Grima doesn't know...",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/decoxart/status/1938708341527564469?t=TczGs1kKmfrJMu3rde6yFg&s=19",
+			desc: "Gift for a friend.",
+			date_str: "June 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

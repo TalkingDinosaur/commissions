@@ -4879,11 +4879,11 @@ var data = {
 			title: "Patty's meal",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1941640043816419468",
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "patty", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/p7bwcn569w7.png"],

@@ -2017,6 +2017,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwdnzz8y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc53vdma4.png",
+			title: "It is Isaachian tradition for the wife to carry her husband across the threshold...",
+			artist: "Demdeet",
+			artist_url: "https://bsky.app/profile/demdeet.bsky.social",
+			art_url: "https://x.com/MrTalkingDino/status/1942268915612279292",
+			desc: "...But there isn't a threshold here and I made up that first part so maybe Larcei's just excited.",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "scathach", "lana", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdc6mje24.JPG", "https://cdn.imgchest.com/files/l7lxcxzd5g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc9vzpg4.jpg",
 			title: "Nopan wakamezake",
@@ -5013,8 +5025,20 @@ var data = {
 			artist_url: "https://x.com/Mnejing30",
 			art_url: null,
 			desc: "",
-			date_str: "May 2025",
+			date_str: "June 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ye3c2dgwp24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwdnblqy.png",
+			title: "Lana's White Wedding",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "lana", "nsfw"],
 			hidden: true
 		},
 		{
@@ -6134,6 +6158,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckd23gb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqbga667.png",
+			title: "Light Inheritors",
+			artist: "Primogenitor34",
+			artist_url: "https://bsky.app/profile/primogenitor34.bsky.social",
+			art_url: "https://x.com/MrTalkingDino/status/1942258409509929139",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "scathach", "lana", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acrnk9w7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcveno57.png",
 			title: "Larcei is hotter than this heatwave",
@@ -7091,6 +7127,18 @@ var data = {
 			desc: "Collab with a friend.",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7lxcpdxj967.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv98kob7.png",
+			title: "Larcei the eager Easter Bunny!",
+			artist: "Sinccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: "https://x.com/SINccubi/status/1942275027333677530",
+			desc: "I wonder what she's trying to tell Seliph right now?",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{

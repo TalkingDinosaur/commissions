@@ -529,6 +529,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y2pckowwna7.png", "https://cdn.imgchest.com/files/7lxcpdmmzg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwdllzmy.png",
+			title: "I'm starting to think this isn't actually part of the wedding ceremony... 🤨",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/ahri_el90/status/1943465180253311049",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739cln95x7.png", "https://cdn.imgchest.com/files/w7w6c8mlnby.png", "https://cdn.imgchest.com/files/wye3ckpaox4.png", "https://cdn.imgchest.com/files/g4z9c28o337.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogc985p6y.png",
 			title: "Wild Princess, Larcei",
@@ -5882,6 +5894,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxpbblo4.jpg", "https://cdn.imgchest.com/files/y8xcnkrrw54.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqb668r7.jpg",
+			title: "Thjazi at the beach",
+			artist: "Pala",
+			artist_url: "https://x.com/lewdpala",
+			art_url: "https://x.com/MrTD2020/status/1943693891720343878",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcb9vxz7.jpg",
 			title: "Larcei dress lift",
@@ -7463,6 +7487,18 @@ var data = {
 			desc: "Another birthday gift from TaDas",
 			date_str: "April 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4jdcvjddr24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczgllvl7.png",
+			title: "Selia but her outfit is a high-leg leotard with bikini armor!",
+			artist: "taishouteikoku1",
+			artist_url: "https://x.com/taishouteikoku1",
+			art_url: "https://x.com/MrTalkingDino/status/1942976351121928197",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

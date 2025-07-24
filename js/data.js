@@ -2941,6 +2941,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpxqwmx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5vek8z4.png",
+			title: "Scions of Summer 🏖️",
+			artist: "Kayksyla",
+			artist_url: "https://x.com/kayksyla_",
+			art_url: "https://x.com/MrTalkingDino/status/1946234810172895365",
+			desc: "Gift from a friend.",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7mmcxzbew7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3cnxe5l4.png",
 			title: "Larcei dressed as Kahm",
@@ -5052,6 +5064,18 @@ var data = {
 			date_str: "July 2025",
 			tags: ["fire_emblem", "lana", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3vwprl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqg25dv7.png",
+			title: "Edain and her \"Warp Staff\"",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1945646278052122682",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

@@ -1957,6 +1957,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcv3goxl4.png", "https://cdn.imgchest.com/files/yd5cegkn5w4.png", "https://cdn.imgchest.com/files/yrgcna8mx24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c28xzvv4.png",
+			title: "Evangelion Reference",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -8363,6 +8375,18 @@ var data = {
 			desc: "",
 			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c32zwrx4.jpg", "https://cdn.imgchest.com/files/yd5cegk8vw4.jpg", "https://cdn.imgchest.com/files/yrgcna8pl24.jpg", "https://cdn.imgchest.com/files/7mmc93zdkk7.jpg", "https://cdn.imgchest.com/files/739cxgp2lr7.jpg", "https://cdn.imgchest.com/files/45xcvqzr5m7.jpg", "https://cdn.imgchest.com/files/4apc5wze8d4.jpg", "https://cdn.imgchest.com/files/46acq3o2d87.jpg", "https://cdn.imgchest.com/files/yvdcwgr5qey.jpg", "https://cdn.imgchest.com/files/49zc29aqlwy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2zeaxxy.jpg",
+			title: "Friends Keeping Close! - EN + JP Version",
+			artist: "yuuri_splatoon",
+			artist_url: "https://x.com/yuuri_splatoon",
+			art_url: "https://x.com/MrTD2020/status/1951126748831285722",
+			desc: "",
+			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
 		{

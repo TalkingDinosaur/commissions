@@ -8386,7 +8386,7 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/1951126748831285722",
 			desc: "",
 			date_str: "July 2025",
-			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "doujin", "nsfw"],
 			hidden: false
 		},
 		{

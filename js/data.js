@@ -1962,7 +1962,7 @@ var data = {
 			title: "Evangelion Reference",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
-			art_url: "",
+			art_url: "https://x.com/MrTD2020/status/1950012136047964538",
 			desc: "",
 			date_str: "July 2025",
 			tags: ["other_series", "other_character", "nsfw"],

@@ -2053,6 +2053,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcv3njaq4.png", "https://cdn.imgchest.com/files/739cxg96v57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cegjr864.png",
+			title: "Goth Girl Summer - The Final Season, The Final Chapters - Hel",
+			artist: "Demdeet",
+			artist_url: "https://bsky.app/profile/demdeet.bsky.social",
+			art_url: "https://x.com/MrTD2020/status/1952402219137225133",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "hel", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdc6mje24.JPG", "https://cdn.imgchest.com/files/l7lxcxzd5g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc9vzpg4.jpg",
 			title: "Nopan wakamezake",
@@ -6095,6 +6107,18 @@ var data = {
 			desc: "Gift for a friend.",
 			date_str: "June 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5cegjrwe4.jpg", "https://cdn.imgchest.com/files/yrgcnagzqr4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnagzpl4.jpg",
+			title: "Selia smiling brighter than the summer sun!",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/dekura_/status/1951689454747521236",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{

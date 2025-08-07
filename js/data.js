@@ -85,6 +85,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcna5aql4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c32nmpq4.png",
+			title: "A sweet day at the beach with Larcei and Seliph!",
+			artist: "Akane",
+			artist_url: "https://x.com/ninfnyx",
+			art_url: "https://x.com/ninfnyx/status/1952848219467354222",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -4343,6 +4355,18 @@ var data = {
 			desc: "",
 			date_str: "September 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7bwckeowjw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc938jm97.png",
+			title: "Hold me tenderly... 💕",
+			artist: "Misogram",
+			artist_url: "https://x.com/misogram",
+			art_url: "https://x.com/MrTalkingDino/status/1953127111696511146",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

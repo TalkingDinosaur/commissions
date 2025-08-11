@@ -193,6 +193,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc5wer8m4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczk6e9p7.png",
+			title: "Things to do before merging your Bridal Larcei",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTalkingDino/status/1954928985194053977",
+			desc: "Seliph.",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",

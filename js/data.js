@@ -2677,6 +2677,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc93pzka7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbwolz6y.png",
+			title: "Larcei is sort of like a cat, huh?",
+			artist: "guro",
+			artist_url: "https://x.com/gu___ro",
+			art_url: "https://x.com/MrTalkingDino/status/1954218409245524342",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739crbw5n7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcdb3gv4.png",
 			title: "Twirl on it",
@@ -4999,11 +5011,11 @@ var data = {
 			title: "The lewd lady in Julia's book",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1954530311683141731",
 			desc: "A spiritual successor to one of Mnejing\'s old comics",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/ye3c22lglj4.png"],
@@ -5136,6 +5148,18 @@ var data = {
 			date_str: "July 2025",
 			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcn2oxrv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwcke59q27.png",
+			title: "Waiting for Annand to finish her Dance in the Skies™️ so the rest of the map opens up like",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "ayra", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

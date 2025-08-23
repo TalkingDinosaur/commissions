@@ -757,6 +757,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc239w8oy.png", "https://cdn.imgchest.com/files/4nec8qnk654.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczwkr5j7.png",
+			title: "Perhaps the mother Char was looking for was in front of him all along... ",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1956025501086310885",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46aczxxqx7.png", "https://cdn.imgchest.com/files/pyvdc6mmwly.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcr39v97.png",
 			title: "Seliph's warm gift for Larcei",
@@ -1209,6 +1221,18 @@ var data = {
 			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3lrnwihgk7s2l",
 			desc: "",
 			date_str: "June 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcn5236l4.png", "https://cdn.imgchest.com/files/45xcv2qd5p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5pwgj64.png",
+			title: "Catherine and Shamir: 69 United!",
+			artist: "CarlosVitor",
+			artist_url: "https://x.com/carlaumdu_nsfw",
+			art_url: "https://x.com/carlaumdu_nsfw/status/1959260927133442437",
+			desc: "Gift for a friend.",
+			date_str: "August 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -2111,6 +2135,18 @@ var data = {
 			date_str: "April 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c23zlkdy.png", "https://cdn.imgchest.com/files/4apc5pwga64.png", "https://cdn.imgchest.com/files/7bwckpex587.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv2qdlv7.png",
+			title: "Ride her until she sees her parents for the first time",
+			artist: "DoeHorn",
+			artist_url: "https://x.com/doehorn_tw",
+			art_url: null,
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84apcvx6we4.png", "https://cdn.imgchest.com/files/k46acgwn3j7.png", "https://cdn.imgchest.com/files/pyvdcnpag3y.png", "https://cdn.imgchest.com/files/6yxkcqabk87.png"],
@@ -4343,6 +4379,18 @@ var data = {
 			desc: "",
 			date_str: "July 2023",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8qnk9j4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn523ba4.png",
+			title: "Seliph & Larcei together forever! 🫶",
+			artist: "Mieumiso",
+			artist_url: "https://x.com/mieumiso",
+			art_url: "https://x.com/MrTalkingDino/status/1959299696423579854",
+			desc: "Ordered at AnimeExpo 2025.",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -6938,6 +6986,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczwkr3a7.png", "https://cdn.imgchest.com/files/49zc239wloy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqp3kjo7.png",
+			title: "Who would win? 3 Larcei or 1 Seliph?",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/MrTD2020/status/1957583544936722838",
+			desc: "The answer will not surprise you.",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6ol837.png", "https://cdn.imgchest.com/files/w7pjcl8jm57.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6cklk9ny.png",
 			title: "Doing something",
@@ -7044,6 +7104,18 @@ var data = {
 			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnjagmp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxjo56a4.png",
+			title: "The last thing Seliph sees before his soul is squeezed out of his dick.",
+			artist: "Seios",
+			artist_url: "https://x.com/seiosArt",
+			art_url: null,
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l4nec9jrj54.png", "https://cdn.imgchest.com/files/p7bwcmvqvd7.png", "https://cdn.imgchest.com/files/w7pjcl8j8k7.png"],

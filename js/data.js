@@ -2142,11 +2142,11 @@ var data = {
 			title: "Ride her until she sees her parents for the first time",
 			artist: "DoeHorn",
 			artist_url: "https://x.com/doehorn_tw",
-			art_url: null,
+			art_url: "https://x.com/doehorn_tw/status/1960718962133545136",
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84apcvx6we4.png", "https://cdn.imgchest.com/files/k46acgwn3j7.png", "https://cdn.imgchest.com/files/pyvdcnpag3y.png", "https://cdn.imgchest.com/files/6yxkcqabk87.png"],
@@ -2665,6 +2665,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acq2q6d27.png", "https://cdn.imgchest.com/files/yvdcw5wlqjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acq2q6rz7.png",
+			title: "Selia soaking up the sun! ⛱️",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTalkingDino/status/1959665065931727044",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",
@@ -2734,6 +2746,18 @@ var data = {
 			desc: "Birthday gift for friend.",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8p8rz34.png", "https://cdn.imgchest.com/files/7bwckzkq6q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx6xbg84.png",
+			title: "Selia is as radiant as the summer sun!",
+			artist: "Haduki Hazuki",
+			artist_url: "https://x.com/wish_fuu",
+			art_url: "https://x.com/MrTalkingDino/status/1961841966167282082",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -4238,6 +4262,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcnjn6aq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnjnrz34.png",
+			title: "Love blooms in the Aed Desert 💕",
+			artist: "Madras",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: "https://x.com/MrTalkingDino/status/1961467016986194119",
+			desc: "Gift for a friend.",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdce6nz54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdce6n9v4.png",
 			title: "Larcei sitting at the bar",
@@ -5363,6 +5399,18 @@ var data = {
 			desc: "",
 			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "lana", "patty", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ye3c292k534.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5e5mro4.png",
+			title: "Larcei is usually very proud of the mess she makes~",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/MrTD2020/status/1959674830468579521",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -8579,6 +8627,18 @@ var data = {
 			desc: "",
 			date_str: "December 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3w3qk54.png", "https://cdn.imgchest.com/files/yrgcnpndxw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvrvob37.png",
+			title: "Selia is excited for her day at the beach!",
+			artist: "Zelis",
+			artist_url: "https://x.com/ZelisDezain",
+			art_url: "https://x.com/MrTalkingDino/status/1960136968463135149",
+			desc: "",
+			date_str: "August 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

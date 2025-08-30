@@ -7159,11 +7159,11 @@ var data = {
 			title: "The last thing Seliph sees before his soul is squeezed out of his dick.",
 			artist: "Seios",
 			artist_url: "https://x.com/seiosArt",
-			art_url: null,
+			art_url: "https://x.com/seiosArt/status/1961888800595947801",
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l4nec9jrj54.png", "https://cdn.imgchest.com/files/p7bwcmvqvd7.png", "https://cdn.imgchest.com/files/w7pjcl8j8k7.png"],

@@ -8582,9 +8582,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/yq9c32zwrx4.jpg", "https://cdn.imgchest.com/files/yd5cegk8vw4.jpg", "https://cdn.imgchest.com/files/yrgcna8pl24.jpg", "https://cdn.imgchest.com/files/7mmc93zdkk7.jpg", "https://cdn.imgchest.com/files/739cxgp2lr7.jpg", "https://cdn.imgchest.com/files/45xcvqzr5m7.jpg", "https://cdn.imgchest.com/files/4apc5wze8d4.jpg", "https://cdn.imgchest.com/files/46acq3o2d87.jpg", "https://cdn.imgchest.com/files/yvdcwgr5qey.jpg", "https://cdn.imgchest.com/files/49zc29aqlwy.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/7w6c2zeaxxy.jpg",
-			title: "Friends Keeping Close! - EN + JP Version",
+			src: ["https://cdn.imgchest.com/files/4apc5eqn9e4.png", "https://cdn.imgchest.com/files/46acq289lj7.png", "https://cdn.imgchest.com/files/yvdcw5z8x3y.png", "https://cdn.imgchest.com/files/yxkcz6vdp87.png", "https://cdn.imgchest.com/files/49zc2qe6n5y.png", "https://cdn.imgchest.com/files/4nec8pb2zr4.png", "https://cdn.imgchest.com/files/7bwckz386n7.png", "https://cdn.imgchest.com/files/7pjcq3b9qn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx2b8xw7.png",
+			title: "Friends Keeping Close! - English",
 			artist: "yuuri_splatoon",
 			artist_url: "https://x.com/yuuri_splatoon",
 			art_url: "https://x.com/MrTD2020/status/1951126748831285722",

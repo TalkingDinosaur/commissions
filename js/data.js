@@ -211,7 +211,7 @@ var data = {
 			artist: "Anander",
 			artist_url: "https://x.com/Anander0",
 			art_url: "https://x.com/MrTalkingDino/status/1962907203876311104",
-			desc: "",
+			desc: "With a bonus gift sketch from Anander!",
 			date_str: "Septemeber 2025",
 			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false

@@ -97,6 +97,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6294f7ddbf59.jpg", "https://cdn.imgchest.com/files/b9ccc0ed82c8.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/1b0fd128d8aa.jpg",
+			title: "Look up at the stars. 🌟",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/AmphyShira/status/1964413461875569009",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",

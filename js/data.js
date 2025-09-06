@@ -205,6 +205,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d2dbad159a3b.png", "https://cdn.imgchest.com/files/34db658d58d8.png", "https://cdn.imgchest.com/files/fc95dec5f515.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4857a8975100.png",
+			title: "Selia's trident isn't just for show! 🔱🐟",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTalkingDino/status/1962907203876311104",
+			desc: "",
+			date_str: "Septemeber 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -5246,6 +5258,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/b21a3c3fa6bb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3010390349bf.png",
+			title: "Exalt Morgan painting Exalt Morgan painting Exalt Morgan painting Exalt Morgan painting Exalt Morgan painting Exalt Morgan painting",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1962667195558961277",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -7402,6 +7426,18 @@ var data = {
 			art_url: "https://x.com/SINccubi/status/1942275027333677530",
 			desc: "I wonder what she's trying to tell Seliph right now?",
 			date_str: "July 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/67c21f9bdf64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9185ecb631e5.png",
+			title: "Larcei's Holy Blood only flows through the most important places. 🍑",
+			artist: "SinpadArt",
+			artist_url: "https://x.com/SinpadArt",
+			art_url: "https://x.com/MrTD2020/status/1963383629981376962",
+			desc: "",
+			date_str: "September 2025",
 			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},

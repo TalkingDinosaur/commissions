@@ -5131,11 +5131,11 @@ var data = {
 			title: "Country girls... 3",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1964461813715914912",
 			desc: "A follow-up to Mia Suspects the Corn",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yvdcwarbegy.png"],
@@ -5280,6 +5280,18 @@ var data = {
 			date_str: "September 2025",
 			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/abd9fd4161eb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/97f9366ca079.png",
+			title: "Lana found her missing panties.",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "scathach", "lana", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

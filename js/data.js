@@ -5287,11 +5287,11 @@ var data = {
 			title: "Lana found her missing panties.",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1964474519143518687",
 			desc: "",
 			date_str: "September 2025",
 			tags: ["fire_emblem", "scathach", "lana", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

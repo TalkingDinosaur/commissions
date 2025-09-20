@@ -229,6 +229,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/bf2fb09c2d11.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46c92ab9ba76.png",
+			title: "The cute and tough tomboy, Seelay!",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/Anander0/status/1968822459764777343",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -2701,6 +2713,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/b255e60dd22c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/375f400a284c.png",
+			title: "The last days of summer with Selia~",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTalkingDino/status/1966169311577518512",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e4c1b7b2a35b.png", "https://cdn.imgchest.com/files/7f92a2a57313.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a5c8c79c8116.png",
+			title: "Enjoy the last days of summer with your best friends!",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/1969074436125982904",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "larcei", "lana", "patty", "seliph", "scathach", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",
@@ -3145,6 +3181,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3pwl534.PNG", "https://cdn.imgchest.com/files/yd5cex8azq4.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/46acq523m97.png",
+			title: "Four Murasame sensing the presence of a boy with a man's name",
+			artist: "Xiva",
+			artist_url: "https://x.com/XivastrA",
+			art_url: "https://x.com/MrTD2020/status/1911252799456944250",
+			desc: "",
+			date_str: "April 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/45xcvnlj8z7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx8ka9o4.png",
 			title: "Blood That Binds",
@@ -3157,15 +3205,15 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/yq9c3pwl534.PNG", "https://cdn.imgchest.com/files/yd5cex8azq4.PNG"],
-			thumbnail: "https://cdn.imgchest.com/files/46acq523m97.png",
-			title: "Four Murasame sensing the presence of a boy with a man's name",
-			artist: "Xiva",
-			artist_url: "https://x.com/XivastrA",
-			art_url: "https://x.com/MrTD2020/status/1911252799456944250",
+			src: ["https://cdn.imgchest.com/files/6896e7315e8c.png", "https://cdn.imgchest.com/files/cc727191135a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9da24eaa5d9e.png",
+			title: "A gentle gaze... ",
+			artist: "Kiryuu_Sara",
+			artist_url: "https://x.com/Kiryuu_Sara",
+			art_url: "https://x.com/MrTalkingDino/status/1966635420319707395",
 			desc: "",
-			date_str: "April 2025",
-			tags: ["other_series", "other_character", "nsfw"],
+			date_str: "September 2025",
+			tags: ["fire_emblem", "seliph", "larcei", "sfw"],
 			hidden: false
 		},
 		{
@@ -5459,6 +5507,18 @@ var data = {
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/be77cab0f0a5.png", "https://cdn.imgchest.com/files/c9f401b3626f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a22b463d9fc7.png",
+			title: "Selia twinkles with the light of the stars! ✨",
+			artist: "Momogame_17",
+			artist_url: "https://x.com/momongame_17",
+			art_url: "https://x.com/momongame_17/status/1965219701761638465",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -8651,6 +8711,18 @@ var data = {
 			desc: "",
 			date_str: "July 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2a843b23e289.png", "https://cdn.imgchest.com/files/946d580b3a44.png", "https://cdn.imgchest.com/files/9de9fb259fac.png", "https://cdn.imgchest.com/files/5c011d17e170.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8c5e2f392874.png",
+			title: "Such a small sheath for Shannan's big sword~",
+			artist: "yuuri_splatoon",
+			artist_url: "https://x.com/yuuri_splatoon",
+			art_url: "https://x.com/yuuri_splatoon/status/1967028370375688409",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
 			hidden: false
 		},
 		{

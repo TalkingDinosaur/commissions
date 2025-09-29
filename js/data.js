@@ -97,6 +97,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/c7a5caecf260.png"],
+			thumbnail: "https://cdn.imgchest.com/files/dbbed1f5fa75.png",
+			title: "Larcei with a chest sarashi!",
+			artist: "Al\'Dorian",
+			artist_url: "https://x.com/__AlDorian",
+			art_url: "https://x.com/__AlDorian/status/1971234780315570439",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6294f7ddbf59.jpg", "https://cdn.imgchest.com/files/b9ccc0ed82c8.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/1b0fd128d8aa.jpg",
 			title: "Look up at the stars. 🌟",
@@ -889,6 +901,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/9c6fc6d8b1d8.png", "https://cdn.imgchest.com/files/ec3a494644e7.png", "https://cdn.imgchest.com/files/f9e9209cd6bf.png", "https://cdn.imgchest.com/files/2034bbba1b4c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/57d92d9f960d.png",
+			title: "Nothing that they are doing is written in the Book of Naga.",
+			artist: "Bardo",
+			artist_url: "https://twitter.com/BardoPlus",
+			art_url: "https://x.com/BardoPlus/status/1971967000395370870",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5crgxze4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apc3wkno4.png",
 			title: "Larcei & Seliph Onsen",
@@ -1269,6 +1293,18 @@ var data = {
 			art_url: "https://x.com/carlaumdu_nsfw/status/1959260927133442437",
 			desc: "Gift for a friend.",
 			date_str: "August 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/70ad9881dd3f.png", "https://cdn.imgchest.com/files/d03073f5f030.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e2ade5e6c486.png",
+			title: "Nidhoggr is a bad influence on Ratatoskr~",
+			artist: "CarlosVitor",
+			artist_url: "https://x.com/carlaumdu_nsfw",
+			art_url: "https://x.com/carlaumdu_nsfw/status/1971344153541071262",
+			desc: "",
+			date_str: "September 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -6542,6 +6578,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/dc296f360447.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5ff169ddb385.png",
+			title: "Larcei & Seliph relaxing by the stream.",
+			artist: "Pumpkin Scarecrow",
+			artist_url: "https://x.com/vumBbE0GPdd20xC",
+			art_url: "https://x.com/MrTalkingDino/status/1972034532162556197",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcq8gam4.png", "https://cdn.imgchest.com/files/l7lxcv9nrv7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my8xczxzp64.png",
 			title: "Altena takes flight",
@@ -7862,6 +7910,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/86d461c1764a.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/24e2cab9ce2d.png",
+			title: "The Yngvi twins and their holy bodies",
+			artist: "Takoshi",
+			artist_url: "https://x.com/Takoshi_nsfw",
+			art_url: "https://x.com/Takoshi_nsfw/status/1971597616879419393",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyvdc3oorby.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d7ogc2nmzxy.png",
 			title: "Nadine & Nefaria - I'm totes getting a pic of this!",
@@ -8387,6 +8447,18 @@ var data = {
 			desc: "",
 			date_str: "September 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2245fcd80743.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/e1cc2a1e6cde.png",
+			title: "Hilda has new plans for marrying into royalty after becoming a widow.",
+			artist: "Wowsasman",
+			artist_url: "https://x.com/WowsasMan",
+			art_url: "https://x.com/WowsasMan/status/1970135548770812036",
+			desc: "",
+			date_str: "September 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

@@ -249,7 +249,7 @@ var data = {
 			art_url: "https://x.com/Anander0/status/1968822459764777343",
 			desc: "",
 			date_str: "September 2025",
-			tags: ["fire_emblem", "other_character", "sfw"],
+			tags: ["other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -261,7 +261,7 @@ var data = {
 			art_url: "https://x.com/Anander0/status/1973529372356386879",
 			desc: "",
 			date_str: "October 2025",
-			tags: ["fire_emblem", "other_character", "sfw"],
+			tags: ["other_character", "sfw"],
 			hidden: false
 		},
 		{

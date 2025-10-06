@@ -253,6 +253,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ac1fe37c30e6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7c986ddf2435.png",
+			title: "Seelay never backs down from a fight!",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/Anander0/status/1973529372356386879",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -2086,6 +2098,18 @@ var data = {
 			desc: "",
 			date_str: "July 2025",
 			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/23eceb07aeab.png", "https://cdn.imgchest.com/files/0ec26dde8030.png", "https://cdn.imgchest.com/files/09836b736b0a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ea219b1d8535.png",
+			title: "Special Explosion! \(Ongoing\)",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "",
+			date_str: "October 2025",
+			tags: ["other_series", "other_character", "doujin", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5378,6 +5402,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/c0ab0b0be6d5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7e4143ddc52d.png",
+			title: "Full of light",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -7919,6 +7955,18 @@ var data = {
 			desc: "",
 			date_str: "September 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e5b58449ccb5.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/10806fb13ddd.jpg",
+			title: "Worshiping the Light",
+			artist: "Takoshi",
+			artist_url: "https://x.com/Takoshi_nsfw",
+			art_url: "https://x.com/Takoshi_nsfw/status/1973906078589993020",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

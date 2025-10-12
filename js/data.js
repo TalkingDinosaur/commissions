@@ -1285,6 +1285,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/a3572b61d90a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/91f0d2c792f1.png",
+			title: "Larcei but with a little bit of battle damage! 👀",
+			artist: "Caranvolo",
+			artist_url: "https://x.com/caranvolo",
+			art_url: "https://x.com/MrTalkingDino/status/1976782761441812851",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/7lxcp2l6qq7.jpg", "https://cdn.imgchest.com/files/yq9c3nm6wj4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczoa26r7.jpg",
 			title: "The inevitable Summer Nidhoggr alt",
@@ -2929,6 +2941,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46541e6ef47c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5ad9f5ec691f.png",
+			title: "The always confident Selia!",
+			artist: "hiramine_akira",
+			artist_url: "https://x.com/hiramine_akira",
+			art_url: "https://x.com/MrTalkingDino/status/1976441715356770668",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyvdckw3xzy.png", "https://cdn.imgchest.com/files/6yxkcwzepm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcekml97.png",
 			title: "Checking in during Heroes Journey... Again.",
@@ -3154,6 +3178,18 @@ var data = {
 			desc: "",
 			date_str: "April 2020",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6456ce4cc5ed.png", "https://cdn.imgchest.com/files/3bae38044220.png", "https://cdn.imgchest.com/files/14b2ecaef3a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/76a78f4f227c.png",
+			title: "Larcei's White Christmas",
+			artist: "karamiyama",
+			artist_url: "https://x.com/karamiyama",
+			art_url: "https://x.com/karamiyama/status/1976600265714462896",
+			desc: "Gift from a friend.",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5263,11 +5299,11 @@ var data = {
 			title: "Ayra says no pants",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1977161844445089953",
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "ayra", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7kzcaejara7.png"],
@@ -5412,6 +5448,18 @@ var data = {
 			date_str: "October 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3a97ba2cd855.png"],
+			thumbnail: "https://cdn.imgchest.com/files/230d03f46d37.png",
+			title: "Fresh milk is just 10 orbs a bottle. How about some for your auto battling?",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1975352764659372351",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
@@ -5878,6 +5926,30 @@ var data = {
 			art_url: "https://x.com/nextoad2/status/1782122384377466936",
 			desc: "",
 			date_str: "April 2024",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f79111a84b46.png", "https://cdn.imgchest.com/files/12f1d96b4cbd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a5bffca38adc.png",
+			title: "Larcei polishing Seliph's holy sword~",
+			artist: "Nextoad",
+			artist_url: "https://x.com/nextoad2",
+			art_url: "https://x.com/MrTD2020/status/1976354037760131353",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/93fbc8ebc542.png", "https://cdn.imgchest.com/files/3a4e8daa7014.png"],
+			thumbnail: "https://cdn.imgchest.com/files/72542e289a7e.png",
+			title: "A nice day in the woods.",
+			artist: "Nico-MO",
+			artist_url: "https://x.com/nicoMO86383171",
+			art_url: "https://x.com/nicoMO86383171/status/1977116966625128563",
+			desc: "",
+			date_str: "October 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
@@ -6455,6 +6527,18 @@ var data = {
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f267370c52e8.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/16aa267f66e6.jpg",
+			title: "Did you know that Cherie's pubic hair canonically peeks out from under her leotard?",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/MrTD2020/status/1975360744498790680",
+			desc: "Elwin is a stronger man than me\; if this wyvern riding 164cm girl, wearing a high-leg leotard with her pubes and asshole peeking out, made moves on me then I would've lost it. 😭",
+			date_str: "October 2025",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7739,6 +7823,18 @@ var data = {
 			desc: "Debut animation of my nudeable Hex Maniac model made by Samus.",
 			date_str: "August 2023",
 			tags: ["porkymon", "hex_maniac", "animation", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e24cc047c158.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/65bbf509057f.jpg",
+			title: "Proof of love~",
+			artist: "SPYKEEE1945",
+			artist_url: "https://x.com/SPYKEEE1945",
+			art_url: "https://x.com/MrTD2020/status/1975955692235415576",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

@@ -2305,6 +2305,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/029e07fcd899.png", "https://cdn.imgchest.com/files/e16452f0349d.png", "https://cdn.imgchest.com/files/d725fe42ba98.png", "https://cdn.imgchest.com/files/32e21fe2a7fd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6d11e6b3a60a.png",
+			title: "A wild Zinnia appeared!",
+			artist: "Ecchihanta",
+			artist_url: "https://x.com/ecchihanta",
+			art_url: "https://x.com/ecchihanta/status/1979829284455039285",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcjdb294.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcpeqwl4.png",
 			title: "Larcei YCH",
@@ -4475,6 +4487,18 @@ var data = {
 			desc: "",
 			date_str: "May 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5e10a4495683.png"],
+			thumbnail: "https://cdn.imgchest.com/files/169e67e4abe5.png",
+			title: "Look into Selia's eyes and- HEY! I said look at her EYES!",
+			artist: "Mangho",
+			artist_url: "https://x.com/_mangho_",
+			art_url: "https://x.com/_mangho_/status/1980089410323612079",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

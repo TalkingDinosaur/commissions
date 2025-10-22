@@ -1253,7 +1253,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcqzw3v7.jpg",
 			title: "Larcei & Seliph in the living room",
 			artist: "BurgersNShakes",
-			artist_url: "https://twitter.com/Burgersnshakes2",
+			artist_url: "https://subscribestar.adult/burgersnshakes",
 			art_url: "https://x.com/MrTD2020/status/1790781817416806534",
 			desc: "The first comm I got featuring Julia's cosmic misfortune of walking in on Larcei & Seliph.",
 			date_str: "September 2022",
@@ -1265,11 +1265,23 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/w7w6cqb65wy.jpg",
 			title: "Patty's Bargain",
 			artist: "BurgersNShakes",
-			artist_url: "https://twitter.com/Burgersnshakes2",
+			artist_url: "https://subscribestar.adult/burgersnshakes",
 			art_url: "https://x.com/MrTD2020/status/1707418838953038089",
 			desc: "My first feature length doujin. Before producing this, I never imagined myself having a doujin to my name, it didn't feel real. I'm eternally grateful to my friends for their support and my artist, BurgersNShakes, for bringing my vision to life with their art.",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "patty", "shannan", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c4c495a58336.jpg", "https://cdn.imgchest.com/files/92f7dcdb2451.jpg", "https://cdn.imgchest.com/files/de961c9b37f1.jpg", "https://cdn.imgchest.com/files/939f6ad0b5e8.jpg", "https://cdn.imgchest.com/files/51d64140a8ec.jpg", "https://cdn.imgchest.com/files/7ce20f1afbc1.jpg", "https://cdn.imgchest.com/files/4c052a71d258.jpg", "https://cdn.imgchest.com/files/0346e955a5ad.jpg", "https://cdn.imgchest.com/files/6487aa9d0db0.jpg", "https://cdn.imgchest.com/files/eff8ada67efe.jpg", "https://cdn.imgchest.com/files/be4e97586313.jpg", "https://cdn.imgchest.com/files/f0c7d72d6bee.jpg", "https://cdn.imgchest.com/files/8d4727aec5be.jpg", "https://cdn.imgchest.com/files/1ff50c1d9fc5.jpg", "https://cdn.imgchest.com/files/4488181b7bf1.jpg", "https://cdn.imgchest.com/files/06af925c9a48.jpg", "https://cdn.imgchest.com/files/83e25a693aed.jpg", "https://cdn.imgchest.com/files/da753c717a89.jpg", "https://cdn.imgchest.com/files/e2755603197a.jpg", "https://cdn.imgchest.com/files/eb4b0efb1810.jpg", "https://cdn.imgchest.com/files/702f52d60234.jpg", "https://cdn.imgchest.com/files/9ea9fcba4380.jpg", "https://cdn.imgchest.com/files/65531a438204.jpg", "https://cdn.imgchest.com/files/a66903640663.jpg", "https://cdn.imgchest.com/files/1e28c2461e93.jpg", "https://cdn.imgchest.com/files/e34e66d02017.jpg", "https://cdn.imgchest.com/files/5c27f3bd6ef8.jpg", "https://cdn.imgchest.com/files/c11b0ea17a5f.jpg", "https://cdn.imgchest.com/files/f538125d723c.jpg", "https://cdn.imgchest.com/files/11a36dac04c9.jpg", "https://cdn.imgchest.com/files/8d7bab5e52bb.jpg", "https://cdn.imgchest.com/files/e9423fac4682.jpg", "https://cdn.imgchest.com/files/a5fc55fd7889.jpg", "https://cdn.imgchest.com/files/61b732b2613f.jpg", "https://cdn.imgchest.com/files/be6604f837fe.jpg", "https://cdn.imgchest.com/files/d7960c1f2c50.jpg", "https://cdn.imgchest.com/files/fc618c0eea0d.jpg", "https://cdn.imgchest.com/files/57b5d62ab0e3.jpg", "https://cdn.imgchest.com/files/1db74bca8d1a.jpg", "https://cdn.imgchest.com/files/f7f0af36ae92.jpg", "https://cdn.imgchest.com/files/945a5648a122.jpg", "https://cdn.imgchest.com/files/6b9db7d5e00e.jpg", "https://cdn.imgchest.com/files/ee11f37dbadc.jpg", "https://cdn.imgchest.com/files/d97052edac69.jpg", "https://cdn.imgchest.com/files/fd6b04981af6.jpg", "https://cdn.imgchest.com/files/75a3cbabfcb0.jpg", "https://cdn.imgchest.com/files/33b98b32dace.jpg", "https://cdn.imgchest.com/files/07b86426a648.jpg", "https://cdn.imgchest.com/files/66a39902db60.jpg", "https://cdn.imgchest.com/files/28543b889bc7.jpg", "https://cdn.imgchest.com/files/432812a61d37.jpg", "https://cdn.imgchest.com/files/d79c7e87d37f.jpg", "https://cdn.imgchest.com/files/6dac0838e649.jpg", "https://cdn.imgchest.com/files/77e040ac2738.jpg", "https://cdn.imgchest.com/files/b271554e76d9.jpg", "https://cdn.imgchest.com/files/2c51a2e49793.jpg", "https://cdn.imgchest.com/files/6fa98cfa85a2.jpg", "https://cdn.imgchest.com/files/07767616087e.jpg", "https://cdn.imgchest.com/files/44f796461cbf.jpg", "https://cdn.imgchest.com/files/65f6dbea3d04.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ab8e2637cb8b.jpg",
+			title: "Larcei's Intimate Duel",
+			artist: "BurgersNShakes",
+			artist_url: "https://subscribestar.adult/burgersnshakes",
+			art_url: "https://x.com/MrTD2020/status/1980303822573732153",
+			desc: "My biggest doujin yet at a whopping 60 pages! I originally wrote the script in 2021 and started producing it in 2023. It took 2 years to make and I'm very proud of the result.",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "doujin", "nsfw"],
 			hidden: false
 		},
 		{

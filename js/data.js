@@ -2509,6 +2509,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/98d5f205081c.png", "https://cdn.imgchest.com/files/c633a3c9b4e9.png", "https://cdn.imgchest.com/files/cdf67037ff54.png", "https://cdn.imgchest.com/files/ee5e666f2679.png", "https://cdn.imgchest.com/files/4992ec60de2a.png", "https://cdn.imgchest.com/files/4897db82a963.png", "https://cdn.imgchest.com/files/012d0f0b791e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2a690a85a4d4.png",
+			title: "Larcei likes it when Seliph fucks her like a warrior~ 💦",
+			artist: "Freeze-Ex",
+			artist_url: "https://x.com/freezeexxx",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3m44vbebmck22",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/4nec8e5gnq4.png", "https://cdn.imgchest.com/files/7bwck9baez7.png", "https://cdn.imgchest.com/files/7pjcqa6zdv7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3z6dxk4.png",
 			title: "Comparing hands",
@@ -2914,6 +2926,18 @@ var data = {
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/264fd64342d1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d252dc0e9184.png",
+			title: "Selia likes to air out her tunic after a hard training session.",
+			artist: "harunn2288",
+			artist_url: "https://x.com/harunn2288",
+			art_url: "https://x.com/MrTD2020/status/1981395446586388640",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5978,6 +6002,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/fd2a082f8f0a.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/f81773e6363e.jpg",
+			title: "Selia in the style of Skullgirls! ",
+			artist: "NiboonSkull",
+			artist_url: "https://x.com/NiboonSkull",
+			art_url: "https://x.com/NiboonSkull/status/1982209553082069488",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/93fbc8ebc542.png", "https://cdn.imgchest.com/files/3a4e8daa7014.png"],
 			thumbnail: "https://cdn.imgchest.com/files/72542e289a7e.png",
 			title: "A nice day in the woods.",
@@ -8783,6 +8819,18 @@ var data = {
 			desc: "",
 			date_str: "November 2021",
 			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3fbe08645b66.png"],
+			thumbnail: "https://cdn.imgchest.com/files/496c851bc8fa.png",
+			title: "Gamo and Yoshi. 🌳 That's it, that's the post.",
+			artist: "Your friendo\, Veko",
+			artist_url: "https://x.com/Draw_Friendo",
+			art_url: "https://x.com/Draw_Friendo/status/1981762117029310919",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

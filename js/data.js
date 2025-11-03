@@ -6448,11 +6448,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/11276a45ccea.jpg", "https://cdn.imgchest.com/files/791ea295b9a1.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ce9b78165455.jpg",
-			title: "Machyua and Rinkah oiled up and slamming into each other",
+			title: "Machyua and Rinkah slamming their hot and sweaty bodies together",
 			artist: "Pala",
 			artist_url: "https://x.com/lewdpala",
 			art_url: null,
-			desc: "in sumo",
+			desc: "in sumo.",
 			date_str: "November 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true

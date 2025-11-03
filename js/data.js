@@ -5846,6 +5846,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/eb3245cb808b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/79afba235f25.png",
+			title: "Larcei with pastie panties!",
+			artist: "Nadearabukichi",
+			artist_url: "https://x.com/nadearabukichi",
+			art_url: "https://x.com/MrTD2020/status/1985041377386971502",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/wye3c9npkq4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5c8dwx64.png",
 			title: "Another private council",
@@ -6432,6 +6444,18 @@ var data = {
 			date_str: "July 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/11276a45ccea.jpg", "https://cdn.imgchest.com/files/791ea295b9a1.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ce9b78165455.jpg",
+			title: "Machyua and Rinkah oiled up and slamming into each other",
+			artist: "Pala",
+			artist_url: "https://x.com/lewdpala",
+			art_url: null,
+			desc: "in sumo",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],
@@ -7175,6 +7199,18 @@ var data = {
 			desc: "",
 			date_str: "February 2025",
 			tags: ["fire_emblem", "larcei", "lana", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4d650e7d8dba.png", "https://cdn.imgchest.com/files/c7aeefa0627d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f654c78e33d5.png",
+			title: "Selia carries the blood of both Baldr and Od into the future!",
+			artist: "Rindoriko",
+			artist_url: "https://x.com/rindoriko",
+			art_url: "https://x.com/MrTalkingDino/status/1985049179488653355",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

@@ -1729,6 +1729,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3692acfdf1c6.jpeg", "https://cdn.imgchest.com/files/d40dccac4c44.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/aa2ad6ee3978.jpg",
+			title: "The desert is hot so Samus likes to air out her suit when she finds a moment where she's not being attacked. 🥵",
+			artist: "Danderfull",
+			artist_url: "https://x.com/Danderfull_",
+			art_url: "https://x.com/Danderfull_/status/1987270610947625452?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxcrjlzk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcab33d4.png",
 			title: "Patty & Shannan dynamic",
@@ -2325,6 +2337,18 @@ var data = {
 			art_url: "https://x.com/ecchihanta/status/1979829284455039285",
 			desc: "",
 			date_str: "October 2025",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/672eec76ac12.png", "https://cdn.imgchest.com/files/e05c6c807de1.png", "https://cdn.imgchest.com/files/ef687d1fac95.png"],
+			thumbnail: "https://cdn.imgchest.com/files/50e1e1ba49ef.png",
+			title: "Welcome to the Zona Nemona!",
+			artist: "Ecchihanta",
+			artist_url: "https://x.com/ecchihanta",
+			art_url: "https://x.com/ecchihanta/status/1986613523586367774",
+			desc: "You can never leave.",
+			date_str: "November 2025",
 			tags: ["porkymon", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -5371,11 +5395,11 @@ var data = {
 			title: "Making Febail & Patty",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/1987304392446677214?s=20",
 			desc: "",
 			date_str: "March 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/4z9cvjjppm7.png"],
@@ -5520,6 +5544,18 @@ var data = {
 			date_str: "October 2025",
 			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/cd60f1519a39.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f45c4df17040.png",
+			title: "Crossdressing lesbian puppy girl princess... ",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1975352764659372351",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
@@ -6864,6 +6900,18 @@ var data = {
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/0e9e14d030ed.png", "https://cdn.imgchest.com/files/e35e8953bae7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fe97adbcc1dc.png",
+			title: "Zinnia stealing boys\' megastones and their cum",
+			artist: "Razillon",
+			artist_url: "https://x.com/Razillon",
+			art_url: null,
+			desc: "",
+			date_str: "November 2025",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7mmcbzvkw7.png", "https://cdn.imgchest.com/files/myd5cwkjvk4.png", "https://cdn.imgchest.com/files/84jdcagndv4.png", "https://cdn.imgchest.com/files/j7kzc6v5ql7.png"],

@@ -5548,10 +5548,10 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/cd60f1519a39.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f45c4df17040.png",
-			title: "Crossdressing lesbian puppy girl princess... ",
+			title: "Crossdressing lesbian puppy girl princess...",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: "https://x.com/Mnejing30/status/1975352764659372351",
+			art_url: null,
 			desc: "",
 			date_str: "November 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],

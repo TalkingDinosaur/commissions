@@ -6904,14 +6904,14 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/0e9e14d030ed.png", "https://cdn.imgchest.com/files/e35e8953bae7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/fe97adbcc1dc.png",
-			title: "Zinnia stealing boys\' megastones and their cum",
+			title: "Zinnia stealing boys\' mega stones and their cum. 💦",
 			artist: "Razillon",
 			artist_url: "https://x.com/Razillon",
-			art_url: null,
+			art_url: "https://x.com/Razillon/status/1987929705270444345?s=20",
 			desc: "",
 			date_str: "November 2025",
 			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7mmcbzvkw7.png", "https://cdn.imgchest.com/files/myd5cwkjvk4.png", "https://cdn.imgchest.com/files/84jdcagndv4.png", "https://cdn.imgchest.com/files/j7kzc6v5ql7.png"],

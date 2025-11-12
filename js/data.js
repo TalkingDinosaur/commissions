@@ -4538,6 +4538,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7b0199f976b5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/610fcfce40e4.png",
+			title: "Feel his strength~",
+			artist: "Malvanilla",
+			artist_url: "https://x.com/malvanilla",
+			art_url: null,
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/e4gdcjm5vv4.jpg", "https://cdn.imgchest.com/files/my8xc5q3lv4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pce5zl87.jpg",
 			title: "Larcei \"wearing\" her clothes",

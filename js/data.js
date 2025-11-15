@@ -4540,14 +4540,14 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/7b0199f976b5.png"],
 			thumbnail: "https://cdn.imgchest.com/files/610fcfce40e4.png",
-			title: "Feel his strength~",
+			title: "With all your strength, give Larcei everything you got! 💦",
 			artist: "Malvanilla",
 			artist_url: "https://x.com/malvanilla",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/1989513093739929601?s=20",
 			desc: "",
 			date_str: "November 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/e4gdcjm5vv4.jpg", "https://cdn.imgchest.com/files/my8xc5q3lv4.jpg"],

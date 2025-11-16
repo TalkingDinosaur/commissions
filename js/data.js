@@ -819,12 +819,24 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/49zc239w8oy.png", "https://cdn.imgchest.com/files/4nec8qnk654.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczwkr5j7.png",
-			title: "Perhaps the mother Char was looking for was in front of him all along... ",
+			title: "Perhaps the mother Char was looking for was in front of him all along...",
 			artist: "Atramada",
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://x.com/Atramada1/status/1956025501086310885",
 			desc: "",
 			date_str: "August 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a9d1cce99790.png", "https://cdn.imgchest.com/files/6c53e3e730e0.png", "https://cdn.imgchest.com/files/4e6ed5e29f18.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6a889375bc59.png",
+			title: "POV: You're the meme. 💦",
+			artist: "Atramada",
+			artist_url: "https://twitter.com/Atramada1",
+			art_url: "https://x.com/Atramada1/status/1987877675302805800?s=20",
+			desc: "",
+			date_str: "November 2025",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -4130,6 +4142,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/5dd6efdb4c2c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e29e62e4f7ec.png",
+			title: "In another world",
+			artist: "Liimonchi",
+			artist_url: "https://x.com/MrTalkingDino/status/1989749445886710133?s=20",
+			art_url: "https://x.com/liimonchi",
+			desc: "Larcei & Seliph live a simple life free from the obligations of their nobility and the call of war.",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acp5rap7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necqj9jd4.jpg",
 			title: "Legendary Seliph",
@@ -6782,6 +6806,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/995069c088e5.png", "https://cdn.imgchest.com/files/e3794947c964.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5032bdd71aa8.png",
+			title: "Pia asked Micah to come by her room, I wonder what she wants?",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/1988905947981341107?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6d5oz7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cjdgox4.jpg",
 			title: "Larcei thinkin",
@@ -7358,6 +7394,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/bdf6ad861029.png"],
+			thumbnail: "https://cdn.imgchest.com/files/629d802ac50a.png",
+			title: "Selia but her outfit is a high-leg leotard with bikini armor again!",
+			artist: "s_ryuken",
+			artist_url: "https://x.com/s_ryuken",
+			art_url: "https://x.com/MrTD2020/status/1989744851580248339?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/b49zcjplmey.png", "https://cdn.imgchest.com/files/l4nec9jrgj4.png", "https://cdn.imgchest.com/files/w7pjcl8jz57.png", "https://cdn.imgchest.com/files/d7ogc2qzgdy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3cej5px4.png",
 			title: "Larcei Jack-o pose",
@@ -7547,6 +7595,18 @@ var data = {
 			desc: "Seliph was so lucky.",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e55e36355a02.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/6b9977ca3f4f.jpg",
+			title: "It's Selia donning Cherie's armor!",
+			artist: "SaradUdon",
+			artist_url: "https://x.com/SaradUdon",
+			art_url: "https://x.com/MrTalkingDino/status/1989017548214661525",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -8926,6 +8986,18 @@ var data = {
 			art_url: "https://x.com/Draw_Friendo/status/1981762117029310919",
 			desc: "",
 			date_str: "October 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2b4733180239.png"],
+			thumbnail: "https://cdn.imgchest.com/files/405d818ad6a0.png",
+			title: "Sakura helping the gaming club get along again~",
+			artist: "Your friendo\, Veko",
+			artist_url: "https://x.com/Draw_Friendo",
+			art_url: "https://x.com/Draw_Friendo/status/1989082900986565085?s=20",
+			desc: "",
+			date_str: "November 2025",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},

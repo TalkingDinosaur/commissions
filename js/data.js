@@ -1357,6 +1357,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/9aab485bb1f9.png", "https://cdn.imgchest.com/files/0021f2b3db33.png", "https://cdn.imgchest.com/files/d8e568f5a841.png"],
+			thumbnail: "https://cdn.imgchest.com/files/af2385a16540.png",
+			title: "Leonie wants Ignatz to paint her like this next. 🥵",
+			artist: "CarlosVitor",
+			artist_url: "https://x.com/carlaumdu_nsfw",
+			art_url: "https://x.com/CarlosVitorArte/status/1992235684707590539?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/p7bwc2azod7.png", "https://cdn.imgchest.com/files/w7pjckz3ok7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc52g6g7.png",
 			title: "Larcei blessing Seliph's holy sword with a kiss~",
@@ -2161,6 +2173,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/a42549083cdd.png", "https://cdn.imgchest.com/files/646086451715.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fe6175bb5dc1.png",
+			title: "Florina's Night-mare! 🐴",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/1993733381918797900?s=20",
+			desc: "Gift for a friend.",
+			date_str: "November 2025",
+			tags: ["other_series", "other_character", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2482,6 +2506,18 @@ var data = {
 			desc: "",
 			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ffa1bb930c81.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b3c643f0c13d.png",
+			title: "Rune when he causes Alfonse to experience the most traumatic moment of his life (so far). 🫵😂",
+			artist: "Evomanaphy",
+			artist_url: "https://x.com/Evomanaphy",
+			art_url: "https://x.com/EvomanaphyArt/status/1993525966673789305?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
 			hidden: false
 		},
 		{
@@ -3550,6 +3586,18 @@ var data = {
 			desc: "",
 			date_str: "August 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/cce61e2fd29b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/58b7494d16b6.png",
+			title: "Bernie's made some new friends!",
+			artist: "LazGM",
+			artist_url: "https://x.com/gm_laz",
+			art_url: "https://x.com/gm_laz/status/1994466034414149860?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6122,6 +6170,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/801d6dce8d80.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d308842b96d2.png",
+			title: "For the last time, Od blood does not \"go straight to the thighs.\" 💢",
+			artist: "Niray",
+			artist_url: "https://x.com/niray_sama",
+			art_url: "https://x.com/MrTalkingDino/status/1993003761028223323?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7mmcxqjqg7.jpg", "https://cdn.imgchest.com/files/k739crbwbn7.jpg", "https://cdn.imgchest.com/files/w7w6cw6566y.jpg", "https://cdn.imgchest.com/files/wye3cnw6wj4.jpg", "https://cdn.imgchest.com/files/g4z9cpjrjm7.jpg", "https://cdn.imgchest.com/files/e4gdczwew54.jpg", "https://cdn.imgchest.com/files/my8xc6vmvm4.jpg", "https://cdn.imgchest.com/files/345xc5p3pw7.jpg", "https://cdn.imgchest.com/files/84apc8qxqb4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5c29pjx4.jpg",
 			title: "Cherie & Elwin's one night together~",
@@ -6818,6 +6878,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/c35a3b9886c3.png", "https://cdn.imgchest.com/files/a283a2ad8ec2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2ea0df0664a6.png",
+			title: "Pia invited Micah over to make a baby! 👶",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/1992055165718089932?s=20",
+			desc: "She's happy that Sakuya decided to stay since she has something special in mind for her too~",
+			date_str: "November 2025",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6d5oz7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cjdgox4.jpg",
 			title: "Larcei thinkin",
@@ -6959,6 +7031,18 @@ var data = {
 			desc: "",
 			date_str: "November 2025",
 			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9c33144a5cc0.png", "https://cdn.imgchest.com/files/e8082af7c9da.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0282ceb2cf0d.png",
+			title: "Larcei likes it when Seliph gets a bit forceful~",
+			artist: "Razillon",
+			artist_url: "https://x.com/Razillon",
+			art_url: "https://x.com/MrTD2020/status/1991919022120763691?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7247,6 +7331,18 @@ var data = {
 			desc: "",
 			date_str: "June 2025",
 			tags: ["fire_emblem", "larcei", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3c673b825f44.png"],
+			thumbnail: "https://cdn.imgchest.com/files/470b49013c37.png",
+			title: "Seliph is very grateful for the Od's blood that runs through Larcei's thighs 🙏",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1993903366083338689?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

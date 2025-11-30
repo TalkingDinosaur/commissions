@@ -2341,6 +2341,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7cc50608c12f.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/91d6d5eb7f54.jpg",
+			title: "Larcei in her natural habitat. Nature is so beautiful~ 💕",
+			artist: "Dropout",
+			artist_url: "https://x.com/DropoutNSFW",
+			art_url: "https://x.com/DropoutNSFW/status/1995170699275915422?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xc83zkg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9c9ra837.png",
 			title: "Larcei & Seliph handjob",

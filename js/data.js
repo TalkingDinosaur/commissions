@@ -4748,7 +4748,7 @@ var data = {
 			artist: "maru_run",
 			artist_url: "https://x.com/run___o___run",
 			art_url: "https://x.com/MrTD2020/status/1997719687195660605?s=20",
-			desc: "",
+			desc: "Gift from a friend.",
 			date_str: "December 2025",
 			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
@@ -9178,18 +9178,6 @@ var data = {
 			art_url: "https://x.com/Draw_Friendo/status/1981762117029310919",
 			desc: "",
 			date_str: "October 2025",
-			tags: ["other_series", "other_character", "nsfw"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/2b4733180239.png"],
-			thumbnail: "https://cdn.imgchest.com/files/405d818ad6a0.png",
-			title: "Sakura helping the gaming club get along again~",
-			artist: "Your friendo\, Veko",
-			artist_url: "https://x.com/Draw_Friendo",
-			art_url: "https://x.com/Draw_Friendo/status/1989082900986565085?s=20",
-			desc: "",
-			date_str: "November 2025",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},

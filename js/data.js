@@ -265,6 +265,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/5becd2acde54.png", "https://cdn.imgchest.com/files/09958b7e67b3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c948b1cfb804.png",
+			title: "Cherie showing off how flexible she is! ",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/Anander0/status/1997812903580446827?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -1717,6 +1729,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7936554b3c6a.png", "https://cdn.imgchest.com/files/1fbedd209283.png", "https://cdn.imgchest.com/files/ce40906fbae4.png", "https://cdn.imgchest.com/files/6ed027a7b409.png", "https://cdn.imgchest.com/files/e6ba164b107c.png", "https://cdn.imgchest.com/files/32cbde23ead4.png", "https://cdn.imgchest.com/files/1105c709a0fe.png", "https://cdn.imgchest.com/files/84bf2b13e6e7.png", "https://cdn.imgchest.com/files/80c2205e8f7d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/00eb8714dba0.png",
+			title: "Larcei just can't get enough of Seliph so it's a good thing she has 2 holes~",
+			artist: "DaguDr",
+			artist_url: "https://x.com/DaguDr",
+			art_url: "https://x.com/MrTD2020/status/1996273219012317588?s=20",
+			desc: "Another incredible animated production conducted by me, DaguDr, CinderDryad, and RyoTsune. Dagu truly flexed his skills with this project! <p>You can find the sound/voiced version in the art link~</p>",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/7lxcp9bnzp7.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvgpmg34.jpg",
 			title: "Patty & Shannan hugging at the end of the Holy War",
@@ -3121,6 +3145,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/8cbaaa0aae8e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8e0e6c5391d0.png",
+			title: "Bright and cheerful Selia!",
+			artist: "Huruikawara",
+			artist_url: "https://x.com/huruikawara",
+			art_url: "https://x.com/huruikawara/status/1997593987969143089?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcele2a4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6c3a3g2y.jpg",
 			title: "Larcei and Seliph side-by-side",
@@ -3610,6 +3646,18 @@ var data = {
 			desc: "",
 			date_str: "November 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/512a2528fc94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/730ed568814a.png",
+			title: "Milking the Scion of Light 🍩🔥",
+			artist: "LazGM",
+			artist_url: "https://x.com/gm_laz",
+			art_url: "https://x.com/gm_laz/status/1997720449246208481?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -4694,6 +4742,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6d05f137cd5b.png", "https://cdn.imgchest.com/files/ded081f0f469.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/edd46659c482.png",
+			title: "Hooters Selia! 🤯",
+			artist: "maru_run",
+			artist_url: "https://x.com/run___o___run",
+			art_url: "https://x.com/MrTD2020/status/1997719687195660605?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqxvxo4.png", "https://cdn.imgchest.com/files/k739cqz8z67.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzc6pg8e7.png",
 			title: "Selia & Baou eating some baos",
@@ -5650,6 +5710,18 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "November 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e26bc050ed4b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2e83e23ed475.png",
+			title: "...and her fiancée",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "December 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: true
 		},
@@ -6779,6 +6851,18 @@ var data = {
 			desc: "Elwin is a stronger man than me\; if this wyvern riding 164cm girl, wearing a high-leg leotard with her pubes and asshole peeking out, made moves on me then I would've lost it. 😭",
 			date_str: "October 2025",
 			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c74b1d5b22e2.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/6ec61f07b60b.jpg",
+			title: "Daddy Seliph Father of 4... 5...? 20 children? They lost count.",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/MrTD2020/status/1975360744498790680",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -9106,6 +9190,30 @@ var data = {
 			art_url: "https://x.com/Draw_Friendo/status/1989082900986565085?s=20",
 			desc: "",
 			date_str: "November 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2b4733180239.png"],
+			thumbnail: "https://cdn.imgchest.com/files/405d818ad6a0.png",
+			title: "Sakura helping the gaming club get along again~",
+			artist: "Your friendo\, Veko",
+			artist_url: "https://x.com/Draw_Friendo",
+			art_url: "https://x.com/Draw_Friendo/status/1989082900986565085?s=20",
+			desc: "",
+			date_str: "November 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5f0b9811eeab.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fb94b7439e02.png",
+			title: "Hana and Sana doing some morning stretches~",
+			artist: "Your friendo\, Veko",
+			artist_url: "https://x.com/Draw_Friendo",
+			art_url: "https://x.com/Draw_Friendo/status/1996075411961438345?s=20",
+			desc: "",
+			date_str: "December 2025",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},

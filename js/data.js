@@ -2185,9 +2185,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/23eceb07aeab.png", "https://cdn.imgchest.com/files/0ec26dde8030.png", "https://cdn.imgchest.com/files/09836b736b0a.png"],
+			src: ["https://cdn.imgchest.com/files/23eceb07aeab.png", "https://cdn.imgchest.com/files/0ec26dde8030.png", "https://cdn.imgchest.com/files/09836b736b0a.png", "https://cdn.imgchest.com/files/5ff0d1254b28.png", "https://cdn.imgchest.com/files/6cf1cbff2c27.png", "https://cdn.imgchest.com/files/603ebf821cfd.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ea219b1d8535.png",
-			title: "Special Explosion! \(Ongoing\)",
+			title: "Special Explosion!",
 			artist: "Decox",
 			artist_url: "https://x.com/decoxart",
 			art_url: null,

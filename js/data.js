@@ -49,6 +49,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7e0358874d45.png"],
+			thumbnail: "https://cdn.imgchest.com/files/53f3d813276a.png",
+			title: "It's Selia again~ 💞",
+			artist: "16",
+			artist_url: "https://x.com/leen_hiu",
+			art_url: "https://x.com/leen_hiu/status/2003076834720932081?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/fdb7ffdbbc1f.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/0389eac22c0b.gif",
 			title: "Twerkcei",
@@ -303,13 +315,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/5becd2acde54.png", "https://cdn.imgchest.com/files/09958b7e67b3.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c948b1cfb804.png",
-			title: "Cherie showing off how flexible she is! ",
+			title: "Cherie showing off how flexible she is!",
 			artist: "Anander",
 			artist_url: "https://x.com/Anander0",
 			art_url: "https://x.com/Anander0/status/1997812903580446827?s=20",
 			desc: "",
 			date_str: "December 2025",
 			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/70f00fafc922.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e1220a7ecbd7.png",
+			title: "\"Light washes over the shrub upon Venus’s mount.\" \-Enlightened woman appreciator ",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTD2020/status/2004626029839794467?s=20",
+			desc: "Gift for a friend.",
+			date_str: "December 2025",
+			tags: ["other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7046,6 +7070,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d15f22aa970f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d0b88436c7aa.png",
+			title: "Lounging Selia~ 🌄",
+			artist: "Ponpani39",
+			artist_url: "https://x.com/ponpani39",
+			art_url: "https://x.com/MrTalkingDino/status/2005039519742263631?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6d5oz7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cjdgox4.jpg",
 			title: "Larcei thinkin",
@@ -7574,6 +7610,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/2fec0a7fc0cc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f123449b794c.png",
+			title: "Making a mess in the forest~ 💦",
+			artist: "Rinnoasan",
+			artist_url: "https://x.com/rinnoasan",
+			art_url: "https://x.com/MrTD2020/status/2005333676767560167?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acrowlr7.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcrzrpd4.jpg",
 			title: "Selia",
@@ -7787,6 +7835,18 @@ var data = {
 			desc: "The answer will not surprise you.",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e6a453dc3785.png"],
+			thumbnail: "https://cdn.imgchest.com/files/31e1c3e42ead.png",
+			title: "Julia's Dream~ 😳💦",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/sachiko2s/status/2005541567906685106?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "julia", "nsfw"],
 			hidden: false
 		},
 		{

@@ -5810,6 +5810,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f32fef6ebc74.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0f7b4650b425.png",
+			title: "Strawberry milk fresh from a strawberry cow. 🐮",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/2006158169639161865?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -9329,12 +9341,24 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/w7pjclwd567.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6ckv3m9y.jpg",
 			title: "\"All the chairs have broken legs...\"",
-			artist: "Yugen",
+			artist: "Yugen99",
 			artist_url: "https://x.com/yugenvisuals",
 			art_url: "https://x.com/MrTD2020/status/1761070195614069064",
 			desc: "",
 			date_str: "February 2024",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9daea036aaba.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6355f0584a0a.png",
+			title: "Selia in the style of Satoshi Urushihara!",
+			artist: "Yukinyando",
+			artist_url: "https://x.com/Yukinyando",
+			art_url: "https://x.com/MrTalkingDino/status/2006047206332137632?s=20",
+			desc: "",
+			date_str: "December 2025",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

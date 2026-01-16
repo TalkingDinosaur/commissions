@@ -1501,7 +1501,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/597d45b17c0d.png", "https://cdn.imgchest.com/files/db5511ad4ffb.png"],
+			src: ["https://cdn.imgchest.com/files/597d45b17c0d.png", "https://cdn.imgchest.com/files/f01340300dd1.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6e6520b09726.png",
 			title: "Selia's big bright smile! ✨",
 			artist: "chi toki ru",

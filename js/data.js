@@ -5659,11 +5659,11 @@ var data = {
 			title: "Mysterious Forest Lady Succ",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/2007864228192137294?s=20",
 			desc: "",
 			date_str: "April 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7kzcagvjkz7.png"],
@@ -5671,11 +5671,11 @@ var data = {
 			title: "Altena and her BadWyvern",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/2011585879559848188?s=20",
 			desc: "",
 			date_str: "May 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7mmc9m2ej37.png"],

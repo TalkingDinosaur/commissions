@@ -1501,6 +1501,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/597d45b17c0d.png", "https://cdn.imgchest.com/files/db5511ad4ffb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6e6520b09726.png",
+			title: "Selia's big bright smile! ✨",
+			artist: "chi toki ru",
+			artist_url: "https://x.com/chi_toki_ru",
+			art_url: "https://x.com/chi_toki_ru/status/2012224818339348959?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cqep5jy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cmkolm4.jpg",
 			title: "Savor his expression~",
@@ -2477,7 +2489,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/6d11e6b3a60a.png",
 			title: "A wild Zinnia appeared!",
 			artist: "Ecchihanta",
-			artist_url: "https://x.com/ecchihanta",
+			artist_url: "https://x.com/hantachi_",
 			art_url: "https://x.com/ecchihanta/status/1979829284455039285",
 			desc: "",
 			date_str: "October 2025",
@@ -2489,10 +2501,22 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/50e1e1ba49ef.png",
 			title: "Welcome to the Zona Nemona!",
 			artist: "Ecchihanta",
-			artist_url: "https://x.com/ecchihanta",
+			artist_url: "https://x.com/hantachi_",
 			art_url: "https://x.com/ecchihanta/status/1986613523586367774",
 			desc: "You can never leave.",
 			date_str: "November 2025",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3d941db12094.png", "https://cdn.imgchest.com/files/4cd81a0b3a9c.png", "https://cdn.imgchest.com/files/2000f125d3c6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5aa7e72f5b26.png",
+			title: "Hex Maniac would like to battle!",
+			artist: "Ecchihanta",
+			artist_url: "https://x.com/hantachi_",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3mcbqx7m3bc2f",
+			desc: "",
+			date_str: "January 2026",
 			tags: ["porkymon", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -3215,6 +3239,18 @@ var data = {
 			date_str: "March 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d397e1837eb6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a95b63f71fc1.png",
+			title: "Swordmaster Summer Suite: Hot Springs 4 Year Anniversary!",
+			artist: "HoneyDoo",
+			artist_url: "https://x.com/Honi_Do",
+			art_url: null,
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "larcei", "ayra", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/8cbaaa0aae8e.png"],
@@ -5990,6 +6026,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/675d8b3145a5.png", "https://cdn.imgchest.com/files/dfb9355f7864.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f36d974da988.png",
+			title: "Ayra brewing a special tea with Lex ☕️",
+			artist: "mocomori",
+			artist_url: "https://x.com/mocomori_",
+			art_url: "https://x.com/MrTD2020/status/2011863940720922739?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "ayra", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/be77cab0f0a5.png", "https://cdn.imgchest.com/files/c9f401b3626f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a22b463d9fc7.png",
 			title: "Selia twinkles with the light of the stars! ✨",
@@ -8639,6 +8687,18 @@ var data = {
 			desc: "",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/458316e4c05d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3167b7a74bcf.png",
+			title: "Selia Rising ✨",
+			artist: "Tettora",
+			artist_url: "https://x.com/Tettora_Draws",
+			art_url: "https://x.com/i/status/2009716959332708443",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

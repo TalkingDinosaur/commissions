@@ -5858,6 +5858,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/2b203d4c5a9b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ff9080abc4cb.png",
+			title: "Edain in heat",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -8663,6 +8675,30 @@ var data = {
 			desc: "",
 			date_str: "October 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/76f5e2ee54ac.jpg", "https://cdn.imgchest.com/files/f5c2abc0b611.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ad04b8a5df5a.jpg",
+			title: "He likes it.",
+			artist: "Takoshi",
+			artist_url: "https://x.com/Takoshi_nsfw",
+			art_url: "https://x.com/Takoshi_nsfw/status/1978225323343790555",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/74ed992e97c0.png", "https://cdn.imgchest.com/files/e119204ebe55.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7047718ad8b6.png",
+			title: "Patty underestimated Prince Shannan... 💦",
+			artist: "Takoshi",
+			artist_url: "https://x.com/Takoshi_nsfw",
+			art_url: "https://x.com/Takoshi_nsfw/status/2012631174598766819?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
 			hidden: false
 		},
 		{

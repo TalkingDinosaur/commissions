@@ -1333,6 +1333,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/fe47b1ec8591.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e25905b56031.png",
+			title: "In the jungle, Larcei's mighty jungle 🦁",
+			artist: "BritoDraws",
+			artist_url: "https://x.com/BritoDraws",
+			art_url: "https://x.com/BritoDraws/status/2014012798271934742?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/b49zcv23b5y.jpg", "https://cdn.imgchest.com/files/l4necl8qmr4.jpg", "https://cdn.imgchest.com/files/w7pjckq2kn7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcqzw3v7.jpg",
 			title: "Larcei & Seliph in the living room",
@@ -3109,6 +3121,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ae59a5541a4a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b92f23533fa4.png",
+			title: "Fluffy Selia~",
+			artist: "gyunyu pack man",
+			artist_url: "https://x.com/gyunyu_pack_man",
+			art_url: "https://x.com/MrTalkingDino/status/2014384425031925844?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739crbw5n7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcdb3gv4.png",
 			title: "Twirl on it",
@@ -3358,6 +3382,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3aa00cfcfcf7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ba43a5026755.png",
+			title: "You found out about Prince Kurt's biggest secret! 😳",
+			artist: "Ishoo",
+			artist_url: "https://x.com/IamNissue",
+			art_url: "https://x.com/MrTD2020/status/2014496742948082090?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -4682,6 +4718,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3621336844cc.png", "https://cdn.imgchest.com/files/c3fe698f34f4.png", "https://cdn.imgchest.com/files/f56ba689c4d9.png", "https://cdn.imgchest.com/files/da5bf44cbae1.png", "https://cdn.imgchest.com/files/20e6227dd327.png", "https://cdn.imgchest.com/files/45bf0cd1e430.png", "https://cdn.imgchest.com/files/eab0b2893178.png", "https://cdn.imgchest.com/files/e533369a6d6f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c6eb4818047b.png",
+			title: "Embla's Honeymoon - Consummation",
+			artist: "LuckyMentha",
+			artist_url: "https://x.com/LuckyMentha",
+			art_url: "https://x.com/MrTD2020/status/2014743642813149367?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "embla", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcenz2r4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acpkv8x7.jpg",
 			title: "Larcei",
@@ -4787,6 +4835,18 @@ var data = {
 			desc: "",
 			date_str: "January 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/1b9d37585fe4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4270af993818.jpg",
+			title: "Happy Lovers 💕",
+			artist: "Mahiru",
+			artist_url: "https://x.com/celislakce",
+			art_url: "https://x.com/MrTalkingDino/status/2013291684709417209?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -7022,6 +7082,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d7bf3c326057.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4b53028df342.jpg",
+			title: "Sigurd CYL10 Propaganda",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/MrTalkingDino/status/2014528574158733373?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",
@@ -8738,6 +8810,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6481e516a88e.png", "https://cdn.imgchest.com/files/8e6af5ab15d9.png", "https://cdn.imgchest.com/files/b9628125dd87.png", "https://cdn.imgchest.com/files/b61e322593ba.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7d2c9f029292.png",
+			title: "Larcei's 3D Model",
+			artist: "TheHeat",
+			artist_url: "https://x.com/heats46933",
+			art_url: "https://x.com/heats46933/status/2012977849574031713?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/45xcva9pka7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcapb9e27.png",
 			title: "Post-seggs cuddles",
@@ -9384,6 +9468,18 @@ var data = {
 			date_str: "May 2025",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/322c97335b01.png", "https://cdn.imgchest.com/files/08d60242290a.png", "https://cdn.imgchest.com/files/87816378b449.png", "https://cdn.imgchest.com/files/2e9e8891f051.png", "https://cdn.imgchest.com/files/a1c452402dcf.png", "https://cdn.imgchest.com/files/957a9473b5e8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/89bc2a4d7f48.png",
+			title: "Akane in the Middle 2",
+			artist: "Yashiro",
+			artist_url: "https://x.com/yashiroMA02",
+			art_url: null,
+			desc: "",
+			date_str: "January 2026",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqzaw24.jpg", "https://cdn.imgchest.com/files/w7w6ckvzgxy.jpg"],

@@ -2305,6 +2305,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/22caa6987e78.png", "https://cdn.imgchest.com/files/d25bb0e23e20.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c62aae0767a7.png",
+			title: "Ayra & Lex - Astra's Legacy ✨",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2016917697507053700?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "other_character", "ayra", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -3718,6 +3730,18 @@ var data = {
 			desc: "",
 			date_str: "October 2023",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e6b98cbde038.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a4bd04e359f5.png",
+			title: "Shooting Star Selia! ✨",
+			artist: "L603201",
+			artist_url: "https://x.com/l603201",
+			art_url: "https://x.com/MrTalkingDino/status/2016567034977694116?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -7103,6 +7127,18 @@ var data = {
 			desc: "",
 			date_str: "December 2021",
 			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/55829a4b2b3d.jpg", "https://cdn.imgchest.com/files/cf0a544450d6.png", "https://cdn.imgchest.com/files/fc70fd3d6ce2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2b447aa7a403.jpg",
+			title: "Awaiting Battle",
+			artist: "Peacefulandflat",
+			artist_url: "https://x.com/peacefulandflat",
+			art_url: "https://x.com/MrTalkingDino/status/2016669580056461393?s=20",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

@@ -4754,6 +4754,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/bd2f078912c3.png", "https://cdn.imgchest.com/files/dc4bb15ecbf9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/242bd276b6cc.png",
+			title: "Veronica gets boned.",
+			artist: "LuckyMentha",
+			artist_url: "https://x.com/LuckyMentha",
+			art_url: "https://x.com/MrTD2020/status/2018723274893766698?s=20",
+			desc: "See, this time it makes sense cuz Lif is boning her.",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcenz2r4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acpkv8x7.jpg",
 			title: "Larcei",
@@ -5815,11 +5827,11 @@ var data = {
 			title: "Things to do before merging your Groom Seliphs",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/2019192707420446781?s=20",
 			desc: "",
 			date_str: "June 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/ye3c2dgwp24.png"],

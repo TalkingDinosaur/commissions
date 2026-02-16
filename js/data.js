@@ -327,13 +327,25 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/70f00fafc922.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e1220a7ecbd7.png",
-			title: "\"Light washes over the shrub upon Venus’s mount.\" \-Enlightened woman appreciator ",
+			title: "\"Light washes over the shrub upon Venus’s mount.\" \-Enlightened woman appreciator",
 			artist: "Anander",
 			artist_url: "https://x.com/Anander0",
 			art_url: "https://x.com/MrTD2020/status/2004626029839794467?s=20",
 			desc: "Gift for a friend.",
 			date_str: "December 2025",
 			tags: ["other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e6227ce8e4e3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/800e09c6c49d.png",
+			title: "Won't you spend this cold evening warming up with Cherie? 💞",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "",
+			desc: "",
+			date_str: "February 2026",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5966,6 +5978,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4d09d7a765ad.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f0e28f45451f.png",
+			title: "Larcei's Valentine's gift~ 🍓",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -6779,6 +6803,18 @@ var data = {
 			desc: "",
 			date_str: "Septemeber 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e918915aeb8b.png", "https://cdn.imgchest.com/files/7a38451b048f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/77cca149d19e.png",
+			title: "Selia's a bit sweaty after her workout. 💦",
+			artist: "Okomepon",
+			artist_url: "https://x.com/okomepon",
+			art_url: "https://x.com/MrTD2020/status/2021414889185845295?s=20",
+			desc: "",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{
@@ -8870,6 +8906,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/136fe73114b4.png", "https://cdn.imgchest.com/files/93adde150cb1.png", "https://cdn.imgchest.com/files/db636eca83c3.png", "https://cdn.imgchest.com/files/b348ca25fd4b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4d95167f70f1.png",
+			title: "Seliph's 3D Model",
+			artist: "TheHeat",
+			artist_url: "https://x.com/heats46933",
+			art_url: "https://x.com/heats46933/status/2020938881714225601?s=20",
+			desc: "",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "seliph", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/45xcva9pka7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcapb9e27.png",
 			title: "Post-seggs cuddles",
@@ -9779,6 +9827,18 @@ var data = {
 			desc: "",
 			date_str: "September 2025",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/85db817f6463.jpg", "https://cdn.imgchest.com/files/791b490442e8.jpg", "https://cdn.imgchest.com/files/74f27f5d20ce.jpg", "https://cdn.imgchest.com/files/e406a19e98ac.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3c1b0483b3db.jpg",
+			title: "Brigid doesn't want a single drop to go to waste~",
+			artist: "yuuri_splatoon",
+			artist_url: "https://x.com/yuuri_splatoon",
+			art_url: "https://x.com/yuuri_splatoon/status/2021451809345372384?s=20",
+			desc: "",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

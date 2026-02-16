@@ -342,7 +342,7 @@ var data = {
 			title: "Won't you spend this cold evening warming up with Cherie? 💞",
 			artist: "Anander",
 			artist_url: "https://x.com/Anander0",
-			art_url: "",
+			art_url: "https://x.com/MrTD2020/status/2021630345641402618?s=20",
 			desc: "",
 			date_str: "February 2026",
 			tags: ["other_series", "other_character", "nsfw"],

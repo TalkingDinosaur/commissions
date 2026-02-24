@@ -2859,7 +2859,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/edb60ad94430.png", "https://cdn.imgchest.com/files/5265567d856a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7da79933ac19.png",
-			title: "Larcei & Seliph sleeping soundly~",
+			title: "Larcei's very proud of her body~",
 			artist: "GeeWhy",
 			artist_url: "https://x.com/geewhy11",
 			art_url: "https://x.com/MrTD2020/status/2024528266963669252?s=20",

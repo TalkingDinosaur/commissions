@@ -2329,6 +2329,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6ac3c624f6a3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5f0803fbb613.png",
+			title: "POV: Cherie is about show you just how good of a rider she is. 🍑",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2025727090616910150?s=20",
+			desc: "",
+			date_str: "February 2026",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2842,6 +2854,18 @@ var data = {
 			desc: "",
 			date_str: "April 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/edb60ad94430.png", "https://cdn.imgchest.com/files/5265567d856a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7da79933ac19.png",
+			title: "Larcei & Seliph sleeping soundly~",
+			artist: "GeeWhy",
+			artist_url: "https://x.com/geewhy11",
+			art_url: "https://x.com/MrTD2020/status/2024528266963669252?s=20",
+			desc: "",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -9571,11 +9595,11 @@ var data = {
 			title: "Akane in the Middle 2",
 			artist: "Yashiro",
 			artist_url: "https://x.com/yashiroMA02",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2023920562754711928?s=20",
 			desc: "",
-			date_str: "January 2026",
+			date_str: "February 2026",
 			tags: ["other_series", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqzaw24.jpg", "https://cdn.imgchest.com/files/w7w6ckvzgxy.jpg"],
@@ -9622,6 +9646,18 @@ var data = {
 			art_url: "https://x.com/Draw_Friendo/status/1996075411961438345?s=20",
 			desc: "",
 			date_str: "December 2025",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9295c7896906.png"],
+			thumbnail: "https://cdn.imgchest.com/files/27864e0274be.png",
+			title: "Nagatoro's big sister, Misaki",
+			artist: "Your friendo\, Veko",
+			artist_url: "https://x.com/Draw_Friendo",
+			art_url: "https://x.com/Draw_Friendo/status/2023892873754865796?s=20",
+			desc: "",
+			date_str: "February 2026",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},

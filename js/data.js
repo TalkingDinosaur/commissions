@@ -97,6 +97,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/e2ea13de606d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ae9fe545e246.png",
+			title: "Larcei and Seliph kiss 😳 ",
+			artist: "AAnimatorYellow",
+			artist_url: "https://x.com/AAnimatorYellow",
+			art_url: "https://x.com/MrTalkingDino/status/2028514529035055372?s=20",
+			desc: "You can find the sound/voiced version in the art link!",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/2709691ddcc8.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c73f033d227d.png",
 			title: "Thrasir wants to make some purple jello with Lif~ 💜",

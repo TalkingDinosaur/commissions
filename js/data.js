@@ -73,6 +73,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/901ce1744479.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/305c95be3912.gif",
+			title: "Pitcei",
+			artist: "88Studio",
+			artist_url: "https://x.com/88Studio_ID",
+			art_url: "https://x.com/MrTD2020/status/2027583205956862371?s=20",
+			desc: "larcei armpit? yes",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc3qkla7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcbmpkq7.jpg",
 			title: "Larcei got a new shirt",
@@ -2698,6 +2710,18 @@ var data = {
 			desc: "",
 			date_str: "November 2025",
 			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c4476652b1ad.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0a3c2cdd3c90.png",
+			title: "Seliph's shirt is a little too big for Larcei~",
+			artist: "Fedor",
+			artist_url: "https://x.com/Fedorartt",
+			art_url: "https://x.com/MrTD2020/status/2026454890957226284?s=20",
+			desc: "Not like she's concerned about wearing it correctly anyway.",
+			date_str: "February 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5875,11 +5899,11 @@ var data = {
 			title: "Lana's White Wedding",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/Mnejing69/status/2027895045769335227?s=20",
 			desc: "",
 			date_str: "July 2025",
 			tags: ["fire_emblem", "lana", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yq9c3vwprl4.png"],

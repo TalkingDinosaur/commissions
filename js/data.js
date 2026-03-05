@@ -4514,6 +4514,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f6ca77794643.png", "https://cdn.imgchest.com/files/15acab854f9d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a3aca52784f2.png",
+			title: "In another world 2",
+			artist: "Liimonchi",
+			artist_url: "https://x.com/liimonchi",
+			art_url: "https://x.com/MrTalkingDino/status/2028885320008352255?s=20",
+			desc: "Larcei & Seliph pass the cold winter days cuddling together by the fireplace of their home.",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acp5rap7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necqj9jd4.jpg",
 			title: "Legendary Seliph",
@@ -8138,6 +8150,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d3873dda3074.png", "https://cdn.imgchest.com/files/2edc099fb9b2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d27cf31af1a1.png",
+			title: "Passionate exchanges between the new Queen of Grannvale and the new Lady of House Dozel.",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/MrTD2020/status/2028678144253907189?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "julia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/j7kzc6ol837.png", "https://cdn.imgchest.com/files/w7pjcl8jm57.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/w7w6cklk9ny.png",
 			title: "Doing something",
@@ -8268,6 +8292,18 @@ var data = {
 			date_str: "August 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/81ae7e409608.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2f88a2776b05.png",
+			title: "Mommy & Daughter Quality Time",
+			artist: "Seios",
+			artist_url: "https://x.com/seiosArt",
+			art_url: null,
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "ayra", "seliph", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l4nec9jrj54.png", "https://cdn.imgchest.com/files/p7bwcmvqvd7.png", "https://cdn.imgchest.com/files/w7pjcl8j8k7.png"],
@@ -9336,6 +9372,30 @@ var data = {
 			date_str: "May 2025",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2236de73652d.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/bfb414d95636.jpg",
+			title: "Nelliel Tu Uoooooh",
+			artist: "Urumi",
+			artist_url: "https://x.com/urumi00",
+			art_url: "https://x.com/urumi00/status/2029257004645011468?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f464adf08b4a.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/75c907a90927.jpg",
+			title: "Love by the countryside",
+			artist: "Urumi",
+			artist_url: "https://x.com/urumi00",
+			art_url: null,
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cmg2aw4.png", "https://cdn.imgchest.com/files/g4z9c59von7.png"],

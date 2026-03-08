@@ -8299,11 +8299,11 @@ var data = {
 			title: "Mommy & Daughter Quality Time",
 			artist: "Seios",
 			artist_url: "https://x.com/seiosArt",
-			art_url: null,
+			art_url: "https://x.com/seiosArt/status/2030455144458957156?s=20",
 			desc: "",
 			date_str: "March 2026",
 			tags: ["fire_emblem", "larcei", "ayra", "seliph", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/l4nec9jrj54.png", "https://cdn.imgchest.com/files/p7bwcmvqvd7.png", "https://cdn.imgchest.com/files/w7pjcl8j8k7.png"],

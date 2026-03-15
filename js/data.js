@@ -4850,6 +4850,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/24a0db899acc.jpg", "https://cdn.imgchest.com/files/4e35521954d0.jpg", "https://cdn.imgchest.com/files/b1fb0a46f616.jpg", "https://cdn.imgchest.com/files/245d126fd165.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/9d270b96d3ad.png",
+			title: "Eir & Ganglot learning to work together. 😊",
+			artist: "LuckyMentha",
+			artist_url: "https://x.com/LuckyMentha",
+			art_url: "https://x.com/MrTD2020/status/2030346494482800866?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcenz2r4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/k46acpkv8x7.jpg",
 			title: "Larcei",
@@ -6062,6 +6074,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/0bc531f5e4fd.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/008d5a1bd169.jpg",
+			title: "Doctor Morgan",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/2031917042367152592?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -6926,6 +6950,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/30cf49beea1f.png", "https://cdn.imgchest.com/files/d1ed70025488.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ec90380e7098.png",
+			title: "The weather is heating up and so is Larcei~ 💦",
+			artist: "Oroborus",
+			artist_url: "https://x.com/OroborusArt",
+			art_url: "https://x.com/MrTD2020/status/2031401489432981831?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqx3zg4.jpg", "https://cdn.imgchest.com/files/k739cqzw6m7.jpg", "https://cdn.imgchest.com/files/j7mmcbajrj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzc6p2lb7.jpg",
 			title: "Saphir post training",
@@ -7451,6 +7487,18 @@ var data = {
 			desc: "",
 			date_str: "September 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4c5a3080f3a8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/15a56aea37a4.png",
+			title: "Seliph is in his happy place. ☺️",
+			artist: "r51633060",
+			artist_url: "https://x.com/r51633060",
+			art_url: "https://x.com/MrTD2020/status/2032990489407029717?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -9550,6 +9598,18 @@ var data = {
 			art_url: "https://x.com/WowsasMan/status/1970135548770812036",
 			desc: "",
 			date_str: "September 2025",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f40752150d0b.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/ab79c562dee7.png",
+			title: "Bothering mommy Hilda",
+			artist: "Wowsasman",
+			artist_url: "https://x.com/WowsasMan",
+			art_url: "https://x.com/WowsasMan/status/2030342720309662029?s=20",
+			desc: "",
+			date_str: "March 2026",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},

@@ -99,10 +99,22 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/e2ea13de606d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ae9fe545e246.png",
-			title: "Larcei and Seliph kiss 😳 ",
+			title: "Larcei and Seliph kiss 😳",
 			artist: "AAnimatorYellow",
 			artist_url: "https://x.com/AAnimatorYellow",
 			art_url: "https://x.com/MrTalkingDino/status/2028514529035055372?s=20",
+			desc: "You can find the sound/voiced version in the art link!",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2b2bf1e2d9ec.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d4c0314d5912.png",
+			title: "Larcei's favorite accessory... 🐟",
+			artist: "AAnimatorYellow",
+			artist_url: "https://x.com/AAnimatorYellow",
+			art_url: "https://x.com/MrTalkingDino/status/2036218855413121093?s=20",
 			desc: "You can find the sound/voiced version in the art link!",
 			date_str: "March 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "animation", "sfw"],
@@ -2365,6 +2377,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/05a287711e7d.png", "https://cdn.imgchest.com/files/3354eda288f9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/62779bbf26df.png",
+			title: "Does something seem different about Cherie today? 🔍",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2036115208712933747?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2746,6 +2770,18 @@ var data = {
 			desc: "",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7368df253d49.png"],
+			thumbnail: "https://cdn.imgchest.com/files/54d5b9fb2123.png",
+			title: "Selia drawn in the style of Wakfu!",
+			artist: "Fen825",
+			artist_url: "https://x.com/fen825",
+			art_url: "https://x.com/MrTalkingDino/status/2035017525998887257",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -9023,6 +9059,18 @@ var data = {
 			desc: "",
 			date_str: "June 2023",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/78d8024a54b1.png", "https://cdn.imgchest.com/files/3ea9f3c18d4d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8cf668aeb082.png",
+			title: "Selia leaps!",
+			artist: "tawashism\_",
+			artist_url: "https://skeb.jp/@tawashism_",
+			art_url: "https://x.com/MrTalkingDino/status/2035773973619978692?s=20",
+			desc: "Also there's a lizard man. 🦎",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

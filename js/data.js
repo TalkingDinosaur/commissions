@@ -1201,6 +1201,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ff93783f8ff7.png", "https://cdn.imgchest.com/files/3959dedf25c8.png", "https://cdn.imgchest.com/files/ffae4f57aaca.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e6bfe1c39b74.png",
+			title: "Brigid's favorite drink is Mountain Dew but without the Mountain. 💦",
+			artist: "blade_ride",
+			artist_url: "https://x.com/blade_ride",
+			art_url: "https://x.com/MrTD2020/status/2037565181103059325?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/pyq9cerqvg4.png", "https://cdn.imgchest.com/files/myd5crv2mp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcdmb5w7.png",
 			title: "Dommy Mommy from Hel",
@@ -3769,6 +3781,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d7809833df94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d0963ae4105c.png",
+			title: "Selia thumbs up! 🙂👍",
+			artist: "KKZK61539201",
+			artist_url: "https://x.com/KKZK61539201",
+			art_url: "https://x.com/MrTD2020/status/2039138730351710688?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/7kzca9z2om7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpjkzbn7.png",
 			title: "Seliph & Larcei splashing around at the beach! ",
@@ -4907,6 +4931,18 @@ var data = {
 			desc: "",
 			date_str: "June 2022",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/1233fc945d64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bc7a0f0f25cc.png",
+			title: "The captivating Selia~ 😗",
+			artist: "m_toshinaga",
+			artist_url: "https://x.com/m_toshinaga",
+			art_url: "https://x.com/MrTalkingDino/status/2037938634251489454?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -7970,6 +8006,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6099a433f2ae.png", "https://cdn.imgchest.com/files/6d2f1072a69b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6ac32961f5a3.png",
+			title: "Larcei & Seliph are gettin grabby~ 🤗",
+			artist: "Rickscribble",
+			artist_url: "https://x.com/Rickscribble",
+			art_url: "https://x.com/MrTD2020/status/2037546487413162326?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/4d650e7d8dba.png", "https://cdn.imgchest.com/files/c7aeefa0627d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f654c78e33d5.png",
 			title: "Selia carries the blood of both Baldr and Od into the future!",
@@ -9656,6 +9704,18 @@ var data = {
 			artist: "Wowsasman",
 			artist_url: "https://x.com/WowsasMan",
 			art_url: "https://x.com/WowsasMan/status/2030342720309662029?s=20",
+			desc: "",
+			date_str: "March 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5100c079a49f.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/798455ebbb77.png",
+			title: "Thjazi thinks you'll make a find subordinate",
+			artist: "Wowsasman",
+			artist_url: "https://x.com/WowsasMan",
+			art_url: "https://x.com/WowsasMan/status/2039024771397255629?s=20",
 			desc: "",
 			date_str: "March 2026",
 			tags: ["fire_emblem", "other_character", "nsfw"],

@@ -9487,11 +9487,11 @@ var data = {
 			title: "Love by the countryside",
 			artist: "Urumi",
 			artist_url: "https://x.com/urumi00",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2037196882116829295?s=20",
 			desc: "",
 			date_str: "March 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3cmg2aw4.png", "https://cdn.imgchest.com/files/g4z9c59von7.png"],

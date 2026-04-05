@@ -3457,6 +3457,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/590819706cb0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/481559596b03.png",
+			title: "Selia on the battlefield! ⚔️",
+			artist: "iemontale",
+			artist_url: "https://x.com/iemontale",
+			art_url: "https://x.com/MrTalkingDino/status/2040832219556765916?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4necrba2r4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cqbmgb4.png",
 			title: "Huggin",
@@ -7958,6 +7970,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f60965debd92.png"],
+			thumbnail: "https://cdn.imgchest.com/files/faffcc09f567.png",
+			title: "The king and queen of Grannvale relax in the castle garden~ 💐",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/2039712926588883069?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcagnqv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec9e9qa4.png",
 			title: "Larcei in Langrisser style 2",
@@ -9458,6 +9482,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/0cd9340bf4ff.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3df5208708f4.png",
+			title: "Selia is not easily intimidated~ 😏",
+			artist: "ukavoyage_art",
+			artist_url: "https://x.com/ukavoyage_art",
+			art_url: "https://x.com/MrTD2020/status/2039710389584470144?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7pjclwkle7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcvd5gq7.png",
 			title: "Seren - Daughter of Mareeta & Ced",
@@ -10234,6 +10270,18 @@ var data = {
 			art_url: "https://www.pixiv.net/artworks/119823069",
 			desc: "...but this tomboy's ass is heavier.",
 			date_str: "December 2023",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/8d432e2fa3d5.png", "https://cdn.imgchest.com/files/aeb8c9fb0b67.png", "https://cdn.imgchest.com/files/8d6bb687957a.png", "https://cdn.imgchest.com/files/3f1b0f9fd667.png", "https://cdn.imgchest.com/files/416e1f0aa6b8.png", "https://cdn.imgchest.com/files/433fcde4bd17.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e5497ecf343f.png",
+			title: "Larcei & Seliph spend a tender evening together with tender lovemaking. 💕",
+			artist: "Zexii",
+			artist_url: "https://x.com/ZexiiArt",
+			art_url: "https://x.com/i/status/2039773799319552335",
+			desc: "",
+			date_str: "April 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},

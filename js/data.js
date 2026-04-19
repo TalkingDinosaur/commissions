@@ -13,6 +13,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/799ee9f7478a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/dbdf40d4ae38.png",
+			title: "Selia and her big Selias 🍈🍈",
+			artist: "\_Iknsk\_",
+			artist_url: "https://x.com/\_Iknsk\_",
+			art_url: "https://x.com/MrTD2020/status/2045906781835288785?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3k5y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkc2ewbe7.png",
 			title: "Larcei & Seliph at the library 1",
@@ -2593,42 +2605,6 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/029e07fcd899.png", "https://cdn.imgchest.com/files/e16452f0349d.png", "https://cdn.imgchest.com/files/d725fe42ba98.png", "https://cdn.imgchest.com/files/32e21fe2a7fd.png"],
-			thumbnail: "https://cdn.imgchest.com/files/6d11e6b3a60a.png",
-			title: "A wild Zinnia appeared!",
-			artist: "Ecchihanta",
-			artist_url: "https://x.com/hantachi_",
-			art_url: "https://x.com/ecchihanta/status/1979829284455039285",
-			desc: "",
-			date_str: "October 2025",
-			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/672eec76ac12.png", "https://cdn.imgchest.com/files/e05c6c807de1.png", "https://cdn.imgchest.com/files/ef687d1fac95.png"],
-			thumbnail: "https://cdn.imgchest.com/files/50e1e1ba49ef.png",
-			title: "Welcome to the Zona Nemona!",
-			artist: "Ecchihanta",
-			artist_url: "https://x.com/hantachi_",
-			art_url: "https://x.com/ecchihanta/status/1986613523586367774",
-			desc: "You can never leave.",
-			date_str: "November 2025",
-			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/3d941db12094.png", "https://cdn.imgchest.com/files/4cd81a0b3a9c.png", "https://cdn.imgchest.com/files/2000f125d3c6.png"],
-			thumbnail: "https://cdn.imgchest.com/files/5aa7e72f5b26.png",
-			title: "Hex Maniac would like to battle!",
-			artist: "Ecchihanta",
-			artist_url: "https://x.com/hantachi_",
-			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3mcbqx7m3bc2f",
-			desc: "",
-			date_str: "January 2026",
-			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: false
-		},
-		{
 			src: ["https://cdn.imgchest.com/files/my8xcjdb294.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcpeqwl4.png",
 			title: "Larcei YCH",
@@ -3287,6 +3263,66 @@ var data = {
 			date_str: "August 2025",
 			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d470b03eea54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d6db828f3ef6.png",
+			title: "Selia out in the wild 🌄",
+			artist: "hanamasa\_ono",
+			artist_url: "https://x.com/hanamasa_ono",
+			art_url: "https://x.com/MrTalkingDino/status/2045661522496729514?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/029e07fcd899.png", "https://cdn.imgchest.com/files/e16452f0349d.png", "https://cdn.imgchest.com/files/d725fe42ba98.png", "https://cdn.imgchest.com/files/32e21fe2a7fd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6d11e6b3a60a.png",
+			title: "A wild Zinnia appeared!",
+			artist: "hantachi",
+			artist_url: "https://x.com/hantachi_",
+			art_url: "https://x.com/ecchihanta/status/1979829284455039285",
+			desc: "",
+			date_str: "October 2025",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/672eec76ac12.png", "https://cdn.imgchest.com/files/e05c6c807de1.png", "https://cdn.imgchest.com/files/ef687d1fac95.png"],
+			thumbnail: "https://cdn.imgchest.com/files/50e1e1ba49ef.png",
+			title: "Welcome to the Zona Nemona!",
+			artist: "hantachi",
+			artist_url: "https://x.com/hantachi_",
+			art_url: "https://x.com/ecchihanta/status/1986613523586367774",
+			desc: "You can never leave.",
+			date_str: "November 2025",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3d941db12094.png", "https://cdn.imgchest.com/files/4cd81a0b3a9c.png", "https://cdn.imgchest.com/files/2000f125d3c6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5aa7e72f5b26.png",
+			title: "Hex Maniac would like to battle!",
+			artist: "hantachi",
+			artist_url: "https://x.com/hantachi_",
+			art_url: "https://bsky.app/profile/mrtalkingdino.bsky.social/post/3mcbqx7m3bc2f",
+			desc: "",
+			date_str: "January 2026",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5eb63f34acbe.png", "https://cdn.imgchest.com/files/b0e2a0243cc6.png", "https://cdn.imgchest.com/files/44b6876bd525.png", "https://cdn.imgchest.com/files/91f4c9f8edaa.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a8df7ac104f6.png",
+			title: "Nemona got some new underwear~",
+			artist: "hantachi",
+			artist_url: "https://x.com/hantachi_",
+			art_url: null,
+			desc: "",
+			date_str: "April 2026",
+			tags: ["porkymon", "other_character", "nsfw"],
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/264fd64342d1.png"],
@@ -6170,6 +6206,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/2d045fae1ce4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a05971eed33f.png",
+			title: "Azelle POV",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cwjl2w4.jpg",
 			title: "Like mother, like daughter",
@@ -6503,6 +6551,18 @@ var data = {
 			desc: "",
 			date_str: "January 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/917e1fb59d47.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/af8bf020bad6.jpg",
+			title: "The remarkable Selia ✨",
+			artist: "Nacchong",
+			artist_url: "https://x.com/Nacchong",
+			art_url: "https://x.com/MrTalkingDino/status/2044806284072091739?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

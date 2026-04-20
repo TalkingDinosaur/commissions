@@ -3318,11 +3318,11 @@ var data = {
 			title: "Nemona got some new underwear~",
 			artist: "hantachi",
 			artist_url: "https://x.com/hantachi_",
-			art_url: null,
+			art_url: "https://x.com/hantachi_/status/2046041310944231741?s=20",
 			desc: "",
 			date_str: "April 2026",
 			tags: ["porkymon", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/264fd64342d1.png"],

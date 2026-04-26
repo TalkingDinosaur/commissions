@@ -61,6 +61,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f2106c46f7d8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2da77b99fa94.png",
+			title: "Selia and the winds of Grannvale. 🍃",
+			artist: "8_dlz",
+			artist_url: "https://x.com/8_dlz",
+			art_url: "https://x.com/MrTalkingDino/status/2047864588998418757?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/7e0358874d45.png"],
 			thumbnail: "https://cdn.imgchest.com/files/53f3d813276a.png",
 			title: "It's Selia again~ 💞",
@@ -3438,11 +3450,11 @@ var data = {
 			title: "Swordmaster Summer Suite: Hot Springs 4 Year Anniversary!",
 			artist: "HoneyDoo",
 			artist_url: "https://x.com/Honi_Do",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2048088809800343756?s=20",
 			desc: "",
 			date_str: "April 2026",
 			tags: ["fire_emblem", "larcei", "ayra", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/8cbaaa0aae8e.png"],
@@ -3730,6 +3742,18 @@ var data = {
 			desc: "Gift from a friend.",
 			date_str: "July 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b298486916b2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/922e25dbd731.png",
+			title: "Glittering Selia! ✨",
+			artist: "kedama_shoku",
+			artist_url: "https://x.com/kedama_shoku",
+			art_url: "https://x.com/kedama_shoku/status/2046242414139265155?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -8042,6 +8066,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/a3f96b89161a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a729ab429b1b.png",
+			title: "In another world, Larcei & Seliph frolic through the blooming flower fields in the springtime.💐",
+			artist: "Reeeeetomas",
+			artist_url: "https://x.com/Reeeeetomas",
+			art_url: "https://x.com/MrTalkingDino/status/2047348090244583862?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/84jdcagnqv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec9e9qa4.png",
 			title: "Larcei in Langrisser style 2",
@@ -8170,6 +8206,18 @@ var data = {
 			art_url: null,
 			desc: "",
 			date_str: "October 2021",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/eca6a718a14e.png", "https://cdn.imgchest.com/files/4d5c422f9a82.png", "https://cdn.imgchest.com/files/6066893669b6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4fe58a8457a.png",
+			title: "Regular outdoor activities with Larcei",
+			artist: "RoncoStar",
+			artist_url: "https://x.com/RoncoStar_Art",
+			art_url: "https://x.com/RoncoStar_Art/status/2047850408043790764?s=20",
+			desc: "",
+			date_str: "April 2026",
 			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},

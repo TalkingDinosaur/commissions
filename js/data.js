@@ -409,6 +409,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/e71fb2765746.png"],
+			thumbnail: "https://cdn.imgchest.com/files/da172ad6748e.png",
+			title: "Larcei's ready for Golden Week! 👙",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTD2020/status/2049523393817686248?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -1633,6 +1645,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/db8a1f9a8faa.png", "https://cdn.imgchest.com/files/c7c9e9d240a1.png", "https://cdn.imgchest.com/files/e7d42d8a4e2b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a14179100501.png",
+			title: "Pray for Seliph as he fights for his life against a girl eager to make him cum as fast as possible. 🙏",
+			artist: "CoJohn",
+			artist_url: "https://x.com/CoJohn__",
+			art_url: "https://x.com/MrTD2020/status/2049163562296525247?s=20",
+			desc: "",
+			date_str: "April 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/74f2c5e4a04a.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/c28a8a3854b9.jpg",
 			title: "Larcei & Seliph - Inheritors of Light!",
@@ -2421,6 +2445,18 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/2036115208712933747?s=20",
 			desc: "",
 			date_str: "March 2026",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/34a35a89c679.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ced48730a627.png",
+			title: "Cherie's sweet devotion to Elwin~ 🍦",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/decoxart/status/2050645151576391870?s=20",
+			desc: "",
+			date_str: "May 2026",
 			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -7570,6 +7606,18 @@ var data = {
 			art_url: "https://x.com/ef161062/status/1992055165718089932?s=20",
 			desc: "She's happy that Sakuya decided to stay since she has something special in mind for her too~",
 			date_str: "November 2025",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/0ca5356cc65f.png", "https://cdn.imgchest.com/files/e4709147baca.png"],
+			thumbnail: "https://cdn.imgchest.com/files/057b55b3828b.png",
+			title: "Sakuya got so excited that she decided to join in!",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/2049072661813444878?s=20",
+			desc: "Pia helps Sakuya clean Micah's dick by pushing her down all the way to its base! 😊",
+			date_str: "April 2026",
 			tags: ["rune_factory", "other_character", "nsfw"],
 			hidden: false
 		},

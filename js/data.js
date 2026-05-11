@@ -3217,6 +3217,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/a8d37bdc8342.png"],
+			thumbnail: "https://cdn.imgchest.com/files/786a7807d753.png",
+			title: "Larcei & Selia are ready for summer! 😎",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2052423261326373010?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",

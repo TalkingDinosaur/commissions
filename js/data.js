@@ -145,6 +145,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4e8084a63400.png"],
+			thumbnail: "https://cdn.imgchest.com/files/828274705747.png",
+			title: "Seliph's birthday surprise! 🎂",
+			artist: "AAnimatorYellow",
+			artist_url: "https://x.com/AAnimatorYellow",
+			art_url: "https://x.com/MrTalkingDino/status/2054705880856481975?s=20",
+			desc: "You can find the sound/voiced version in the art link!",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "animation", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/2709691ddcc8.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c73f033d227d.png",
 			title: "Thrasir wants to make some purple jello with Lif~ 💜",

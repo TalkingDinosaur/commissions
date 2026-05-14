@@ -3218,7 +3218,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/91234493d8fb.png"],
-			thumbnail: "https://cdn.imgchest.com/files/786a7807d753.png",
+			thumbnail: "https://cdn.imgchest.com/files/03df238f4c57.png",
 			title: "Larcei & Selia are ready for summer! 😎",
 			artist: "GravyDood",
 			artist_url: "https://x.com/gravydood",

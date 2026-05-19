@@ -3001,6 +3001,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/851d45c7578b.png", "https://cdn.imgchest.com/files/3edcdc45ba81.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1bc6fcef2817.png",
+			title: "Altena riding on Coirpre's wyvern~ 🐲💦",
+			artist: "geoxrugu",
+			artist_url: "https://x.com/geoxrugu",
+			art_url: "https://x.com/MrTD2020/status/2056524903747334297?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/7ogcb8g2qly.png", "https://cdn.imgchest.com/files/7kzcaed6o87.png", "https://cdn.imgchest.com/files/7lxcpgevwj7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvk6bpl7.png",
 			title: "Selia Relaxes \+ Chibi",
@@ -7646,6 +7658,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/1f0775e761e8.png", "https://cdn.imgchest.com/files/48ff3e2a2a9e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f425b4b29859.png",
+			title: "Now its Sakuya's turn to make a baby! 👶",
+			artist: "Pointacid",
+			artist_url: "https://x.com/ef161062",
+			art_url: "https://x.com/ef161062/status/2054162919714349413?s=20",
+			desc: "These three are so passionate in their act that even Shino seems eager to join...",
+			date_str: "May 2026",
+			tags: ["rune_factory", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/d15f22aa970f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d0b88436c7aa.png",
 			title: "Lounging Selia~ 🌄",
@@ -8198,6 +8222,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/df27b49d27ef.png"],
+			thumbnail: "https://cdn.imgchest.com/files/05a188f5ae5d.png",
+			title: "Watermelon splitting at the beach with Seliph & Larcei! 🍉",
+			artist: "RICE",
+			artist_url: "https://x.com/s0urm1111k",
+			art_url: "https://x.com/s0urm1111k/status/2054232858365976828?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6099a433f2ae.png", "https://cdn.imgchest.com/files/6d2f1072a69b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/6ac32961f5a3.png",
 			title: "Larcei & Seliph are gettin grabby~ 🤗",
@@ -8495,6 +8531,18 @@ var data = {
 			desc: "",
 			date_str: "March 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6d17bbaf448a.png", "https://cdn.imgchest.com/files/2d9a54b9f59f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9c170387438b.png",
+			title: "When cherry blossom petals fall, they completely blanket the ground which makes for good padding. 😉",
+			artist: "Sachiko",
+			artist_url: "https://x.com/sachiko2s",
+			art_url: "https://x.com/MrTD2020/status/2054330626359361557?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -9359,6 +9407,18 @@ var data = {
 			desc: "",
 			date_str: "February 2026",
 			tags: ["fire_emblem", "seliph", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9f59f55e2084.png", "https://cdn.imgchest.com/files/7980e64d2602.png", "https://cdn.imgchest.com/files/a43c67bb242f.png", "https://cdn.imgchest.com/files/1a0a032b8907.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4bfdddfa6abf.png",
+			title: "NEW Larcei 3D model now with swimsuit DLC",
+			artist: "TheHeat",
+			artist_url: "https://x.com/heats46933",
+			art_url: "https://x.com/heats46933/status/2056018419799978388?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},
 		{

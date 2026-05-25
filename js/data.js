@@ -1561,6 +1561,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/250abe8e38cd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/90fbfcaf276d.png",
+			title: "S-Ranking in the forests of Jugdral. 🌲",
+			artist: "CHARUPOPU",
+			artist_url: "https://x.com/charupopu_",
+			art_url: "https://x.com/MrTD2020/status/2057590859554808009?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/p7bwc2azod7.png", "https://cdn.imgchest.com/files/w7pjckz3ok7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc52g6g7.png",
 			title: "Larcei blessing Seliph's holy sword with a kiss~",
@@ -2734,6 +2746,18 @@ var data = {
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/fe61f6d55b6a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/052a000fb657.png",
+			title: "Selia \>\:\)",
+			artist: "erupusai2",
+			artist_url: "https://x.com/erupusai2",
+			art_url: "https://x.com/erupusai2/status/2057662041201262765?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

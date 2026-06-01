@@ -2485,6 +2485,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/8673df4c29e6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6fcfab00bfa4.png",
+			title: "When two Isaachian women meet on the battlefield... 💢",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/decoxart/status/2060078704286425300?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "ayra", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -2734,6 +2746,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/01cb3a959bf1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5befb02ddf7b.png",
+			title: "Larcei likes Seliph's new summer fit~ 😏",
+			artist: "Emmavania",
+			artist_url: "https://x.com/emmantroll15",
+			art_url: "https://x.com/emmantroll15/status/2059422789078020233?s=20",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -6575,6 +6599,18 @@ var data = {
 			desc: "",
 			date_str: "July 2022",
 			tags: ["fire_emblem", "thrasir", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d41c35ebe953.png"],
+			thumbnail: "https://cdn.imgchest.com/files/20579952cf53.png",
+			title: "Selia strikes! 💥",
+			artist: "montesquekite",
+			artist_url: "https://x.com/montesquekite",
+			art_url: "https://x.com/MrTalkingDino/status/2058956005275570304",
+			desc: "",
+			date_str: "May 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

@@ -441,7 +441,7 @@ var data = {
 			art_url: "https://x.com/MrTalkingDino/status/2063438263982215343?s=20",
 			desc: "",
 			date_str: "June 2026",
-			tags: ["fire_emblem", "larcei", "sfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

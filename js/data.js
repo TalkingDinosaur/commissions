@@ -9271,7 +9271,7 @@ var data = {
 			title: "Larcei soaking up the summer sun~ ☀️",
 			artist: "Symoca",
 			artist_url: "https://x.com/symocosmos",
-			art_url: "https://x.com/symocosmos/status/2061879323355705503?s=20",
+			art_url: "https://x.com/i/status/2062214334298882450",
 			desc: "and then properly~",
 			date_str: "June 2026",
 			tags: ["fire_emblem", "larcei", "nsfw"],

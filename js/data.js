@@ -433,6 +433,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/dac638131bdf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6db70e97e974.png",
+			title: "In another world, Larcei & Seliph spend their summer days running by the ocean. 🏖️",
+			artist: "Anander",
+			artist_url: "https://x.com/Anander0",
+			art_url: "https://x.com/MrTalkingDino/status/2063438263982215343?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6cod3wzy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pc6roxd7.jpg",
 			title: "Larcei & Seliph Private Council",
@@ -5138,6 +5150,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/9edc0350538b.jpg", "https://cdn.imgchest.com/files/f48aace577ae.png", "https://cdn.imgchest.com/files/7523b69b59fb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ad8b27a4b1ed.jpg",
+			title: "Always a smile on Selia's face. 😗",
+			artist: "M4r_4ro",
+			artist_url: "https://x.com/M4r_4ro",
+			art_url: "https://x.com/MrTalkingDino/status/2062210222761095426",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k46acpgkov7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9clvgnd4.png",
 			title: "Larcei, Lana, and Patty at the waterfall",
@@ -5279,6 +5303,18 @@ var data = {
 			desc: "",
 			date_str: "October 2025",
 			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2894cb07f7f6.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/d4a292039050.jpg",
+			title: "Selia's ready for another summer~ 🏖️",
+			artist: "Mangho",
+			artist_url: "https://x.com/_mangho_",
+			art_url: "https://x.com/_mangho_/status/2061790330144383396?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6755,6 +6791,18 @@ var data = {
 			desc: "",
 			date_str: "March 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/38b4cc14dfe9.png", "https://cdn.imgchest.com/files/bde604975088.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2bd9618ba4d8.png",
+			title: "Selia soars! ✨",
+			artist: "namicha73",
+			artist_url: "https://x.com/namicha73",
+			art_url: "https://x.com/MrTalkingDino/status/2063306070580506631?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -9215,6 +9263,18 @@ var data = {
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f376f9629d89.png", "https://cdn.imgchest.com/files/8cf4c5236302.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5b25eb30f2e6.png",
+			title: "Larcei soaking up the summer sun~ ☀️",
+			artist: "Symoca",
+			artist_url: "https://x.com/symocosmos",
+			art_url: "https://x.com/symocosmos/status/2061879323355705503?s=20",
+			desc: "and then properly~",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{

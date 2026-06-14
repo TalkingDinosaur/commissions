@@ -1261,6 +1261,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/07a1a211cbad.jpg", "https://cdn.imgchest.com/files/b3546a960388.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/976c1a9a354c.jpg",
+			title: "Selia hanging out. 😉",
+			artist: "bimota73",
+			artist_url: "https://x.com/bimota73",
+			art_url: "https://x.com/MrTD2020/status/2065101927269171437?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/ff93783f8ff7.png", "https://cdn.imgchest.com/files/3959dedf25c8.png", "https://cdn.imgchest.com/files/ffae4f57aaca.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e6bfe1c39b74.png",
 			title: "Brigid's favorite drink is Mountain Dew but without the Mountain. 💦",
@@ -1690,6 +1702,18 @@ var data = {
 			desc: "",
 			date_str: "April 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9e0ea717039a.png", "https://cdn.imgchest.com/files/c264d2b149cb.png", "https://cdn.imgchest.com/files/2f6d33fc201e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6cae8d5c1d3f.png",
+			title: "Bratty thieves get their butts STUFFED!!! 💢💢💢",
+			artist: "CoJohn",
+			artist_url: "https://x.com/CoJohn__",
+			art_url: "https://x.com/MrTD2020/status/2066230826871005473?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3586,6 +3610,18 @@ var data = {
 			desc: "",
 			date_str: "April 2026",
 			tags: ["fire_emblem", "larcei", "ayra", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b48fa3ae7719.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cb6101e163cb.png",
+			title: "Peri's got something she'd like you take a stab at. 💦",
+			artist: "honstropy",
+			artist_url: "https://x.com/Altstropy",
+			art_url: "https://x.com/Altstropy/status/2065848733548568696?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "peri", "nsfw"],
 			hidden: false
 		},
 		{
@@ -6818,6 +6854,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/6758705b8003.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6d73854c9116.png",
+			title: "Hooters Rat-cina 🐀",
+			artist: "nejumipro",
+			artist_url: "https://x.com/nejumipro",
+			art_url: "https://x.com/MrTalkingDino/status/2066214099873407444?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7w6caw69dy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcq8jpxy.png",
 			title: "Peri standing sex",
@@ -9875,6 +9923,30 @@ var data = {
 			desc: "",
 			date_str: "April 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c5a7cf8696be.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ae0ba67c9951.jpg",
+			title: "A certain couple has been a bad influence on Lana and Scathach~ 😏",
+			artist: "UrizemDRW",
+			artist_url: "https://x.com/Guillermourize1",
+			art_url: "https://x.com/MrTD2020/status/2064379117370540334?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a7547c9b2e7c.jpg", "https://cdn.imgchest.com/files/1a72c90b412d.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/cda3dad5a0f1.jpg",
+			title: "What Julia doesn't know won't hurt her. 🤫",
+			artist: "UrizemDRW",
+			artist_url: "https://x.com/Guillermourize1",
+			art_url: "https://x.com/MrTD2020/status/2064843639323504763?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "lana", "scathach", "julia", "doujin", "nsfw"],
 			hidden: false
 		},
 		{

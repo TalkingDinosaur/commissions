@@ -7651,7 +7651,7 @@ var data = {
 			title: "Daddy Seliph Father of 4... 5...? 20 children? They lost count.",
 			artist: "Pasquale",
 			artist_url: "https://x.com/dekura_",
-			art_url: "https://x.com/MrTD2020/status/1975360744498790680",
+			art_url: "https://x.com/dekura_/status/1996325579784614041?s=20",
 			desc: "",
 			date_str: "December 2025",
 			tags: ["fire_emblem", "seliph", "sfw"],

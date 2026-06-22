@@ -6295,11 +6295,11 @@ var data = {
 			title: "Waiting for Annand to finish her Dance in the Skies™️ so the rest of the map opens up like",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2069089653547028514?s=20",
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "ayra", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/b21a3c3fa6bb.png"],

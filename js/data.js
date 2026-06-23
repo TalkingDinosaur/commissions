@@ -6331,11 +6331,11 @@ var data = {
 			title: "Full of light",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2069446238869795315?s=20",
 			desc: "",
 			date_str: "October 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3a97ba2cd855.png"],

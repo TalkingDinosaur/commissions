@@ -241,6 +241,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/39ee9538a24e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ec7dd50b44d7.png",
+			title: "Selia is all soaked for summer! 💦",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/MrTD2020/status/2069583586114867271?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -598,6 +610,18 @@ var data = {
 			desc: "",
 			date_str: "July 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ef071693d724.png", "https://cdn.imgchest.com/files/880656c76442.png"],
+			thumbnail: "https://cdn.imgchest.com/files/35334ca6eb5a.png",
+			title: "It looks like Creidne has been getting close with Iucharba... 😗",
+			artist: "Ari-El",
+			artist_url: "https://x.com/ahri_el90",
+			art_url: "https://x.com/ahri_el90/status/2067427831701704788?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -1906,6 +1930,18 @@ var data = {
 			desc: "",
 			date_str: "October 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/85dadc4d9a0f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/62262ed6eb93.png",
+			title: "Proud Selia! ✨",
+			artist: "CR_7FFFD4",
+			artist_url: "https://x.com/CR_7FFFD4",
+			art_url: "https://x.com/MrTalkingDino/status/2068735062758281500?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -3853,6 +3889,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d5ecad60bae6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b963522c429f.png",
+			title: "Selia attacks! 💥",
+			artist: "kakitamajiru_23",
+			artist_url: "https://x.com/kakitamajiru_23",
+			art_url: "https://x.com/MrTalkingDino/status/2067067477054673160",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/e4gdcjd95l4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxc5e2887.png",
 			title: "Kronya catches a \"worm\"",
@@ -3958,6 +4006,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/797a1631ef9d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fc42698c3f56.png",
+			title: "How's the view down there? 😗",
+			artist: "kiganenakuyaru",
+			artist_url: "https://x.com/kiganenakuyaru",
+			art_url: "https://x.com/MrTD2020/status/2068731804006461590?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -5171,6 +5231,18 @@ var data = {
 			desc: "",
 			date_str: "June 2022",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3435287f9bb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d723aacedf00.png",
+			title: "Stand proud, Selia ✨",
+			artist: "Lynarc",
+			artist_url: "https://x.com/CM_Lynarc",
+			art_url: "https://x.com/MrTalkingDino/status/2067006266325762063?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -7670,6 +7742,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/2c5c8c0e2232.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/9803a55f85cc.jpg",
+			title: "King Seliph V2",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/i/status/2067667721337311339",
+			desc: "Small revision to my King Seliph design based on a suggestion from my girlfriend. 😗",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",
@@ -7907,6 +7991,18 @@ var data = {
 			desc: "",
 			date_str: "September 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e346e2961752.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4650cab3a10f.png",
+			title: "Selia Sprite!",
+			artist: "Quickalas",
+			artist_url: "https://bsky.app/profile/quickalas.bsky.social",
+			art_url: "https://x.com/MrTalkingDino/status/2068100847649825036?s=20",
+			desc: "Gift from a friend.",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

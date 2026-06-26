@@ -6463,11 +6463,11 @@ var data = {
 			title: "Edain in heat",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2070650684735926755?s=20",
 			desc: "",
 			date_str: "January 2026",
 			tags: ["fire_emblem", "other_character", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/4d09d7a765ad.png"],

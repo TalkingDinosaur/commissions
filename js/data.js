@@ -6475,11 +6475,11 @@ var data = {
 			title: "Larcei's Valentine's gift~ 🍓",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2071005081215119648?s=20",
 			desc: "",
 			date_str: "February 2026",
 			tags: ["fire_emblem", "larcei", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/0bc531f5e4fd.jpg"],

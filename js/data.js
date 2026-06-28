@@ -6499,11 +6499,11 @@ var data = {
 			title: "Azelle POV",
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
-			art_url: null,
+			art_url: "https://x.com/MrTD2020/status/2071282472525119739?s=20",
 			desc: "",
 			date_str: "April 2026",
 			tags: ["fire_emblem", "other_character", "sfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac2rpwr7.jpg"],

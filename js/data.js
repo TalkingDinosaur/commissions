@@ -2569,6 +2569,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/a80a5d248b5f.png", "https://cdn.imgchest.com/files/9fbdd1a5677b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7eff987ddadf.png",
+			title: "The consequences of loud, bed-breaking seggs 😗",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2070339385242046704?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -10703,6 +10715,18 @@ var data = {
 			desc: "",
 			date_str: "February 2026",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/710f5267baa0.jpg", "https://cdn.imgchest.com/files/a1c7143f3cd3.jpg", "https://cdn.imgchest.com/files/5d81607e479a.jpg", "https://cdn.imgchest.com/files/5fe284128429.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/9af15c970240.jpg",
+			title: "Bareback on horseback~ 🏇 ",
+			artist: "yuuri_splatoon",
+			artist_url: "https://x.com/yuuri_splatoon",
+			art_url: "https://x.com/MrTD2020/status/2070943853168013330?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

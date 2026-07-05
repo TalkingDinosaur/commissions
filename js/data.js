@@ -2989,6 +2989,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ed038d894cfd.png", "https://cdn.imgchest.com/files/05df9fb5a9d3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/02d081487e8a.png",
+			title: "The splash zone~ 💦",
+			artist: "Fizz",
+			artist_url: "https://x.com/Fi_zz_ill",
+			art_url: "https://x.com/MrTD2020/status/2071991561454526862?s=20",
+			desc: "",
+			date_str: "June 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxcrnxvx7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necnkld24.jpg",
 			title: "Larcei in Langrisser style 1",
@@ -3382,6 +3394,18 @@ var data = {
 			desc: "",
 			date_str: "May 2026",
 			tags: ["fire_emblem", "larcei", "selia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a9e1a4bc69ea.png", "https://cdn.imgchest.com/files/cc2b3f3abf09.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bf2a1a19b4f5.png",
+			title: "Summertime Fun~ 🏖️ - Part 1",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2072349728440983688?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

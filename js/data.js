@@ -253,6 +253,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/0d9d96307b3f.png", "https://cdn.imgchest.com/files/c45c594d8611.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6691204eef3a.png",
+			title: "Freshly squeezed Mountain Dew 🏔️💦",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/MrTD2020/status/2073915530034225182?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -3403,6 +3415,18 @@ var data = {
 			artist: "GravyDood",
 			artist_url: "https://x.com/gravydood",
 			art_url: "https://x.com/MrTD2020/status/2072349728440983688?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7a2920adb989.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f2ec8e9b2d9d.png",
+			title: "Summertime Fun~ 😛 - Part 2",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2075244900527091832?s=20",
 			desc: "",
 			date_str: "July 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
@@ -7454,6 +7478,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f09840517d19.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a51beb4c9cf6.png",
+			title: "How to properly grab your Midna 🫴",
+			artist: "Oppmann",
+			artist_url: "https://x.com/Oppmann_",
+			art_url: "https://x.com/Oppmann_/status/2074186471515558191?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/30cf49beea1f.png", "https://cdn.imgchest.com/files/d1ed70025488.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ec90380e7098.png",
 			title: "The weather is heating up and so is Larcei~ 💦",
@@ -10079,6 +10115,18 @@ var data = {
 			desc: "",
 			date_str: "June 2026",
 			tags: ["fire_emblem", "lana", "scathach", "julia", "doujin", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/338f67c6a1ee.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4a8771889c7b.jpg",
+			title: "If you double the number of thieves at the Aed Temple then you'll get...",
+			artist: "UrizemDRW",
+			artist_url: "https://x.com/Guillermourize1",
+			art_url: "https://x.com/MrTD2020/status/2075353819144388833?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "patty", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

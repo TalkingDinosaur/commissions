@@ -7486,7 +7486,7 @@ var data = {
 			art_url: "https://x.com/Oppmann_/status/2074186471515558191?s=20",
 			desc: "",
 			date_str: "July 2026",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

@@ -3433,6 +3433,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d9bbd3a5602e.png", "https://cdn.imgchest.com/files/71d40db04664.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e8119f2c7330.png",
+			title: "Summertime Fun~ 🍑 - Part 3",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2077060702028857785?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",
@@ -8486,6 +8498,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/eff1971275cb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/741a70f5674d.png",
+			title: "Cool down with Larcei at the beach! 🏖️",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/2078256099606876631?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/a3f96b89161a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a729ab429b1b.png",
 			title: "In another world, Larcei & Seliph frolic through the blooming flower fields in the springtime.💐",
@@ -10511,6 +10535,18 @@ var data = {
 			desc: "",
 			date_str: "February 2026",
 			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a5fa332accff.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5ca278136330.png",
+			title: "It's getting hot 💦",
+			artist: "yomizu32",
+			artist_url: "https://x.com/yomizu32",
+			art_url: "https://x.com/MrTD2020/status/2078884740120383500?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{

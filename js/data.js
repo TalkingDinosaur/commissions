@@ -8191,9 +8191,9 @@ var data = {
 			title: "Larcei Sittin",
 			artist: "ramrat",
 			artist_url: "https://x.com/ramrat_",
-			art_url: null,
+			art_url: "https://x.com/MrTalkingDino/status/2081539398274003327?s=20",
 			desc: "",
-			date_str: "July 2026",
+			date_str: "December 2025",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},

@@ -8200,7 +8200,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/bdcb10f8da35.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c5dc8af3c343.png",
-			title: "Selia versus a <p>talking<s> dinosaur! 🦖",
+			title: "Selia versus a <p><s>talking</p></s> dinosaur! 🦖",
 			artist: "rauyu_kaku",
 			artist_url: "https://x.com/rauyu_kaku",
 			art_url: "https://x.com/MrTalkingDino/status/2079591784376873025?s=20",

@@ -169,6 +169,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/2c26aa4bec2e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/78a895a125ea.png",
+			title: "Take a moment to relax with Selia 🌄",
+			artist: "abus55764787",
+			artist_url: "https://x.com/abus55764787",
+			art_url: "https://x.com/abus55764787/status/2080234547636244966?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cl6a294.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc6nqvd4.png",
 			title: "Larcei Thunder Mage",
@@ -262,6 +274,18 @@ var data = {
 			desc: "",
 			date_str: "July 2026",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e010397032b0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ef99440a3f15.png",
+			title: "The anticipation is palpable~ 🍆",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/MrTD2020/status/2081118925966950703?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3439,6 +3463,18 @@ var data = {
 			artist: "GravyDood",
 			artist_url: "https://x.com/gravydood",
 			art_url: "https://x.com/MrTD2020/status/2077060702028857785?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3cb9d527733f.png", "https://cdn.imgchest.com/files/f3a17968bdf6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8edf297b5136.png",
+			title: "Summertime Fun~ ✨ - Part 4",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2079585575129247914?s=20",
 			desc: "",
 			date_str: "July 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
@@ -8147,6 +8183,30 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/17d6a257ceb8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/75547f65096b.png",
+			title: "Larcei Sittin",
+			artist: "ramrat",
+			artist_url: "https://x.com/ramrat_",
+			art_url: null,
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/bdcb10f8da35.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c5dc8af3c343.png",
+			title: "Selia versus a <p>talking<s> dinosaur! 🦖",
+			artist: "rauyu_kaku",
+			artist_url: "https://x.com/rauyu_kaku",
+			art_url: "https://x.com/MrTalkingDino/status/2079591784376873025?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

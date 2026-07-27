@@ -8193,7 +8193,7 @@ var data = {
 			artist_url: "https://x.com/ramrat_",
 			art_url: "https://x.com/MrTalkingDino/status/2081539398274003327?s=20",
 			desc: "",
-			date_str: "December 2025",
+			date_str: "July 2026",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},

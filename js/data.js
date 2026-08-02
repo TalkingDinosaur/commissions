@@ -2613,7 +2613,19 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/2070339385242046704?s=20",
 			desc: "",
 			date_str: "June 2026",
-			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			tags: ["fire_emblem", "larcei", "seliph", "julia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d9dd66e203d3.png", "https://cdn.imgchest.com/files/0eb095bb5250.png"],
+			thumbnail: "https://cdn.imgchest.com/files/979fd3f15a50.png",
+			title: "Tomboy Summer~ 😎",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2082258163462742134?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "other_series", "larcei", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3478,6 +3490,18 @@ var data = {
 			desc: "",
 			date_str: "July 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/09fb95e65c10.png"],
+			thumbnail: "https://cdn.imgchest.com/files/51b78f172eab.png",
+			title: "Summertime Fun~ (Not for Everyone) 😏 - Part 5 Finale",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2082128228811153877?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "julia", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7874,6 +7898,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/cc47cca6978d.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/f53700ae4e31.jpg",
+			title: "Baou's long awaited reference sheet",
+			artist: "Pasquale",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/MrTalkingDino/status/2082267231094981114?s=20",
+			desc: "",
+			date_str: "July 2026",
+			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xcze3ve4.png", "https://cdn.imgchest.com/files/345xcb6dpz7.png", "https://cdn.imgchest.com/files/84apcr6gql4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cgerqv7.png",
 			title: "Hetha the daughter of Hel",
@@ -9335,6 +9371,18 @@ var data = {
 			desc: "I wonder what she's trying to tell Seliph right now?",
 			date_str: "July 2025",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/1d3a61b05a7d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/eaf00dd0123a.png",
+			title: "Under the table syrupy footjob at Donny's 💦💦",
+			artist: "Sinccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: "https://x.com/SINccubi/status/2083669522586775853?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

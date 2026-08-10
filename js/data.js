@@ -3505,6 +3505,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ae983e97f454.png"],
+			thumbnail: "https://cdn.imgchest.com/files/251ebe086524.png",
+			title: "Some refreshing ice cream after a hot day at the beach. 🌅",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTalkingDino/status/2084302083814281403?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/6yxkck352v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/w7pjcdjv6r7.png",
 			title: "Larcei wiping some sweat off",
@@ -3730,6 +3742,18 @@ var data = {
 			desc: "",
 			date_str: "October 2025",
 			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/8e4d1aea9684.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2898ed04c1b3.png",
+			title: "Selia tropical attack! 💦",
+			artist: "hiyokono_tami02",
+			artist_url: "https://x.com/Usio_Hiyoko",
+			art_url: "https://x.com/MrTalkingDino/status/2084135132395692234?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

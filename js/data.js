@@ -289,6 +289,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/9a3c92466d4c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6456ee6daa10.png",
+			title: "Don't tell Seteth about Flayn's new swimsuit. 🤫",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/AmphyShira/status/2087343757893005434?s=20",
+			desc: "Adopted this abandoned commission.",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -3514,6 +3526,18 @@ var data = {
 			desc: "",
 			date_str: "August 2026",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/560ff5aab1f3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/83484cc3f908.png",
+			title: "Summertime Fun~ 😳 - Bonus",
+			artist: "GravyDood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://x.com/MrTD2020/status/2087572851801178334?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "lana", "scathach", "nsfw"],
 			hidden: false
 		},
 		{
@@ -8663,6 +8687,18 @@ var data = {
 			desc: "\+ no pants. Lovely gift from a friend.",
 			date_str: "July 2022",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a4b778de44b1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e3b6c9fe237f.png",
+			title: "Larcei & Seliph in the style of Panty & Stocking with Garterbelt! 💞",
+			artist: "renren_omuraisu",
+			artist_url: "https://x.com/renren_omuraisu",
+			art_url: "https://x.com/MrTalkingDino/status/2088282410140193031?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{

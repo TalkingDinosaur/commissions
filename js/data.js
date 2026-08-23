@@ -301,6 +301,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/1472bc2338a8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/abae69f36305.png",
+			title: "A pirate and her (man's) booty~ 🍑",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/MrTD2020/status/2091343838040424879?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -3190,6 +3202,18 @@ var data = {
 			desc: "",
 			date_str: "February 2026",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f12128dabc63.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cae764bcec48.png",
+			title: "Selia's wondering what's got you so distracted. 🤨",
+			artist: "Genxx12",
+			artist_url: "https://x.com/Genxx12",
+			art_url: "https://x.com/MrTD2020/status/2090827256616947883?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{
@@ -10211,6 +10235,18 @@ var data = {
 			desc: "",
 			date_str: "July 2024",
 			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c5381f9b24fe.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4e62dd0a19f9.jpg",
+			title: "Out in the wild~ 🏞️",
+			artist: "towashi_184",
+			artist_url: "https://x.com/towashi_184",
+			art_url: "https://x.com/MrTD2020/status/2089886699858067665?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

@@ -697,6 +697,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/cb350d7fd719.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fe248227264d.png",
+			title: "Salutin' Selia 🫡",
+			artist: "Arikawa44",
+			artist_url: "https://x.com/arikawa44",
+			art_url: "https://x.com/MrTalkingDino/status/2093111660546580786?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/my8xc8ojnz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4nec59n6q4.png",
 			title: "Larcei keeping the kids warm",
@@ -1798,6 +1810,18 @@ var data = {
 			desc: "",
 			date_str: "June 2026",
 			tags: ["fire_emblem", "patty", "shannan", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/be2197a3588f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/265a63fbef48.png",
+			title: "What's wrong? The heat too much for you? 😏",
+			artist: "CoJohn",
+			artist_url: "https://x.com/CoJohn__",
+			art_url: "https://x.com/MrTD2020/status/2092783380505186452?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3970,6 +3994,18 @@ var data = {
 			desc: "",
 			date_str: "November 2024",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ed7992cf817d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9ce4ef623357.png",
+			title: "Spunky Selia 😉",
+			artist: "ISB52765277",
+			artist_url: "https://x.com/ISB52765277",
+			art_url: "https://x.com/MrTalkingDino/status/2093013296593215842?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
@@ -8882,6 +8918,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/08d181ab95a1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c8a57b914d44.png",
+			title: "The joke is on the crabs; the swimsuit was coming off anyway. 🦀",
+			artist: "ryokuchanomoto",
+			artist_url: "https://x.com/ryokuchanomoto",
+			art_url: "https://x.com/MrTD2020/status/2092281521579368703?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l4necrmq9w4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cpw63j7.png",
 			title: "What if Larcei wore a high-leg leotard with bikini armor?",
@@ -10055,6 +10103,18 @@ var data = {
 			desc: "",
 			date_str: "June 2024",
 			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6f82a8b19498.jpg", "https://cdn.imgchest.com/files/37fd40c247c3.jpg", "https://cdn.imgchest.com/files/e797228bef31.jpg", "https://cdn.imgchest.com/files/ba4d8677e270.jpg", "https://cdn.imgchest.com/files/985ea829b93a.jpg", "https://cdn.imgchest.com/files/4e1eb96a7df9.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/8e3012e88ce0.jpg",
+			title: "(Not so) Stealthy Summer Seggs~ 🏖️",
+			artist: "THOR \(DeepRising\)",
+			artist_url: "https://www.pixiv.net/users/1059480",
+			art_url: "https://x.com/MrTD2020/status/2094130737897488727?s=20",
+			desc: "",
+			date_str: "August 2026",
+			tags: ["other_series", "larcei", "seliph", "nsfw"],
 			hidden: false
 		},
 		{

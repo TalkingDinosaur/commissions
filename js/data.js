@@ -181,6 +181,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/da8d28f864e5.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7f9964968019.jpg",
+			title: "Devious Selia~ 😏",
+			artist: "acre6422",
+			artist_url: "https://x.com/acre6422",
+			art_url: "https://x.com/MrTD2020/status/2094931512596779176?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cl6a294.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgc6nqvd4.png",
 			title: "Larcei Thunder Mage",
@@ -3214,6 +3226,18 @@ var data = {
 			desc: "",
 			date_str: "April 2022",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/27d7388ed5f5.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/54f695194cf5.jpg",
+			title: "Innocent tease 😉 ",
+			artist: "Galibra",
+			artist_url: "https://x.com/CameruptSauvage",
+			art_url: "https://x.com/CameruptSauvage/status/2094922945516777488?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -7790,6 +7814,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/77140880db9f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/37435abe1e4f.png",
+			title: "Seeing stars at the beach~ ⭐️",
+			artist: "Palette2_5D",
+			artist_url: null,
+			art_url: "https://x.com/MrTD2020/status/2095686462109086144?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/myd5cw5pmo4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcb9vxz7.jpg",
 			title: "Larcei dress lift",
@@ -10018,6 +10054,18 @@ var data = {
 			art_url: "https://x.com/heats46933/status/2056018419799978388?s=20",
 			desc: "",
 			date_str: "May 2026",
+			tags: ["fire_emblem", "larcei", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d57cbae1c107.png", "https://cdn.imgchest.com/files/152e5880a392.png", "https://cdn.imgchest.com/files/329b65758816.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b87d8c294526.png",
+			title: "NEWer Larcei Test Renders 3: The Final Season Part 1/1",
+			artist: "TheHeat",
+			artist_url: "https://x.com/heats46933",
+			art_url: "https://x.com/MrTalkingDino/status/2095679053428838409?s=20",
+			desc: "",
+			date_str: "September 2026",
 			tags: ["fire_emblem", "larcei", "sfw"],
 			hidden: false
 		},

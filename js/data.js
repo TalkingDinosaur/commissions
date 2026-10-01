@@ -61,6 +61,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/52a9d1c2b381.png", "https://cdn.imgchest.com/files/ac7c14585b96.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c36ee9f1beed.png",
+			title: "Larcei's Invitation~ ✌️",
+			artist: "7ten_2003",
+			artist_url: "https://x.com/7ten_2003",
+			art_url: "https://x.com/MrTD2020/status/2104605233846645099?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/f2106c46f7d8.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2da77b99fa94.png",
 			title: "Selia and the winds of Grannvale. 🍃",
@@ -2689,6 +2701,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/c659fcc9afcb.png", "https://cdn.imgchest.com/files/3529106b840a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/33a624b72a8f.png",
+			title: "You can lead a horse to Florina but you can't make it pull out. 🐴",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2100405558641873069",
+			desc: "Gift for a friend.",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/k739ck588x7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cm3ox24.jpg",
 			title: "Making new crusaders at the Scion Festival",
@@ -3406,6 +3430,18 @@ var data = {
 			desc: "",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/591c33418dac.jpg", "https://cdn.imgchest.com/files/552398e6e1cd.jpg", "https://cdn.imgchest.com/files/974de208d655.jpg", "https://cdn.imgchest.com/files/ca76e0fc5315.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ba3506bc2eae.png",
+			title: "The most beautiful woman in Norad \(on a windy day\). 😗💨",
+			artist: "Gouble",
+			artist_url: "https://x.com/gouble3",
+			art_url: "https://x.com/MrTD2020/status/2098274872636104934",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["rune_factory", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7094,6 +7130,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/f9a0b9cf5558.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c01884ff323a.png",
+			title: "Seaside Selia 🍃",
+			artist: "Mugitoro",
+			artist_url: "https://x.com/UMUM_0919",
+			art_url: "https://x.com/UMUM_0919/status/2102386469289808221?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcp29kk4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/84jdcl56rr4.jpg",
 			title: "Summer Larcei 2024",
@@ -7622,6 +7670,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7b21777a4e90.png", "https://cdn.imgchest.com/files/6c4b82fe8b43.png", "https://cdn.imgchest.com/files/3bc9c90eb3a9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5be249e71c54.png",
+			title: "Selia Smiles! 😁",
+			artist: "OdoruKaminoke",
+			artist_url: "https://x.com/OdoruKaminoke",
+			art_url: "https://x.com/MrTalkingDino/status/2102880245602992518?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/3yrgcqraj64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcjm9r2y.png",
 			title: "Larcei's new swimsuit",
@@ -7643,6 +7703,18 @@ var data = {
 			desc: "",
 			date_str: "February 2026",
 			tags: ["fire_emblem", "selia", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/8408305019bf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b035eecc4179.png",
+			title: "Together towards a bright future! ✨",
+			artist: "ooXIEJ315",
+			artist_url: "https://x.com/ooXIEJ315",
+			art_url: "https://x.com/ooXIEJ315/status/2104916695743910114?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
 			hidden: false
 		},
 		{
@@ -10943,6 +11015,18 @@ var data = {
 			desc: "",
 			date_str: "December 2025",
 			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4ecdc7cdf50a.png", "https://cdn.imgchest.com/files/edbd36950de8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4401e89bc6ec.png",
+			title: "Cheire and Elwin's special night at sea~ 💞",
+			artist: "Yukinyando",
+			artist_url: "https://x.com/Yukinyando",
+			art_url: "https://x.com/MrTD2020/status/2102637701904412893?s=20",
+			desc: "",
+			date_str: "September 2026",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{

@@ -337,6 +337,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/22e370bccb74.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b37ba1cd8aac.png",
+			title: "Embla hanging around 🦇",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/MrTD2020/status/2108591799271104655?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "embla", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2ee33857e695.png", "https://cdn.imgchest.com/files/59c15628a2ea.png"],
+			thumbnail: "https://cdn.imgchest.com/files/225da2de339b.png",
+			title: "Machu! Machu! Machu!",
+			artist: "AmphyShira",
+			artist_url: "https://x.com/AmphyShira",
+			art_url: "https://x.com/MrTD2020/status/2109819202031030749?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["other_series", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xco8a9l7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/wye3ckgvgg4.png",
 			title: "Pre-workout Stretch 1",
@@ -2197,6 +2221,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/d5845ac2a8b1.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/10d4d607ed71.jpg",
+			title: "Theodora expects exemplary service 💦",
+			artist: "Danderfull",
+			artist_url: "https://x.com/Danderfull_",
+			art_url: "https://x.com/Danderfull_/status/2111496663294714191?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/l7lxcrjlzk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3yrgcab33d4.png",
 			title: "Patty & Shannan dynamic",
@@ -2709,6 +2745,18 @@ var data = {
 			art_url: "https://x.com/MrTD2020/status/2100405558641873069",
 			desc: "Gift for a friend.",
 			date_str: "September 2026",
+			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c09118137f16.png", "https://cdn.imgchest.com/files/b2daa13cfa07.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d0c3378d8815.png",
+			title: "Peppe's A-Support attempt to woo Ultand that was cut from the game smh smh",
+			artist: "Decox",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/MrTD2020/status/2111861575057650051?s=20",
+			desc: "",
+			date_str: "October 2026",
 			tags: ["fire_emblem", "other_character", "nsfw"],
 			hidden: false
 		},
@@ -3706,6 +3754,18 @@ var data = {
 			desc: "",
 			date_str: "August 2025",
 			tags: ["fire_emblem", "larcei", "seliph", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b11e923802f7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/56d870f44e66.png",
+			title: "Aim for the stars~ 🌟",
+			artist: "Gurumo",
+			artist_url: "https://x.com/gurumo_",
+			art_url: "https://x.com/MrTD2020/status/2110402262858391885?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -9827,6 +9887,18 @@ var data = {
 			desc: "",
 			date_str: "July 2020",
 			tags: ["fire_emblem", "other_character", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/95ab2ab1d70c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/55ec14db16df.png",
+			title: "Selia got a bigger sword 🗡️",
+			artist: "surippa1010",
+			artist_url: "https://x.com/surippa1010",
+			art_url: "https://x.com/surippa1010/status/2107353612238401949?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{

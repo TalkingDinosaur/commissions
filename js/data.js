@@ -3762,7 +3762,7 @@ var data = {
 			title: "Aim for the stars~ 🌟",
 			artist: "Gurumo",
 			artist_url: "https://x.com/gurumo_",
-			art_url: "https://x.com/MrTD2020/status/2110402262858391885?s=20",
+			art_url: "https://x.com/gurumo_/status/2110865040106553519?s=20",
 			desc: "",
 			date_str: "October 2026",
 			tags: ["fire_emblem", "larcei", "nsfw"],

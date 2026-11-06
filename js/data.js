@@ -253,6 +253,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/948e1e305574.png"],
+			thumbnail: "https://cdn.imgchest.com/files/94254af03e16.png",
+			title: "Larcei preparing a loving meal for her beloved~ 💕",
+			artist: "Akane",
+			artist_url: "https://x.com/ninfnyx",
+			art_url: "https://x.com/MrTD2020/status/2115470072747802932?a=I6Ke0TrbEEg2B5hBQd0&s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/c7a5caecf260.png"],
 			thumbnail: "https://cdn.imgchest.com/files/dbbed1f5fa75.png",
 			title: "Larcei with a chest sarashi!",
@@ -754,6 +766,18 @@ var data = {
 			desc: "",
 			date_str: "August 2026",
 			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4b4d84982d81.png", "https://cdn.imgchest.com/files/f677f83ec493.png", "https://cdn.imgchest.com/files/98ef0927cc3f.png", "https://cdn.imgchest.com/files/67caa0a2f487.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9990fdafbd7c.png",
+			title: "The rebellious princess of Kalxath, Cherie!",
+			artist: "Arikawa44",
+			artist_url: "https://x.com/arikawa44",
+			art_url: "https://x.com/MrTD2020/status/2114859852942221676?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["other_series", "other_character", "nsfw"],
 			hidden: false
 		},
 		{
@@ -2920,12 +2944,24 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/7cc50608c12f.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/91d6d5eb7f54.jpg",
 			title: "Larcei in her natural habitat. Nature is so beautiful~ 💕",
-			artist: "Dropout",
-			artist_url: "https://x.com/DropoutNSFW",
+			artist: "RykerVelkar",
+			artist_url: "https://x.com/RykerVelkarNSFW",
 			art_url: "https://x.com/DropoutNSFW/status/1995170699275915422?s=20",
 			desc: "",
 			date_str: "November 2025",
 			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/41a5202dff14.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3e4a2cd106a2.jpg",
+			title: "Are you the one? 👻",
+			artist: "RykerVelkar",
+			artist_url: "https://x.com/RykerVelkarNSFW",
+			art_url: "https://x.com/RykerVelkarNSFW/status/2112814999798501577?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["porkymon", "hex_maniac", "nsfw"],
 			hidden: false
 		},
 		{
@@ -4786,6 +4822,18 @@ var data = {
 			desc: "Muirne birthday gift for a friend",
 			date_str: "January 2025",
 			tags: ["fire_emblem", "other_character", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/cbc022636f9d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/14a70102c74a.png",
+			title: "Larcei's sundress at sunset~ 🌅",
+			artist: "LewdyBug",
+			artist_url: "https://x.com/BugLewdy",
+			art_url: "https://x.com/MrTD2020/status/2114139874106483144?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
 			hidden: false
 		},
 		{
@@ -7430,6 +7478,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/07519adbacd6.png", "https://cdn.imgchest.com/files/92ff4a97f693.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2b23d4c0b25a.png",
+			title: "God of Thunder Bush 🐈‍⬛⚡",
+			artist: "Nextoad",
+			artist_url: "https://x.com/nextoad2",
+			art_url: "https://x.com/MrTD2020/status/2116200433001840954",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/fd2a082f8f0a.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/f81773e6363e.jpg",
 			title: "Selia in the style of Skullgirls! ",
@@ -9854,6 +9914,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/17584883f053.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2826f2bad294.png",
+			title: "Selia peace! ✌️",
+			artist: "SStella_JP",
+			artist_url: "https://x.com/SStella_JP",
+			art_url: "https://x.com/MrTalkingDino/status/2113658778902303126?s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/y2pck2qdqq7.jpg", "https://cdn.imgchest.com/files/7lxcpearap7.jpg", "https://cdn.imgchest.com/files/4jdcvkx3xk4.jpg", "https://cdn.imgchest.com/files/yq9c3dk2kz4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqznkpe7.jpg",
 			title: "Let\'s make a baby",
@@ -10142,6 +10214,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/2bf6b028afb8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e5df4a191f86.png",
+			title: "That's Isaach's ass 🫡",
+			artist: "Tanquito_kun",
+			artist_url: "https://x.com/Tanquito_kun",
+			art_url: "https://x.com/MrTD2020/status/2116327244033650791?a=QTPB0Qsr4yyuERXiHrc&s=20",
+			desc: "",
+			date_str: "October 2026",
+			tags: ["fire_emblem", "larcei", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/78d8024a54b1.png", "https://cdn.imgchest.com/files/3ea9f3c18d4d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/8cf668aeb082.png",
 			title: "Selia leaps!",
@@ -10331,6 +10415,18 @@ var data = {
 			desc: "",
 			date_str: "April 2023",
 			tags: ["fire_emblem", "larcei", "seliph", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/61ccf2785ebf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6bd9f76f54b8.png",
+			title: "Block this overhead. 💥",
+			artist: "toastitos",
+			artist_url: "https://x.com/Toastitos",
+			art_url: "https://x.com/MrTalkingDino/status/2112941369149022227?s=20",
+			desc: "",
+			date_str: "Octoboer 2026",
+			tags: ["fire_emblem", "selia", "sfw"],
 			hidden: false
 		},
 		{
